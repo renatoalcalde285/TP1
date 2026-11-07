@@ -47,3 +47,73 @@ export const getDocumentStatus = async (
 
   return response.data;
 };
+
+export const getDocumentReview = async (
+  documentId: string
+) => {
+
+  const token =
+    localStorage.getItem("token");
+
+  const response = await axios.get(
+    `${API_URL}/documents/${documentId}/review`,
+    {
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    }
+  );
+
+  return response.data;
+};
+
+export const validateDocument = async (
+  documentId: string,
+  transcripcion: string
+) => {
+
+  const token =
+    localStorage.getItem("token");
+
+  const response = await axios.put(
+    `${API_URL}/documents/${documentId}/validate`,
+    {
+      transcripcion
+    },
+    {
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    }
+  );
+
+  return response.data;
+};
+
+export const getDocuments = async (
+  nombre?: string,
+  tipo?: string,
+  estado?: string
+) => {
+
+  const token =
+    localStorage.getItem("token");
+
+  const response =
+    await axios.get(
+      `${API_URL}/documents`,
+      {
+        headers: {
+          Authorization:
+            `Bearer ${token}`
+        },
+        params: {
+          nombre,
+          tipo,
+          estado
+        }
+      }
+    );
+
+  return response.data;
+};

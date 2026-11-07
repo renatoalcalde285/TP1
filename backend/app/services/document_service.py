@@ -5,6 +5,8 @@ from fastapi import HTTPException
 from sqlalchemy.orm import Session
 from fastapi import HTTPException
 
+from app.models.documento_archivo import DocumentoArchivo
+
 from app.core.storage import (
     s3_client,
     BUCKET_NAME
@@ -13,6 +15,18 @@ from app.core.storage import (
 from app.models.documento import (
     Documento,
     EstadoDocumento
+)
+
+from app.models.extraccion_documento import (
+    ExtraccionDocumento
+)
+
+from app.models.extraccion_documento import (
+    ExtraccionDocumento
+)
+
+from app.schemas.document_validation import (
+    DocumentValidationRequest
 )
 
 from app.models.documento_archivo import DocumentoArchivo
@@ -147,3 +161,245 @@ class DocumentService:
             "estado": documento.estado.value,
             "fecha_carga": documento.fecha_carga
         }
+
+    @staticmethod
+    def get_document_review(
+        db: Session,
+        document_id: int
+    ):
+
+        documento = (
+            db.query(Documento)
+            .filter(
+                Documento.id_documento == document_id
+            )
+            .first()
+        )
+
+        if not documento:
+            raise HTTPException(
+                status_code=404,
+                detail="Documento no encontrado"
+            )
+
+        extraccion = (
+            db.query(ExtraccionDocumento)
+            .filter(
+                ExtraccionDocumento.id_documento
+                == document_id
+            )
+            .order_by(
+                ExtraccionDocumento.id_extraccion.desc()
+            )
+            .first()
+        )
+
+        if not extraccion:
+            raise HTTPException(
+                status_code=404,
+                detail="No existe extracción asociada"
+            )
+
+        archivo = (
+            db.query(DocumentoArchivo)
+            .filter(
+                DocumentoArchivo.id_documento
+                == document_id
+            )
+            .first()
+        )
+
+        return {
+            "id_documento":
+                documento.id_documento,
+
+            "titulo":
+                documento.titulo,
+
+            "estado":
+                documento.estado.value,
+
+            "estado_validacion":
+                extraccion.estado_validacion,
+
+            "transcripcion":
+                extraccion.json_resultado.get(
+                    "texto",
+                    ""
+                ),
+
+            "datos_estructurados":
+                extraccion.json_resultado.get(
+                    "datos_estructurados",
+                    {}
+                ),
+
+            "tiempo_procesamiento_ms":
+                extraccion.tiempo_procesamiento_ms,
+
+            "ruta_imagen":
+                archivo.ruta_almacenamiento
+                if archivo
+                else None,
+
+            "nombre_original":
+                archivo.nombre_original
+                if archivo
+                else None
+        }
+    
+    @staticmethod
+    def validate_document(
+        db: Session,
+        document_id: int,
+        datos_estructurados: dict
+    ):
+
+        extraccion = (
+            db.query(ExtraccionDocumento)
+            .filter(
+                ExtraccionDocumento.id_documento
+                == document_id
+            )
+            .order_by(
+                ExtraccionDocumento.id_extraccion.desc()
+            )
+            .first()
+        )
+
+        if not extraccion:
+
+            raise HTTPException(
+                status_code=404,
+                detail="Extracción no encontrada"
+            )
+
+
+        nuevo_resultado = {
+            **extraccion.json_resultado
+        }
+
+        nuevo_resultado[
+            "datos_estructurados"
+        ] = datos_estructurados
+
+        extraccion.json_resultado = nuevo_resultado
+
+        extraccion.estado_validacion = (
+            "VALIDADO"
+        )
+
+
+        db.commit()
+
+        db.refresh(extraccion)
+
+        return {
+            "message":
+            "Documento validado correctamente",
+            
+            "estado_validacion":
+            extraccion.estado_validacion,
+            
+            "texto":
+            extraccion.json_resultado.get(
+                "texto"
+            )
+        }
+
+    @staticmethod
+    def get_documents(
+        db: Session,
+        nombre: str | None = None,
+        tipo: str | None = None,
+        estado: str | None = None
+    ):
+
+
+        documentos = (
+            db.query(
+                Documento,
+                ExtraccionDocumento
+            )
+            .join(
+                ExtraccionDocumento,
+                Documento.id_documento
+                == ExtraccionDocumento.id_documento
+            )
+            .order_by(
+                Documento.id_documento.desc()
+            )
+            .all()
+        )
+
+        resultado = []
+
+        for documento, extraccion in documentos:
+
+            datos = (
+                extraccion.json_resultado
+                .get(
+                    "datos_estructurados",
+                    {}
+                )
+            )
+
+            resultado.append(
+                {
+                    "id_documento":
+                        documento.id_documento,
+
+                    "titulo":
+                        documento.titulo,
+
+                    "estado":
+                        documento.estado.value,
+
+                    "estado_validacion":
+                        extraccion.estado_validacion,
+
+                    "tipo_documento":
+                        datos.get(
+                            "tipo_documento",
+                            ""
+                        ),
+
+                    "nombre":
+                        datos.get(
+                            "paciente",
+                            {}
+                        ).get(
+                            "nombre",
+                            ""
+                        )
+                }
+            )
+
+        if nombre:
+
+            resultado = [
+                doc
+                for doc in resultado
+                if nombre.lower()
+                in doc["nombre"].lower()
+            ]
+
+        if tipo:
+
+            resultado = [
+                doc
+                for doc in resultado
+                if tipo.lower()
+                in doc["tipo_documento"].lower()
+            ]
+
+        if estado:
+
+            resultado = [
+                doc
+                for doc in resultado
+                if estado.lower()
+                == doc["estado_validacion"].lower()
+            ]
+
+        return resultado

@@ -9,8 +9,15 @@ from fastapi import (
 )
 
 from model_service import (
-    transcribir_acta
+    transcribir_acta,
+    extraer_campos_texto
 )
+
+from pydantic import BaseModel
+
+class ExtractionRequest(BaseModel):
+    texto: str
+
 
 app = FastAPI(
     title="INEN Qwen Server"
@@ -46,3 +53,14 @@ async def transcribir(
         "texto": texto,
         "tiempo_segundos": tiempo
     }
+
+@app.post("/extraer-campos")
+def extraer_campos(
+    request: ExtractionRequest
+):
+
+    resultado = extraer_campos_texto(
+        request.texto
+    )
+
+    return resultado

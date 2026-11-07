@@ -1,7 +1,10 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-import { login } from "../services/authService";
+import {
+  login,
+  getCurrentUser
+} from "../services/authService";
 
 import "../styles/login.css";
 
@@ -30,13 +33,27 @@ export default function LoginPage() {
         data.access_token
       );
 
-      navigate("/upload");
+      const user =
+        await getCurrentUser();
+
+      if (
+        user.rol === "AUDITOR"
+      ) {
+
+        navigate("/audit");
+
+      } else {
+
+        navigate("/upload");
+
+      }
 
     } catch {
 
       setError(
         "Usuario o contraseña incorrectos"
       );
+
     }
   };
 
@@ -56,14 +73,18 @@ export default function LoginPage() {
 
         <div className="form-group">
 
-          <label>Usuario</label>
+          <label>
+            Usuario
+          </label>
 
           <input
             type="text"
             placeholder="Ingrese su usuario"
             value={email}
             onChange={(e) =>
-              setEmail(e.target.value)
+              setEmail(
+                e.target.value
+              )
             }
           />
 
@@ -71,22 +92,25 @@ export default function LoginPage() {
 
         <div className="form-group">
 
-          <label>Contraseña</label>
+          <label>
+            Contraseña
+          </label>
 
           <input
             type="password"
             placeholder="Ingrese su contraseña"
             value={password}
             onChange={(e) =>
-              setPassword(e.target.value)
+              setPassword(
+                e.target.value
+              )
             }
           />
 
         </div>
 
         {
-          error &&
-          (
+          error && (
             <p
               style={{
                 color: "red",

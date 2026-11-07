@@ -7,6 +7,9 @@ import {
 import LoginPage from "./pages/LoginPage";
 import UploadPage from "./pages/UploadPage";
 import ProcessingPage from "./pages/ProcessingPage";
+import ReviewPage from "./pages/ReviewPage";
+import AuditDashboardPage from "./pages/AuditDashboardPage";
+
 
 function App() {
 
@@ -29,6 +32,16 @@ function App() {
         <Route
           path="/processing/:documentId"
           element={<ProcessingPage />}
+        />
+
+        <Route
+          path="/review/:documentId"
+          element={<ReviewPage />}
+        />
+
+        <Route
+          path="/audit"
+          element={<AuditDashboardPage />}
         />
 
       </Routes>

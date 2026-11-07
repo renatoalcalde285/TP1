@@ -1,13 +1,47 @@
-PROMPT = """
-Transcribe todo el texto visible en la imagen.
+PROMPT_EXTRACT = """
+Analiza el texto proporcionado.
 
-Mantén el orden original.
+Devuelve únicamente un JSON válido.
 
-No resumas.
+Estructura:
 
-No interpretes.
+{
+  "tipo_documento": "",
 
-No inventes información.
+  "paciente": {
+    "nombre": "",
+    "documento_identidad": "",
+    "sexo": "",
+    "edad": "",
+    "fecha_nacimiento": ""
+  },
 
-Devuelve únicamente la transcripción.
+  "atencion": {
+    "fecha_atencion": "",
+    "hora_atencion": "",
+    "ipress": "",
+    "medico": ""
+  },
+
+  "consulta": {
+    "motivo_consulta": "",
+    "anamnesis": ""
+  },
+
+  "diagnostico": {
+    "cie10": "",
+    "descripcion": ""
+  },
+
+  "tratamiento": "",
+
+  "observaciones": ""
+}
+
+Si un dato no existe,
+devuelve una cadena vacía.
+
+No devuelvas texto adicional.
+No expliques nada.
+Solo devuelve JSON válido.
 """

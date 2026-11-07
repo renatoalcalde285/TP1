@@ -23,6 +23,9 @@ from app.security.jwt import (
     create_access_token
 )
 
+from app.security.password import (
+    verify_password
+)
 
 router = APIRouter(
     prefix="/auth",
@@ -54,6 +57,23 @@ def login(
             detail="Credenciales inválidas"
         )
 
+    if not usuario.activo:
+
+        raise HTTPException(
+            status_code=403,
+            detail="Usuario deshabilitado"
+        )
+
+    if not verify_password(
+        request.password,
+        usuario.password_hash
+    ):
+
+        raise HTTPException(
+            status_code=401,
+            detail="Credenciales inválidas"
+        )
+
     token = create_access_token(
         {
             "sub": str(
@@ -76,8 +96,15 @@ def me(
 ):
 
     return {
-        "id_usuario": current_user.id_usuario,
-        "nombre": current_user.nombre,
-        "email": current_user.email,
-        "rol": current_user.rol
+        "id_usuario":
+            current_user.id_usuario,
+
+        "nombre":
+            current_user.nombre,
+
+        "email":
+            current_user.email,
+
+        "rol":
+            current_user.rol
     }

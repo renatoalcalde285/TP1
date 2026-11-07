@@ -19,9 +19,14 @@ type EstadoDocumento =
   | "PROCESADO"
   | "ERROR";
 
+import {
+  useNavigate
+} from "react-router-dom";
+
 export default function ProcessingPage() {
 
   const { documentId } = useParams();
+  const navigate = useNavigate();
 
   const [estado, setEstado] =
     useState<EstadoDocumento>(
@@ -44,6 +49,16 @@ export default function ProcessingPage() {
         setEstado(
           data.estado
         );
+
+        if (
+              data.estado === "PROCESADO"
+            ) {
+
+              navigate(
+                `/review/${documentId}`
+              );
+
+            }
 
       } catch (error) {
 
