@@ -403,3 +403,28 @@ class DocumentService:
             ]
 
         return resultado
+
+    @staticmethod
+    def export_document_json(
+        db: Session,
+        document_id: int
+    ):
+        extraccion = (
+            db.query(ExtraccionDocumento)
+            .filter(
+                ExtraccionDocumento.id_documento
+                == document_id
+            )
+            .order_by(
+                ExtraccionDocumento.id_extraccion.desc()
+            )
+            .first()
+        )
+
+        if not extraccion:
+            raise HTTPException(
+                status_code=404,
+                detail="Extracción no encontrada"
+            )
+
+        return extraccion.json_resultado

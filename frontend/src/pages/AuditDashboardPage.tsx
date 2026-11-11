@@ -8,7 +8,8 @@ import {
 } from "react-router-dom";
 
 import {
-  getDocuments
+  getDocuments,
+  exportDocumentJson
 } from "../services/documentService";
 
 export default function AuditDashboardPage() {
@@ -33,6 +34,55 @@ export default function AuditDashboardPage() {
 
   const [selectedDocument, setSelectedDocument] =
     useState<any>(null);
+  
+  const handleExportJson = async () => {
+
+  if (!selectedDocument) return;
+
+  try {
+
+    const data =
+      await exportDocumentJson(
+        selectedDocument.id_documento.toString()
+      );
+
+    const blob = new Blob(
+      [
+        JSON.stringify(
+          data,
+          null,
+          2
+        )
+      ],
+      {
+        type: "application/json"
+      }
+    );
+
+    const url =
+      window.URL.createObjectURL(blob);
+
+    const a =
+      document.createElement("a");
+
+    a.href = url;
+
+    a.download =
+      `documento_${selectedDocument.id_documento}.json`;
+
+    a.click();
+
+    window.URL.revokeObjectURL(url);
+
+  } catch (error) {
+
+    console.error(error);
+
+    alert(
+      "Error al exportar documento"
+    );
+  }
+};
 
   const loadDocuments =
     async () => {
@@ -511,6 +561,21 @@ export default function AuditDashboardPage() {
           }}
         >
           Auditar Documento
+        </button>
+
+        <button
+          onClick={handleExportJson}
+          style={{
+            padding: "12px 20px",
+            background: "#16a34a",
+            color: "#fff",
+            border: "none",
+            borderRadius: "8px",
+            cursor: "pointer",
+            marginLeft: "10px"
+          }}
+        >
+          Exportar JSON
         </button>
 
       </>

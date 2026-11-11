@@ -92,10 +92,26 @@ def get_document_status(
 @router.get("/{document_id}/review")
 def get_document_review(
     document_id: int,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    current_user: Usuario = Depends(
+        require_role("AUDITOR")
+    )
 ):
 
     return DocumentService.get_document_review(
+        db=db,
+        document_id=document_id
+    )
+
+@router.get("/{document_id}/export/json")
+def export_document_json(
+    document_id: int,
+    db: Session = Depends(get_db),
+    current_user: Usuario = Depends(
+        require_role("AUDITOR")
+    )
+):
+    return DocumentService.export_document_json(
         db=db,
         document_id=document_id
     )
@@ -104,7 +120,7 @@ def get_document_review(
 @router.get("/{document_id}/image")
 def get_document_image(
     document_id: int,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
 ):
 
     archivo = (
@@ -140,22 +156,10 @@ def get_document_image(
 def validate_document(
     document_id: int,
     payload: DocumentValidationRequest,
-    db: Session = Depends(get_db)
-):
-
-    return DocumentService.validate_document(
-        db=db,
-        document_id=document_id,
-        transcripcion=payload.transcripcion
+    db: Session = Depends(get_db),
+    current_user: Usuario = Depends(
+        require_role("AUDITOR")
     )
-
-
-@router.get("")
-def get_documents(
-    nombre: str | None = None,
-    tipo: str | None = None,
-    estado: str | None = None,
-    db: Session = Depends(get_db)
 ):
 
     return DocumentService.validate_document(
@@ -164,3 +168,22 @@ def get_documents(
     datos_estructurados=
         payload.datos_estructurados
 )
+
+
+@router.get("")
+def get_documents(
+    nombre: str | None = None,
+    tipo: str | None = None,
+    estado: str | None = None,
+    db: Session = Depends(get_db),
+    current_user: Usuario = Depends(
+        require_role("AUDITOR")
+    )
+):
+
+    return DocumentService.get_documents(
+        db=db,
+        nombre=nombre,
+        tipo=tipo,
+        estado=estado
+    )

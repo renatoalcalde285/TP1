@@ -43,6 +43,15 @@ def clahe_filter(img):
         cv2.COLOR_LAB2BGR
     )
 
+def bilateral_filter(img):
+    
+    return cv2.bilateralFilter(
+        img,
+        d=9,
+        sigmaColor=75,
+        sigmaSpace=75
+    )
+
 
 def sharpen_filter(img):
 
@@ -133,13 +142,23 @@ def preprocess_document(
     )
 
     # ==========================================
-    # SHARPEN SIEMPRE
+    # FILTRO BILATERAL
     # ==========================================
 
-    arr = sharpen_filter(arr)
+    arr = bilateral_filter(arr)
 
     print(
-        "[FILTROS] Sharpen aplicado"
+        "[FILTROS] Bilateral aplicado"
+    )
+
+    # ==========================================
+    # CLAHE
+    # ==========================================
+
+    arr = clahe_filter(arr)
+
+    print(
+        "[FILTROS] CLAHE aplicado"
     )
 
     resultado = Image.fromarray(

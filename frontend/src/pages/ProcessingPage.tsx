@@ -1,16 +1,6 @@
-import {
-  useEffect,
-  useState
-} from "react";
-
-import {
-  useParams
-} from "react-router-dom";
-
-import {
-  getDocumentStatus
-} from "../services/documentService";
-
+import { useEffect, useState } from "react";
+import { useParams, useNavigate } from "react-router-dom";
+import { getDocumentStatus } from "../services/documentService";
 import "../styles/processing.css";
 
 type EstadoDocumento =
@@ -19,51 +9,38 @@ type EstadoDocumento =
   | "PROCESADO"
   | "ERROR";
 
-import {
-  useNavigate
-} from "react-router-dom";
-
 export default function ProcessingPage() {
-
   const { documentId } = useParams();
   const navigate = useNavigate();
 
   const [estado, setEstado] =
-    useState<EstadoDocumento>(
-      "PENDIENTE"
-    );
+    useState<EstadoDocumento>("PENDIENTE");
 
   useEffect(() => {
-
     if (!documentId) return;
 
+    let redirected = false;
+
     const fetchStatus = async () => {
-
       try {
+        const data = await getDocumentStatus(documentId);
 
-        const data =
-          await getDocumentStatus(
-            documentId
-          );
-
-        setEstado(
-          data.estado
-        );
+        setEstado(data.estado);
 
         if (
-              data.estado === "PROCESADO"
-            ) {
+          data.estado === "PROCESADO" &&
+          !redirected
+        ) {
+          redirected = true;
 
-              navigate(
-                `/review/${documentId}`
-              );
+          setEstado("PROCESADO");
 
-            }
-
+          setTimeout(() => {
+            navigate("/upload");
+          }, 2000);
+        }
       } catch (error) {
-
         console.error(error);
-
         setEstado("ERROR");
       }
     };
@@ -75,62 +52,43 @@ export default function ProcessingPage() {
       3000
     );
 
-    return () =>
-      clearInterval(interval);
-
-  }, [documentId]);
+    return () => clearInterval(interval);
+  }, [documentId, navigate]);
 
   const getProgress = () => {
-
     switch (estado) {
-
       case "PENDIENTE":
         return 25;
-
       case "PROCESANDO":
         return 75;
-
       case "PROCESADO":
         return 100;
-
       case "ERROR":
         return 0;
-
       default:
         return 0;
     }
   };
 
   const getMessage = () => {
-
     switch (estado) {
-
       case "PENDIENTE":
         return "Documento en cola...";
-
       case "PROCESANDO":
         return "Procesando documento...";
-
       case "PROCESADO":
         return "Proceso completado";
-
       case "ERROR":
         return "Error durante el procesamiento";
-
       default:
         return "";
     }
   };
 
   return (
-
     <div className="processing-page">
-
       <div className="processing-card">
-
-        <h2>
-          Procesamiento del documento
-        </h2>
+        <h2>Procesamiento del documento</h2>
 
         <p>
           El documento está siendo procesado por el sistema
@@ -141,13 +99,13 @@ export default function ProcessingPage() {
         </div>
 
         <div
-            style={{
-                marginTop: "20px",
-                marginBottom: "20px",
-                fontWeight: "600"
-            }}
-            >
-            Estado actual: {estado}
+          style={{
+            marginTop: "20px",
+            marginBottom: "20px",
+            fontWeight: "600"
+          }}
+        >
+          Estado actual: {estado}
         </div>
 
         <button
@@ -158,34 +116,22 @@ export default function ProcessingPage() {
         </button>
 
         <div className="progress-container">
-
           <div className="progress-info">
+            <span>{getMessage()}</span>
 
-            <span>
-              {getMessage()}
-            </span>
-
-            <span>
-              {getProgress()}%
-            </span>
-
+            <span>{getProgress()}%</span>
           </div>
 
           <div className="progress-bar">
-
             <div
               className="progress-fill"
               style={{
                 width: `${getProgress()}%`
               }}
             />
-
           </div>
-
         </div>
-
       </div>
-
     </div>
   );
 }
