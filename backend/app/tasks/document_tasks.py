@@ -1,5 +1,6 @@
 import io
 import time
+from wsgiref import headers
 import requests
 
 from PIL import Image
@@ -7,7 +8,10 @@ from PIL import Image
 from app.core.celery_app import celery_app
 from app.core.database import SessionLocal
 
-from app.core.settings import QWEN_URL
+from app.core.settings import (
+    QWEN_URL,
+    QWEN_API_KEY
+)
 
 from app.core.storage import (
     s3_client,
@@ -29,6 +33,10 @@ from app.models.extraccion_documento import (
 
 from app.services.image_processing import (
     preprocess_document
+)
+
+from app.models.extraccion_detalle import (
+    ExtraccionDetalle
 )
 
 
@@ -135,8 +143,11 @@ def process_document_task(document_id: int):
 
         inicio = time.perf_counter()
 
+        headers = {
+         "X-API-Key": QWEN_API_KEY
+        }
         respuesta = requests.post(
-            f"{QWEN_URL}/transcribir",
+            f"{QWEN_URL}/ocr",
             files={
                 "file": (
                     archivo.nombre_original,
@@ -144,6 +155,7 @@ def process_document_task(document_id: int):
                     "image/jpeg"
                 )
             },
+            headers=headers,
             timeout=900
         )
 
@@ -151,28 +163,33 @@ def process_document_task(document_id: int):
 
         resultado = respuesta.json()
 
-        respuesta_campos = requests.post(
-            f"{QWEN_URL}/extraer-campos",
-            json={
-                "texto": resultado["texto"]
+        print("RESPUESTA OCR")
+        print(resultado)
+
+        buffer.seek(0)
+
+        respuesta_estructura = requests.post(
+            f"{QWEN_URL}/extraer",
+            files={
+                "file": (
+                    archivo.nombre_original,
+                    buffer,
+                    "image/jpeg"
+                )
             },
+            headers=headers,
             timeout=300
         )
 
-        respuesta_campos.raise_for_status()
+        respuesta_estructura.raise_for_status()
 
-        datos_estructurados = (
-            respuesta_campos.json()
-        )
-
-        resultado["datos_estructurados"] = (
-            datos_estructurados
-        )
-
+        resultado_completo = respuesta_estructura.json()
+        
         fin = time.perf_counter()
 
         tiempo_ms = int(
-            (fin - inicio) * 1000
+            resultado_completo["procesamiento"]["tiempo_total_s"]
+            * 1000
         )
 
         print(
@@ -183,7 +200,7 @@ def process_document_task(document_id: int):
             id_documento=documento.id_documento,
             id_archivo=archivo.id_archivo,
             id_modelo=1,
-            json_resultado=resultado,
+            json_resultado=resultado_completo,
             estado_validacion="SIN_REVISAR",
             metrica_confianza=None,
             tiempo_procesamiento_ms=tiempo_ms
@@ -196,6 +213,27 @@ def process_document_task(document_id: int):
         )
 
         db.commit()
+        db.refresh(extraccion)
+
+        campos = flatten(
+            resultado_completo["datos"]
+        )
+
+        for campo, valor in campos.items():
+
+            detalle = ExtraccionDetalle(
+                id_extraccion=extraccion.id_extraccion,
+                campo=campo,
+                valor_extraido=str(valor)
+                    if valor is not None
+                    else "",
+                revisado=False
+            )
+
+            db.add(detalle)
+
+        db.commit()
+
 
         print(
             f"Documento {document_id} "
@@ -220,10 +258,43 @@ def process_document_task(document_id: int):
                 EstadoDocumento.ERROR
             )
 
-            db.commit()
+            db.commit() 
 
         raise
 
     finally:
 
         db.close()
+
+
+def flatten(data, parent=""):
+    items = {}
+
+    if isinstance(data, dict):
+        for key, value in data.items():
+            nuevo = (
+                f"{parent}.{key}"
+                if parent
+                else key
+            )
+
+            items.update(
+                flatten(value, nuevo)
+            )
+
+    elif isinstance(data, list):
+        for i, value in enumerate(data):
+
+            nuevo = (
+                f"{parent}.{i}"
+            )
+
+            items.update(
+                flatten(value, nuevo)
+            )
+
+    else:
+
+        items[parent] = data
+
+    return items

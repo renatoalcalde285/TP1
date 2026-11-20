@@ -9,6 +9,8 @@ import UploadPage from "./pages/UploadPage";
 import ProcessingPage from "./pages/ProcessingPage";
 import ReviewPage from "./pages/ReviewPage";
 import AuditDashboardPage from "./pages/AuditDashboardPage";
+import AuditSuccessPage from "./pages/AuditSuccessPage";
+import ProcessingBatchPage from "./pages/ProcessingBatchPage";
 
 
 function App() {
@@ -42,6 +44,18 @@ function App() {
         <Route
           path="/audit"
           element={<AuditDashboardPage />}
+        />
+
+        <Route
+          path="/audit-success/:documentId"
+          element={<AuditSuccessPage />}
+        />
+
+        <Route
+          path="/processing-batch"
+          element={
+            <ProcessingBatchPage />
+          }
         />
 
       </Routes>

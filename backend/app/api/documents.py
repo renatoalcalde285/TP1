@@ -166,7 +166,9 @@ def validate_document(
     db=db,
     document_id=document_id,
     datos_estructurados=
-        payload.datos_estructurados
+        payload.datos_estructurados,
+    usuario_validador_id=
+        current_user.id_usuario
 )
 
 

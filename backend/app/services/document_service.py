@@ -1,9 +1,10 @@
 from pathlib import Path
 from uuid import uuid4
+import hashlib
 
 from fastapi import HTTPException
 from sqlalchemy.orm import Session
-from fastapi import HTTPException
+from datetime import datetime
 
 from app.models.documento_archivo import DocumentoArchivo
 
@@ -12,13 +13,9 @@ from app.core.storage import (
     BUCKET_NAME
 )
 
-from app.models.documento import (
+from app.models.documento import (  
     Documento,
     EstadoDocumento
-)
-
-from app.models.extraccion_documento import (
-    ExtraccionDocumento
 )
 
 from app.models.extraccion_documento import (
@@ -30,6 +27,10 @@ from app.schemas.document_validation import (
 )
 
 from app.models.documento_archivo import DocumentoArchivo
+
+from app.models.extraccion_detalle import (
+    ExtraccionDetalle
+)
 
 
 class DocumentService:
@@ -76,6 +77,10 @@ class DocumentService:
 
         content = await file.read()
 
+        hash_archivo = hashlib.sha256(
+            content
+        ).hexdigest()
+
         if len(content) == 0:
             raise HTTPException(
                 status_code=400,
@@ -119,7 +124,8 @@ class DocumentService:
             ruta_almacenamiento=object_name,
             nombre_original=file.filename,
             formato=file.content_type,
-            tamano_bytes=len(content)
+            tamano_bytes=len(content),
+            hash_archivo=hash_archivo
         )
 
         db.add(archivo)
@@ -224,13 +230,19 @@ class DocumentService:
 
             "transcripcion":
                 extraccion.json_resultado.get(
-                    "texto",
+                    "texto_completo",
                     ""
                 ),
 
             "datos_estructurados":
                 extraccion.json_resultado.get(
-                    "datos_estructurados",
+                    "datos",
+                    {}
+                ),
+
+            "procesamiento":
+                extraccion.json_resultado.get(
+                    "procesamiento",
                     {}
                 ),
 
@@ -247,12 +259,43 @@ class DocumentService:
                 if archivo
                 else None
         }
-    
+
+    @staticmethod
+    def flatten_dict(
+        data: dict,
+        parent_key: str = ""
+    ):
+        items = {}
+
+        for key, value in data.items():
+
+            new_key = (
+                f"{parent_key}.{key}"
+                if parent_key
+                else key
+            )
+
+            if isinstance(value, dict):
+
+                items.update(
+                    DocumentService.flatten_dict(
+                        value,
+                        new_key
+                    )
+                )
+
+            else:
+
+                items[new_key] = value
+
+        return items
+
     @staticmethod
     def validate_document(
         db: Session,
         document_id: int,
-        datos_estructurados: dict
+        datos_estructurados: dict,
+        usuario_validador_id: int
     ):
 
         extraccion = (
@@ -274,13 +317,31 @@ class DocumentService:
                 detail="Extracción no encontrada"
             )
 
+        datos_originales = (
+            extraccion.json_resultado.get(
+                "datos",
+                {}
+            )
+        )
+
+        campos_originales = (
+            DocumentService.flatten_dict(
+                datos_originales
+            )
+        )
+
+        campos_corregidos = (
+            DocumentService.flatten_dict(
+                datos_estructurados
+            )
+        )
 
         nuevo_resultado = {
             **extraccion.json_resultado
         }
 
         nuevo_resultado[
-            "datos_estructurados"
+            "datos"
         ] = datos_estructurados
 
         extraccion.json_resultado = nuevo_resultado
@@ -289,6 +350,58 @@ class DocumentService:
             "VALIDADO"
         )
 
+        documento = (
+            db.query(Documento)
+            .filter(
+                Documento.id_documento
+                == document_id
+            )
+            .first()
+        )
+
+        if documento:
+
+            documento.id_usuario_valida = (
+                usuario_validador_id
+            )
+
+            documento.fecha_validacion = (
+                datetime.utcnow()
+            )
+
+            documento.estado = (
+                EstadoDocumento.VALIDADO
+            )
+
+        for campo in set(
+            list(campos_originales.keys()) +
+            list(campos_corregidos.keys())
+        ):
+
+            detalle = ExtraccionDetalle(
+                id_extraccion=
+                    extraccion.id_extraccion,
+
+                campo=campo,
+
+                valor_extraido=str(
+                    campos_originales.get(
+                        campo,
+                        ""
+                    )
+                ),
+
+                valor_corregido=str(
+                    campos_corregidos.get(
+                        campo,
+                        ""
+                    )
+                ),
+
+                revisado=True
+            )
+
+            db.add(detalle)
 
         db.commit()
 
@@ -296,15 +409,15 @@ class DocumentService:
 
         return {
             "message":
-            "Documento validado correctamente",
-            
+                "Documento validado correctamente",
+
             "estado_validacion":
-            extraccion.estado_validacion,
-            
+                extraccion.estado_validacion,
+
             "texto":
-            extraccion.json_resultado.get(
-                "texto"
-            )
+                extraccion.json_resultado.get(
+                    "texto_completo"
+                )
         }
 
     @staticmethod
@@ -339,7 +452,7 @@ class DocumentService:
             datos = (
                 extraccion.json_resultado
                 .get(
-                    "datos_estructurados",
+                    "datos",
                     {}
                 )
             )
@@ -427,4 +540,7 @@ class DocumentService:
                 detail="Extracción no encontrada"
             )
 
-        return extraccion.json_resultado
+        return extraccion.json_resultado.get(
+            "datos",
+            {}
+        )

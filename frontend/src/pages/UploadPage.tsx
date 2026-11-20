@@ -9,6 +9,14 @@ export default function UploadPage() {
 
   const navigate = useNavigate();
 
+  const handleLogout = () => {
+
+  localStorage.removeItem("token");
+
+  navigate("/");
+
+};
+
   const [files, setFiles] =
     useState<FileList | null>(null);
 
@@ -40,11 +48,17 @@ export default function UploadPage() {
       const data =
         await uploadDocuments(files);
 
-      const documentId =
-        data[0].id_documento;
+      const documentIds = data.map(
+        (item: any) => item.id_documento
+      );
+
+      sessionStorage.setItem(
+        "batchDocuments",
+        JSON.stringify(documentIds)
+      );
 
       navigate(
-        `/processing/${documentId}`
+        "/processing-batch"
       );
 
     } catch (error) {
@@ -64,6 +78,30 @@ export default function UploadPage() {
   return (
 
     <div className="upload-page">
+
+    <div
+      style={{
+        position: "absolute",
+        top: "20px",
+        right: "20px"
+      }}
+    >
+      <button
+        onClick={handleLogout}
+        style={{
+          padding: "10px 16px",
+          borderRadius: "8px",
+          border: "1px solid #cbd5e1",
+          background: "#475569",
+          color: "#ffffff",
+          cursor: "pointer",
+          fontWeight: 500,
+          boxShadow: "0 2px 6px rgba(0,0,0,.08)"
+        }}
+      >
+        Cerrar sesión
+      </button>
+    </div>
 
       <div className="upload-card">
 

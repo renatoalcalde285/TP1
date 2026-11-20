@@ -17,6 +17,14 @@ export default function AuditDashboardPage() {
   const navigate =
     useNavigate();
 
+  const handleLogout = () => {
+
+    localStorage.removeItem("token");
+
+    navigate("/");
+
+  };
+
   const [documents, setDocuments] =
     useState<any[]>([]);
 
@@ -180,11 +188,39 @@ export default function AuditDashboardPage() {
 
         <div
           style={{
-            color: "#64748b"
+            display: "flex",
+            alignItems: "center",
+            gap: "12px"
           }}
         >
-          Auditor
+
+          <span
+            style={{
+              color: "#64748b",
+              fontWeight: 500
+            }}
+          >
+            Auditor
+          </span>
+
+          <button
+            onClick={handleLogout}
+            style={{
+              padding: "8px 14px",
+              borderRadius: "8px",
+              border: "1px solid #d1d9e6",
+              background: "#64748b",
+              color: "#ffffff",
+              cursor: "pointer",
+              fontSize: "13px",
+              fontWeight: 500
+            }}
+          >
+            Cerrar sesión
+          </button>
+
         </div>
+
 
       </div>
 
@@ -306,7 +342,7 @@ export default function AuditDashboardPage() {
 
               <button
                 onClick={() =>
-                  setEstado("PENDIENTE")
+                  setEstado("SIN_REVISAR")
                 }
                 style={{
                   border: "none",
@@ -314,12 +350,12 @@ export default function AuditDashboardPage() {
                   padding: "6px 14px",
                   cursor: "pointer",
                   background:
-                    estado === "PENDIENTE"
+                    estado === "SIN_REVISAR"
                       ? "#facc15"
                       : "#e2e8f0"
                 }}
               >
-                Pendientes
+                Sin Revisar
               </button>
 
               <button
@@ -401,18 +437,7 @@ export default function AuditDashboardPage() {
 
                     </div>
 
-                    <div
-                      style={{
-                        marginTop: "6px",
-                        color: "#64748b",
-                        fontSize: "14px"
-                      }}
-                    >
-                      {
-                        doc.tipo_documento ||
-                        "Sin tipo"
-                      }
-                    </div>
+                    
 
                     <div
                       style={{
@@ -522,16 +547,7 @@ export default function AuditDashboardPage() {
             }
           </p>
 
-          <p>
-            <strong>
-              Tipo:
-            </strong>
-            {" "}
-            {
-              selectedDocument.tipo_documento ||
-              "Sin tipo"
-            }
-          </p>
+          
 
           <p>
             <strong>
