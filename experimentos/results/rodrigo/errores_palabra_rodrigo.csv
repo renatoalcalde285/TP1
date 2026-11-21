@@ -1,0 +1,8 @@
+modelo,sustituciones,eliminaciones,inserciones,visual (dist≤2 sin tildes/mayús.),léxica (dist>2),grafía/mayúscula/tilde
+florence2,10113,44721,102,2278,7801,34
+llava16,23699,24372,22964,6203,15088,2408
+qwen25vl,17252,6640,371,8488,6161,2603
+qwen25vl3b,19214,5763,654,9629,6553,3032
+qwen25vl3b_lora,22122,4753,768,10851,7372,3899
+qwen25vl7b_4bit,17624,7121,332,8517,6533,2574
+trocr,34131,12311,603,9964,23354,813

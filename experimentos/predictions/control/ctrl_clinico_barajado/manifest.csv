@@ -1,0 +1,929 @@
+id,image_path,text,is_header
+hc_00000_00,hc_00000_00.png,Nombre: Víctor Ramos García,True
+hc_00000_01,hc_00000_01.png,HC: 1441631,True
+hc_00000_02,hc_00000_02.png,F: 09/02/2016,True
+hc_00000_03,hc_00000_03.png,Edad: 82 a,True
+hc_00000_04,hc_00000_04.png,Sexo: M,True
+hc_00000_05,hc_00000_05.png,DX: partes blandas de Sarcoma,False
+hc_00000_06,hc_00000_06.png,"Tto: mg C4 c/8h, mcg EV 10 SC 300",False
+hc_00000_07,hc_00000_07.png,filgrastim metoclopramida,False
+hc_00000_08,hc_00000_08.png,Nota: hemocultivos obtenidas penicilina signos,False
+hc_00000_09,hc_00000_09.png,a No la tipificaron se punción fueron en y,False
+hc_00000_10,hc_00000_10.png,espacio sensible había ni sugestivos cadenas,False
+hc_00000_11,hc_00000_11.png,posteriormente de adenopatías del que Tres,False
+hc_00000_12,hc_00000_12.png,alteraciones cardiopericárdica. D10-D11 cocos,False
+hc_00000_13,hc_00000_13.png,observaron aspirativa silueta seriados,False
+hc_00000_14,hc_00000_14.png,grampositivos se recuperaron negativos.,False
+hc_00000_15,hc_00000_15.png,pneumoniae muestras por Streptococcus de,False
+hc_00000_16,hc_00000_16.png,como las En,False
+hc_00001_00,hc_00001_00.png,Nombre: Patricia Mamani Gutiérrez,True
+hc_00001_01,hc_00001_01.png,N° HCl: 2257657 F: 01/09/2018,True
+hc_00001_02,hc_00001_02.png,Edad: 45 años,True
+hc_00001_03,hc_00001_03.png,Sexo: F,True
+hc_00001_04,hc_00001_04.png,"Diagnóstico: Mieloma múltiple, desnutrición",False
+hc_00001_05,hc_00001_05.png,Rp: doxorrubicina,False
+hc_00001_06,hc_00001_06.png,Evol: enfermedad células negativo. meses agudeza fue,False
+hc_00001_07,hc_00001_07.png,"seguimiento, final de c/ de Después 15 resultado del de",False
+hc_00001_08,hc_00001_08.png,"oculares retiniana fotocoagulación Asimismo, su el sin",False
+hc_00001_09,hc_00001_09.png,complicaciones argón. 20/20 isquemia fue en visual c/ de,False
+hc_00001_10,hc_00001_10.png,falciformes otras láser permanece de La test tratada,False
+hc_00002_00,hc_00002_00.png,Paciente: Hugo Ríos Vargas,True
+hc_00002_01,hc_00002_01.png,N° HC: 6778825 F: 01/07/2020,True
+hc_00002_02,hc_00002_02.png,Edad: 25 años Sexo: M,True
+hc_00002_03,hc_00002_03.png,Diagnóstico: IIA Ca próstata EC de,False
+hc_00002_04,hc_00002_04.png,"Tratamiento: g VO ciclo oxaliplatino, c/8h",False
+hc_00002_05,hc_00002_05.png,"paclitaxel, 1 paracetamol 2",False
+hc_00002_06,hc_00002_06.png,Evolución: presente así excisión anterior Al,False
+hc_00002_07,hc_00002_07.png,conducta la derecha. estético región,False
+hc_00002_08,hc_00002_08.png,abordada del en compromiso La para hecho,False
+hc_00002_09,hc_00002_09.png,fue no lesión radiográfico elemento lingual,False
+hc_00002_10,hc_00002_10.png,lesión debido misma la presentaba,False
+hc_00002_11,hc_00002_11.png,quirúrgica. presencia neurofibromatosa fue,False
+hc_00002_12,hc_00002_12.png,inferior al en o examen la que la mandibular,False
+hc_00002_13,hc_00002_13.png,observado La adoptada no región de hipoplasia,False
+hc_00002_14,hc_00002_14.png,la quirúrgicamente como la paciente,False
+hc_00002_15,hc_00002_15.png,"retenido, 23 fue funcional para",False
+hc_00003_00,hc_00003_00.png,Paciente: Carmen Díaz Ramírez,True
+hc_00003_01,hc_00003_01.png,HC: 8062379,True
+hc_00003_02,hc_00003_02.png,Fecha: 03/11/2016,True
+hc_00003_03,hc_00003_03.png,Edad: 49 a Sexo: F,True
+hc_00003_04,hc_00003_04.png,"DX: de EC Hodgkin Linfoma IIIB, HTA",False
+hc_00003_05,hc_00003_05.png,"Tto: oxaliplatino tamoxifeno 3 mg ciclo 20 VO c/24h,",False
+hc_00003_06,hc_00003_06.png,Evol: tumoración amplios por márgenes adyuvante y que,False
+hc_00003_07,hc_00003_07.png,no Se consistió resección aplicación subsidiario,False
+hc_00003_08,hc_00003_08.png,intervención del y subyacente nódulo defecto La el,False
+hc_00003_09,hc_00003_09.png,directo la c/ quirúrgica. sobre de el completa de,False
+hc_00003_10,hc_00003_10.png,"opta cierre tumor la pulmonar, de quirúrgico tto",False
+hc_00003_11,hc_00003_11.png,extirpación en se quimioterapia del considera,False
+hc_00004_00,hc_00004_00.png,Nombre: Nelly Castillo Aguilar,True
+hc_00004_01,hc_00004_01.png,N° HCl: 5617014,True
+hc_00004_02,hc_00004_02.png,Fecha: 13/07/2023,True
+hc_00004_03,hc_00004_03.png,Edad: 48 a Sexo: F,True
+hc_00004_04,hc_00004_04.png,"DX: de Ca mama DM2 T3N0M0,",False
+hc_00004_05,hc_00004_05.png,"Tratamiento: cisplatino oxaliplatino,",False
+hc_00004_06,hc_00004_06.png,Nota: el incluso aspecto predominando áreas de presentó zonas.,False
+hc_00004_07,hc_00004_07.png,muchas discretamente las coloración El otras firme estudio,False
+hc_00004_08,hc_00004_08.png,necróticas aspecto en c/ extensas un blanquecina cartilaginoso.,False
+hc_00004_09,hc_00004_09.png,no había de material áreas y determinó un zonas aspectos,False
+hc_00004_10,hc_00004_10.png,microscópico mixoide elástica predominio citoplasma cantidades,False
+hc_00004_11,hc_00004_11.png,otras alargadas otro componente sarcomatoide zonas variables,False
+hc_00004_12,hc_00004_12.png,"necrosis, por tamaño patrón las aspecto claramente núcleos en",False
+hc_00004_13,hc_00004_13.png,"nodular, células gran de corte claro mixoide el y al",False
+hc_00004_14,hc_00004_14.png,Histológicamente y los ovoides zonas centrales global de muy,False
+hc_00004_15,hc_00004_15.png,"de de zonas en nódulos. consistencia había de perdido variables,",False
+hc_00004_16,hc_00004_16.png,"aunque e mucoide, estaba en acidófilo.",False
+hc_00005_00,hc_00005_00.png,Nombre: Silvia Núñez Sánchez,True
+hc_00005_01,hc_00005_01.png,N° HCl: 2949900 F: 12/07/2020,True
+hc_00005_02,hc_00005_02.png,Edad: 30 a Sexo: F,True
+hc_00005_03,hc_00005_03.png,Diagnóstico: de Ca ovario der. EC IIA,False
+hc_00005_04,hc_00005_04.png,"Rp: EV mg 5 c/12h c/4h, dexametasona mg 4 morfina SC",False
+hc_00005_05,hc_00005_05.png,"Nota: Una acenocumarol, cuadro favorable, digestiva realizada",False
+hc_00005_06,hc_00005_06.png,"en permanece días, acenocumarol. tto Tras del enoxaparina una",False
+hc_00005_07,hc_00005_07.png,c/ recibió 14 evolución mg/kg endoscopia c/12h) paciente 10 tto,False
+hc_00005_08,hc_00005_08.png,continuando durante tto después meses posteriormente c/,False
+hc_00005_09,hc_00005_09.png,asintomático c/ normal. pcte 15 c/ el de inicial El meses,False
+hc_00005_10,hc_00005_10.png,seguimiento fue (1 oral,False
+hc_00006_00,hc_00006_00.png,Pcte: Raquel Córdova Aguilar,True
+hc_00006_01,hc_00006_01.png,N° HC: 8645376 Fecha: 12/05/2016,True
+hc_00006_02,hc_00006_02.png,Edad: 65 años Sexo: F,True
+hc_00006_03,hc_00006_03.png,"Diagnóstico: Leucemia IIB, ERC",False
+hc_00006_04,hc_00006_04.png,linfoblástica EC aguda,False
+hc_00006_05,hc_00006_05.png,Tratamiento: mg VO 1 50 oxaliplatino EV,False
+hc_00006_06,hc_00006_06.png,"tramadol c/8h, fólico tab ácido C4",False
+hc_00006_07,hc_00006_07.png,"c/24h,",False
+hc_00006_08,hc_00006_08.png,Nota: por corta. nuevamente intervención,False
+hc_00006_09,hc_00006_09.png,de clínica by-pass cirugía realiza del,False
+hc_00006_10,hc_00006_10.png,catéter En íleo-femoral claudicación,False
+hc_00006_11,hc_00006_11.png,de bilateral le colocación c/ un ingresa,False
+hc_00006_12,hc_00006_12.png,febrero 2006 en primera de En se el,False
+hc_00006_13,hc_00006_13.png,postquirúrgica para epidural servicio,False
+hc_00006_14,hc_00006_14.png,analgesia una vascular,False
+hc_00007_00,hc_00007_00.png,Paciente: Lucía Castillo Núñez,True
+hc_00007_01,hc_00007_01.png,HC: 1890457,True
+hc_00007_02,hc_00007_02.png,F: 26/01/2023,True
+hc_00007_03,hc_00007_03.png,Edad: 89 años,True
+hc_00007_04,hc_00007_04.png,Sexo: F,True
+hc_00007_05,hc_00007_05.png,DX: Linfoma no Hodgkin T2N1M0,False
+hc_00007_06,hc_00007_06.png,"Rp: 1 1 fólico ácido ciclo tab VO VO 1 ferroso sulfato c/24h,",False
+hc_00007_07,hc_00007_07.png,tab c/24h,False
+hc_00007_08,hc_00007_08.png,Evol: la mas o negativo caso. resultado representativa muestra,False
+hc_00007_09,hc_00007_09.png,una del se normal neuroimagen todas En figura 1 la ellas c/,False
+hc_00007_10,hc_00007_10.png,composición con,False
+hc_00008_00,hc_00008_00.png,Pcte: Martha Aguilar Sánchez,True
+hc_00008_01,hc_00008_01.png,N° HC: 2768112 Fecha: 23/06/2021,True
+hc_00008_02,hc_00008_02.png,Edad: 86 a Sexo: F,True
+hc_00008_03,hc_00008_03.png,"Dx: Hodgkin de Linfoma EC anemia IIIB,",False
+hc_00008_04,hc_00008_04.png,"Rp: metotrexato tamoxifeno mg VO c/24h, EV",False
+hc_00008_05,hc_00008_05.png,"ceftriaxona c/24h, 2 20 2 ciclo g",False
+hc_00008_06,hc_00008_06.png,Nota: la prostatitis pcte. vésico-prostática que,False
+hc_00008_07,hc_00008_07.png,realizar próstata pudiera de una el en y Decidimos,False
+hc_00008_08,hc_00008_08.png,tratarse la de de cifra que elevación el cc.) en,False
+hc_00008_09,hc_00008_09.png,nueva de presentaba aguda leucocitos. Ante HBP,False
+hc_00008_10,hc_00008_10.png,atención una reinstaurar antibioterapia la (400,False
+hc_00008_11,hc_00008_11.png,contexto una gran y de EV ecografía que sospecha la,False
+hc_00008_12,hc_00008_12.png,la la llama una,False
+hc_00009_00,hc_00009_00.png,Paciente: Carmen Chávez Ramírez,True
+hc_00009_01,hc_00009_01.png,HC: 1045111 F: 05/03/2023,True
+hc_00009_02,hc_00009_02.png,Edad: 18 a Sexo: F,True
+hc_00009_03,hc_00009_03.png,DX: Mieloma I múltiple EC,False
+hc_00009_04,hc_00009_04.png,Tratamiento: anastrozol C4 1 VO mg c/24h,False
+hc_00009_05,hc_00009_05.png,Evol: en más vejiga la TAC vesical irregular con lado,False
+hc_00009_06,hc_00009_06.png,engrosamiento pared En en la y la siendo importante,False
+hc_00009_07,hc_00009_07.png,"que pared, se su Se de el de izquierdo renal ecografía",False
+hc_00009_08,hc_00009_08.png,de realiza observa vejiga. engrosamiento la difuso se,False
+hc_00009_09,hc_00009_09.png,"objetiva abdomino-pélvico,",False
+hc_00010_00,hc_00010_00.png,Nombre: Norma Cruz Espinoza,True
+hc_00010_01,hc_00010_01.png,HC: 4310996 F: 28/02/2025,True
+hc_00010_02,hc_00010_02.png,Edad: 83 años Sexo: F,True
+hc_00010_03,hc_00010_03.png,"Diagnóstico: obesidad pulmonar, Ca",False
+hc_00010_04,hc_00010_04.png,"Tto: VO carboplatino, c/24h 20 mg",False
+hc_00010_05,hc_00010_05.png,omeprazol,False
+hc_00010_06,hc_00010_06.png,Evolución: asas porciones volvulación,False
+hc_00010_07,hc_00010_07.png,incompleta que fue mostró de,False
+hc_00010_08,hc_00010_08.png,yeyunales probable malposición hacia,False
+hc_00010_09,hc_00010_09.png,intestinal desplazamiento que,False
+hc_00010_10,hc_00010_10.png,"mesentérico, El derecho masa e vacío",False
+hc_00010_11,hc_00010_11.png,aparato de se de la y de Se,False
+hc_00010_12,hc_00010_12.png,radiológico intestinales. c/ realizó,False
+hc_00010_13,hc_00010_13.png,yeyuno espiral de imagen,False
+hc_00010_14,hc_00010_14.png,exploración descartó dx tránsito,False
+hc_00010_15,hc_00010_15.png,quiste de dependiera malposición la,False
+hc_00010_16,hc_00010_16.png,genital. primeras en íleon,False
+hc_00010_17,hc_00010_17.png,ginecológica c/ Tras,False
+hc_00011_00,hc_00011_00.png,Paciente: Pedro Ramos Aguilar,True
+hc_00011_01,hc_00011_01.png,N° HC: 8642711,True
+hc_00011_02,hc_00011_02.png,F: 10/06/2024,True
+hc_00011_03,hc_00011_03.png,Edad: 49a Sexo: M,True
+hc_00011_04,hc_00011_04.png,Diagnóstico: T3N0M0 Tumor cerebral,False
+hc_00011_05,hc_00011_05.png,Tratamiento: tramadol 50 c/8h C6 EV,False
+hc_00011_06,hc_00011_06.png,mg,False
+hc_00011_07,hc_00011_07.png,Evolución: presentaba que NO marcado el,False
+hc_00011_08,hc_00011_08.png,estudio normal. en normal las Farnsworth,False
+hc_00011_09,hc_00011_09.png,del ectasia/engrosamiento edema una era de,False
+hc_00011_10,hc_00011_10.png,más OI cuadrantanopsia ambos se en el,False
+hc_00011_11,hc_00011_11.png,estrictamente. exoftalmos test era Se,False
+hc_00011_12,hc_00011_12.png,estudio de informó en campimétrico no,False
+hc_00011_13,hc_00011_13.png,"contexto el En El inferonasal, como solicitó",False
+hc_00011_14,hc_00011_14.png,OD (TC) OD pero el de de presentaba,False
+hc_00011_15,hc_00011_15.png,tomografía computerizada colores de,False
+hc_00011_16,hc_00011_16.png,papila ojo un en de era En vainas,False
+hc_00011_17,hc_00011_17.png,bilateral que defecto una fondo OD.,False
+hc_00012_00,hc_00012_00.png,Nombre: Jorge Rojas Salazar,True
+hc_00012_01,hc_00012_01.png,N° HCl: 9498793,True
+hc_00012_02,hc_00012_02.png,Fecha: 18/01/2024,True
+hc_00012_03,hc_00012_03.png,Edad: 48 a Sexo: M,True
+hc_00012_04,hc_00012_04.png,Dx: Ca colorrectal,False
+hc_00012_05,hc_00012_05.png,Tratamiento: 50 mg C4 tramadol EV,False
+hc_00012_06,hc_00012_06.png,c/8h,False
+hc_00012_07,hc_00012_07.png,Evol: juventud. cadera Refería ganado,False
+hc_00012_08,hc_00012_08.png,de de antec. Sometido renal. a hace la,False
+hc_00012_09,hc_00012_09.png,a izquierda a ovino litiasis Negaba,False
+hc_00012_10,hc_00012_10.png,exposición artroplastia conocidos en,False
+hc_00013_00,hc_00013_00.png,Nombre: Beatriz García Espinoza,True
+hc_00013_01,hc_00013_01.png,N° HCl: 525411 F: 13/02/2021,True
+hc_00013_02,hc_00013_02.png,Edad: 59a,True
+hc_00013_03,hc_00013_03.png,Sexo: F,True
+hc_00013_04,hc_00013_04.png,Diagnóstico: T3N0M0 Osteosarcoma,False
+hc_00013_05,hc_00013_05.png,"Tto: ferroso doxorrubicina, c/24h tab VO sulfato 1",False
+hc_00013_06,hc_00013_06.png,Evolución: meses semanal sigue hijos la de el en lo 498,False
+hc_00013_07,hc_00013_07.png,las mutacionales la de los los 15 de únicamente gen,False
+hc_00013_08,hc_00013_08.png,ambos siendo micromoles/L. familia PAH: a donde,False
+hc_00013_09,hc_00013_09.png,c.165delT actualidad de La 3 en Argentina,False
+hc_00013_10,hc_00013_10.png,tratamiento c.q62G siguientes (p.Phe55fs) de portadores,False
+hc_00013_11,hc_00013_11.png,la evolución A encontraron largo Posteriormente,False
+hc_00013_12,hc_00013_12.png,"mostraron volvió a Se (p.Val388Met), Phe mutación",False
+hc_00013_13,hc_00013_13.png,niveles seguimiento p.Phe55fs. primeros cambios /,False
+hc_00014_00,hc_00014_00.png,Paciente: Miguel Vargas Cárdenas,True
+hc_00014_01,hc_00014_01.png,N° HC: 7035812 F: 19/06/2016,True
+hc_00014_02,hc_00014_02.png,Edad: 89 años Sexo: M,True
+hc_00014_03,hc_00014_03.png,Dx: de T2N1M0 Ca laringe,False
+hc_00014_04,hc_00014_04.png,"Tto: g docetaxel, oxaliplatino, c/8h VO paracetamol 1",False
+hc_00014_05,hc_00014_05.png,"Evol: de fibrina. adenopatías 64 la pulmonares años, gran",False
+hc_00014_06,hc_00014_06.png,"progresivo tórax que aparición en e meato, formación en c/",False
+hc_00014_07,hc_00014_07.png,alérgico y inguinales. peneana de por destacaba exploración,False
+hc_00014_08,hc_00014_08.png,la fijas en de de endocarditis a adenopatías inguinales las,False
+hc_00014_09,hc_00014_09.png,Pcte ambas de excrecente con masa una aórtico TAC,False
+hc_00014_10,hc_00014_10.png,"deformaba y duras Se La abigarrada últimas Rx glande, y",False
+hc_00014_11,hc_00014_11.png,por crecimiento que física semanas. regiones,False
+hc_00014_12,hc_00014_12.png,abdomino-pélvico palpaban de cubiertas de tamaño,False
+hc_00014_13,hc_00014_13.png,confirmaron y consultó el áreas penicilina recambio valvular,False
+hc_00014_14,hc_00014_14.png,ulceradas A presencia,False
+hc_00015_00,hc_00015_00.png,Pcte: Carlos Vásquez Salazar,True
+hc_00015_01,hc_00015_01.png,HC: 1430650 Fecha: 15/08/2023,True
+hc_00015_02,hc_00015_02.png,Edad: 26 años,True
+hc_00015_03,hc_00015_03.png,Sexo: M,True
+hc_00015_04,hc_00015_04.png,Dx: EC IIIB Hodgkin Linfoma de,False
+hc_00015_05,hc_00015_05.png,"Tratamiento: ciclo metotrexato, EV mg tramadol",False
+hc_00015_06,hc_00015_06.png,"gemcitabina, 3 c/8h 50",False
+hc_00015_07,hc_00015_07.png,Evolución: 9 asintomática evidencia fue y,False
+hc_00015_08,hc_00015_08.png,evolución examen de radiológicos el encuentra,False
+hc_00015_09,hc_00015_09.png,recidiva citados. ni de radiológico se de tras,False
+hc_00015_10,hc_00015_10.png,paciente dentario signos de c/ ponía meses,False
+hc_00015_11,hc_00015_11.png,manifiesto ortopantomografía La la,False
+hc_00015_12,hc_00015_12.png,desplazamiento radiculares satisfactoria los y,False
+hc_00015_13,hc_00015_13.png,"físicos, El sin seguimiento y restos",False
+hc_00016_00,hc_00016_00.png,Pcte: Martha Córdova Sánchez,True
+hc_00016_01,hc_00016_01.png,N° HC: 9710569 Fecha: 24/01/2016,True
+hc_00016_02,hc_00016_02.png,Edad: 49a,True
+hc_00016_03,hc_00016_03.png,Sexo: F,True
+hc_00016_04,hc_00016_04.png,"DX: cérvix HTA I, de Ca EC",False
+hc_00016_05,hc_00016_05.png,Tratamiento: tramadol c/8h EV 50 2 mg ciclo,False
+hc_00016_06,hc_00016_06.png,Evolución: anorexia mencionados. dolor estos En,False
+hc_00016_07,hc_00016_07.png,por de distorsión la el resultado Urografía,False
+hc_00016_08,hc_00016_08.png,adenocarcinoma EV de por localizada cúpula,False
+hc_00016_09,hc_00016_09.png,quistes procedió pequeño hacia Cistoscopia: la :,False
+hc_00016_10,hc_00016_10.png,cavidad la c/ antes presencia a y la vómitos una,False
+hc_00016_11,hc_00016_11.png,"síntomas miccionales, de vesical. la la aspecto",False
+hc_00016_12,hc_00016_12.png,la posmiccional de histopatológico los llamaba,False
+hc_00016_13,hc_00016_13.png,"abd.. de abd., pielocalicial del antes (RTU) -",False
+hc_00016_14,hc_00016_14.png,resección en tratamiento fiebre de alta de,False
+hc_00016_15,hc_00016_15.png,transuretral placa contraste el se vesical. -,False
+hc_00016_16,hc_00016_16.png,"sólido Una Ante hallazgos lesión, infiltra pcte",False
+hc_00016_17,hc_00016_17.png,atención quirúrgico ingresó semana cuadro fuga,False
+hc_00016_18,hc_00016_18.png,tamaño pared masa que acompañada de,False
+hc_00016_19,hc_00016_19.png,"definitivo,",False
+hc_00017_00,hc_00017_00.png,Pcte: Miguel Sánchez Quispe,True
+hc_00017_01,hc_00017_01.png,HC: 3798039,True
+hc_00017_02,hc_00017_02.png,Fecha: 05/11/2017,True
+hc_00017_03,hc_00017_03.png,Edad: 28 a Sexo: M,True
+hc_00017_04,hc_00017_04.png,Dx: testículo Ca de EC IIA,False
+hc_00017_05,hc_00017_05.png,"Tratamiento: c/8h, g EV ceftriaxona 8 ondansetrón EV",False
+hc_00017_06,hc_00017_06.png,mg c/24h ciclo 2 1,False
+hc_00017_07,hc_00017_07.png,Evolución: por España tto paciente se a lo un la c/,False
+hc_00017_08,hc_00017_08.png,"baloncesto, válvulas vuelta son implantación a jugar a",False
+hc_00017_09,hc_00017_09.png,MAVD betabloqueantes. diagnóstica sospecha que,False
+hc_00017_10,hc_00017_10.png,"instaura y tras El decide su Con sincopal, de pericardio",False
+hc_00017_11,hc_00017_11.png,posterioridad un ventrículo se de controles finalmente,False
+hc_00017_12,hc_00017_12.png,"de cuadro dos siguiendo El DAI un izquierdo, Con",False
+hc_00017_13,hc_00017_13.png,"periódicos. después, partido realizarle desarrolla",False
+hc_00017_14,hc_00017_14.png,normales. asintomático permaneció,False
+hc_00018_00,hc_00018_00.png,Paciente: María Vásquez Córdova,True
+hc_00018_01,hc_00018_01.png,N° HC: 8047747 F: 13/03/2025,True
+hc_00018_02,hc_00018_02.png,Edad: 77 años,True
+hc_00018_03,hc_00018_03.png,Sexo: F,True
+hc_00018_04,hc_00018_04.png,Diagnóstico: Ca ovario izq. de,False
+hc_00018_05,hc_00018_05.png,Tto: docetaxel C6,False
+hc_00018_06,hc_00018_06.png,Nota: abundante. días) y duradera palidez,False
+hc_00018_07,hc_00018_07.png,"heces muy mucosa cutánea y melénicas, No",False
+hc_00018_08,hc_00018_08.png,Menstruación (8,False
+hc_00019_00,hc_00019_00.png,Paciente: Julio García Rodríguez,True
+hc_00019_01,hc_00019_01.png,HC: 1371574,True
+hc_00019_02,hc_00019_02.png,Fecha: 07/08/2019,True
+hc_00019_03,hc_00019_03.png,Edad: 36 años,True
+hc_00019_04,hc_00019_04.png,Sexo: M,True
+hc_00019_05,hc_00019_05.png,"Dx: Mieloma múltiple, anemia",False
+hc_00019_06,hc_00019_06.png,"Tratamiento: 2 c/24h, tab sulfato ferroso",False
+hc_00019_07,hc_00019_07.png,ciclo VO oxaliplatino 1,False
+hc_00019_08,hc_00019_08.png,Evol: diferenciado en tienen nidos El disponen,False
+hc_00019_09,hc_00019_09.png,resección índice y La se Estas que o células,False
+hc_00019_10,hc_00019_10.png,células es proximidades tienen de a que mitósico,False
+hc_00019_11,hc_00019_11.png,constituida córneos. del cordones. formar las,False
+hc_00019_12,hc_00019_12.png,carcinoma un tendencia neoformación dx borde,False
+hc_00019_13,hc_00019_13.png,por bajo epidermoide esta infiltra quirúrgica de,False
+hc_00019_14,hc_00019_14.png,epiteliales globos bien hasta,False
+hc_00020_00,hc_00020_00.png,Paciente: Raúl Flores Torres,True
+hc_00020_01,hc_00020_01.png,N° HC: 2816981 F: 07/10/2018,True
+hc_00020_02,hc_00020_02.png,Edad: 64a,True
+hc_00020_03,hc_00020_03.png,Sexo: M,True
+hc_00020_04,hc_00020_04.png,DX: colorrectal I Ca EC,False
+hc_00020_05,hc_00020_05.png,"Rp: SC, mcg filgrastim 1 tab 1 VO",False
+hc_00020_06,hc_00020_06.png,"sulfato VO ferroso 300 c/8h,",False
+hc_00020_07,hc_00020_07.png,paracetamol g c/24h,False
+hc_00020_08,hc_00020_08.png,Evol: pseudofaquia segmento en cuenta,False
+hc_00020_09,hc_00020_09.png,OI exploración el agudeza pendular. de,False
+hc_00020_10,hc_00020_10.png,del previa derecho destaca estudio y,False
+hc_00020_11,hc_00020_11.png,trabeculectomia pupilar la la y un ojo,False
+hc_00020_12,hc_00020_12.png,la de el el nistagmus en coloboma,False
+hc_00020_13,hc_00020_13.png,oftalmológica En visual (OD) y OD,False
+hc_00020_14,hc_00020_14.png,"anterior ampolla el en en dedos iris, era",False
+hc_00020_15,hc_00020_15.png,A OI. un seclusión amaurosis de el de la,False
+hc_00020_16,hc_00020_16.png,filtración Presentaba,False
+hc_00021_00,hc_00021_00.png,Paciente: Rubén Huamán Ramos,True
+hc_00021_01,hc_00021_01.png,HC: 1339043 Fecha: 10/07/2019,True
+hc_00021_02,hc_00021_02.png,Edad: 46a,True
+hc_00021_03,hc_00021_03.png,Sexo: M,True
+hc_00021_04,hc_00021_04.png,DX: T3N0M0 linfoblástica aguda Leucemia,False
+hc_00021_05,hc_00021_05.png,Tto: sulfato 1 tab VO ferroso c/24h,False
+hc_00021_06,hc_00021_06.png,Evolución: vena de embolización carecía,False
+hc_00021_07,hc_00021_07.png,inferior el paciente colocar centro padece,False
+hc_00021_08,hc_00021_08.png,valorar este pcte el el decidió remitido no,False
+hc_00021_09,hc_00021_09.png,se antecedente para hematuria. Como evitar la,False
+hc_00021_10,hc_00021_10.png,tto único centro haber ya servicio,False
+hc_00021_11,hc_00021_11.png,"Posteriormente quirúrgico, presentado dicho",False
+hc_00021_12,hc_00021_12.png,fue que nuestro en cirugía caso en el cava,False
+hc_00021_13,hc_00021_13.png,"episodios emisor refiere de hiperuricemia,",False
+hc_00021_14,hc_00021_14.png,"emisor, Ante centro y la a de cardiaca y filtro",False
+hc_00021_15,hc_00021_15.png,de trombo. progresión para,False
+hc_00022_00,hc_00022_00.png,Paciente: Hugo Torres Ramírez,True
+hc_00022_01,hc_00022_01.png,N° HC: 1881282 F: 18/11/2019,True
+hc_00022_02,hc_00022_02.png,Edad: 63 años Sexo: M,True
+hc_00022_03,hc_00022_03.png,DX: IIIB EC hepatocelular Ca,False
+hc_00022_04,hc_00022_04.png,Tratamiento: ciclo 5-fluorouracilo 2,False
+hc_00022_05,hc_00022_05.png,Nota: Se preoperatoria Tras la evaluación,False
+hc_00022_06,hc_00022_06.png,remisión inducción célula La El bifurcación,False
+hc_00022_07,hc_00022_07.png,detecta esquema incluido de inguinal una,False
+hc_00022_08,hc_00022_08.png,renales. hasta hallazgos. difuso practicarle,False
+hc_00022_09,hc_00022_09.png,con post le una s/ había orquiectomía fue,False
+hc_00022_10,hc_00022_10.png,"inguinal R-CHOPx8, diagnosticado según",False
+hc_00022_11,hc_00022_11.png,orquiectomía citorreductiva tipo administró B.,False
+hc_00022_12,hc_00022_12.png,abd. retroperitoneales área un de de TAC,False
+hc_00022_13,hc_00022_13.png,quimioterapia grande testicular pauta,False
+hc_00022_14,hc_00022_14.png,desde adenopatías primera TAC completa,False
+hc_00022_15,hc_00022_15.png,tras linfoma de,False
+hc_00023_00,hc_00023_00.png,Paciente: Sonia Ríos Aguilar,True
+hc_00023_01,hc_00023_01.png,N° HC: 1159693 F: 15/12/2024,True
+hc_00023_02,hc_00023_02.png,Edad: 71a,True
+hc_00023_03,hc_00023_03.png,Sexo: F,True
+hc_00023_04,hc_00023_04.png,"Dx: Ca endometrio, anemia de",False
+hc_00023_05,hc_00023_05.png,"Tratamiento: 10 metoclopramida c/8h, oxaliplatino ciclo mg",False
+hc_00023_06,hc_00023_06.png,1 EV,False
+hc_00023_07,hc_00023_07.png,Nota: quirúrgico bien cierre el estructuras anestesia,False
+hc_00023_08,hc_00023_08.png,lumbar. la desbridamiento lesión. estudios de tensión.,False
+hc_00023_09,hc_00023_09.png,"preanestésicos, quirúrgica el profundas los",False
+hc_00023_10,hc_00023_10.png,planificación la practicamos óseas región y de que,False
+hc_00023_11,hc_00023_11.png,"desbridamiento tejido el la invertida general, a tejido",False
+hc_00023_12,hc_00023_12.png,"días, cutáneo La en completaron limpieza levantamos de",False
+hc_00023_13,hc_00023_13.png,sin un las incluyó 20 la mientras la un pcte en escisional,False
+hc_00023_14,hc_00023_14.png,los herida cicatricial se terapia defecto procedimiento,False
+hc_00023_15,hc_00023_15.png,"de tejido piel y en del durante cicatricial, cobertura",False
+hc_00023_16,hc_00023_16.png,con del contribuyera Mantuvimos Bajo lateral,False
+hc_00023_17,hc_00023_17.png,vascularizado la y con de Diseñamos vacío posición de,False
+hc_00023_18,hc_00023_18.png,"izquierdo, bordes para del del de sistema imagen y de",False
+hc_00023_19,hc_00023_19.png,decúbito fibroso,False
+hc_00024_00,hc_00024_00.png,Pcte: Raquel Cárdenas Vargas,True
+hc_00024_01,hc_00024_01.png,HC: 8132618,True
+hc_00024_02,hc_00024_02.png,Fecha: 11/08/2025,True
+hc_00024_03,hc_00024_03.png,Edad: 25a,True
+hc_00024_04,hc_00024_04.png,Sexo: F,True
+hc_00024_05,hc_00024_05.png,Dx: IIIA cérvix EC Ca de,False
+hc_00024_06,hc_00024_06.png,Tto: 1 ácido tab c/24h VO fólico,False
+hc_00024_07,hc_00024_07.png,Evol: del rechazo 1a). sin a politransfusión 1987 del,False
+hc_00024_08,hc_00024_08.png,una confirmándose suspendido del ante embolización,False
+hc_00024_09,hc_00024_09.png,y cuarta eritema se exudativo y disminuyó se,False
+hc_00024_10,hc_00024_10.png,corticoideo. semana de lo de no fiebre,False
+hc_00024_11,hc_00024_11.png,"hemoderivados, tratamiento posteriormente no-B",False
+hc_00024_12,hc_00024_12.png,"hematuria, el la renal viral en no-A, a con",False
+hc_00024_13,hc_00024_13.png,RNA-VHC con realizó la hepatitis que la relación,False
+hc_00024_14,hc_00024_14.png,indetectable carga injerto una hubo febrero en,False
+hc_00024_15,hc_00024_15.png,en antiviral de multiforme presentó respuesta,False
+hc_00024_16,hc_00024_16.png,"inicial, (genotipo paciente dosis RBV comenzó",False
+hc_00024_17,hc_00024_17.png,reanudó la sospecha de ser IFN injerto En la la un,False
+hc_00024_18,hc_00024_18.png,La positivo c/ 40 en Se Se agudo con diagnosticó,False
+hc_00024_19,hc_00024_19.png,respuesta rápida y que por aparición funcionante.,False
+hc_00024_20,hc_00024_20.png,"de 2010, por tratamiento dosis tto",False
+hc_00025_00,hc_00025_00.png,Paciente: Norma Núñez Huamán,True
+hc_00025_01,hc_00025_01.png,N° HC: 6351256,True
+hc_00025_02,hc_00025_02.png,Fecha: 12/03/2021,True
+hc_00025_03,hc_00025_03.png,Edad: 36 a,True
+hc_00025_04,hc_00025_04.png,Sexo: F,True
+hc_00025_05,hc_00025_05.png,Diagnóstico: mama Ca T2N1M0 de,False
+hc_00025_06,hc_00025_06.png,"Tto: C4 5-fluorouracilo, 8 oxaliplatino,",False
+hc_00025_07,hc_00025_07.png,c/8h EV mg ondansetrón,False
+hc_00025_08,hc_00025_08.png,Nota: 160 respiratorias. Niega B,False
+hc_00025_09,hc_00025_09.png,antec. o verapamilo litiasis hepatitis,False
+hc_00025_10,hc_00025_10.png,conocidos molestias anteriores. Sin,False
+hc_00025_11,hc_00025_11.png,C. de mg/día c/ antec. Medicado Sin,False
+hc_00025_12,hc_00025_12.png,osteoarticulares o Sin otros,False
+hc_00025_13,hc_00025_13.png,episodios urinaria. tromboembólicos,False
+hc_00025_14,hc_00025_14.png,de de,False
+hc_00026_00,hc_00026_00.png,Paciente: Carmen Ramos Mendoza,True
+hc_00026_01,hc_00026_01.png,N° HC: 2618137 F: 25/10/2022,True
+hc_00026_02,hc_00026_02.png,Edad: 78a Sexo: F,True
+hc_00026_03,hc_00026_03.png,Diagnóstico: Mieloma múltiple IIIB EC,False
+hc_00026_04,hc_00026_04.png,Rp: docetaxel,False
+hc_00026_05,hc_00026_05.png,Evolución: llamativa en lumbar. y (bilirrubina,False
+hc_00026_06,hc_00026_06.png,"total: mg/dl horas, descartó alteración y",False
+hc_00026_07,hc_00026_07.png,"1/2048. al positivo tratamiento suero 9,59",False
+hc_00026_08,hc_00026_08.png,tomografía cabo voriconazol test mg/12,False
+hc_00026_09,hc_00026_09.png,neurológica afectación punción por axial días,False
+hc_00026_10,hc_00026_10.png,Se hepáticos c/ pulmonar de Iniciamos de,False
+hc_00026_11,hc_00026_11.png,computarizada una 200 presentando 10,False
+hc_00026_12,hc_00026_12.png,Criptolátex los,False
+hc_00027_00,hc_00027_00.png,Nombre: Víctor Espinoza García,True
+hc_00027_01,hc_00027_01.png,HC: 5319246,True
+hc_00027_02,hc_00027_02.png,F: 02/06/2023,True
+hc_00027_03,hc_00027_03.png,Edad: 29 años Sexo: M,True
+hc_00027_04,hc_00027_04.png,Diagnóstico: Linfoma no Hodgkin,False
+hc_00027_05,hc_00027_05.png,"Tratamiento: mg cisplatino, VO 1 c/24h anastrozol C6",False
+hc_00027_06,hc_00027_06.png,Evolución: positiva lo de 16 GPT Ante confirmación,False
+hc_00027_07,hc_00027_07.png,"(CMV), las analítico citomegalovirus encontrando",False
+hc_00027_08,hc_00027_08.png,"obteniéndose normales UI/l, y UI/l). sospecha descenso",False
+hc_00027_09,hc_00027_09.png,valores la hasta realiza IgM de VEB tres a s/ se,False
+hc_00027_10,hc_00027_10.png,síndrome a (GOT VEB semanas Se mononucleósico,False
+hc_00027_11,hc_00027_11.png,hemograma permite solicita alteraciones frente la,False
+hc_00027_12,hc_00027_12.png,de ctrl serología transaminasas 22 que y un,False
+hc_00027_13,hc_00027_13.png,diagnóstica las,False
+hc_00028_00,hc_00028_00.png,Pcte: Rosa Aguilar Sánchez,True
+hc_00028_01,hc_00028_01.png,N° HC: 3181198 Fecha: 01/12/2018,True
+hc_00028_02,hc_00028_02.png,Edad: 59a Sexo: F,True
+hc_00028_03,hc_00028_03.png,"Dx: de laringe, obesidad Ca",False
+hc_00028_04,hc_00028_04.png,Tto: tab VO C4 1 c/24h sulfato ferroso,False
+hc_00028_05,hc_00028_05.png,Nota: la aproximadamente Se el aprecia,False
+hc_00028_06,hc_00028_06.png,clínica a mamas tipo heterogénea signos,False
+hc_00028_07,hc_00028_07.png,una claramente ambas estructuras por y,False
+hc_00028_08,hc_00028_08.png,maligna 28 apreciar y acústica que ducto,False
+hc_00028_09,hc_00028_09.png,de acinares de la microbiopsia,False
+hc_00028_10,hc_00028_10.png,infiltrativa una sombra una y tru-cut,False
+hc_00028_11,hc_00028_11.png,histología Se de mostrando rodea no,False
+hc_00028_12,hc_00028_12.png,"realiza lesión, de neoplásicas poder",False
+hc_00028_13,hc_00028_13.png,profundo. fusocelular irregulares realiza,False
+hc_00028_14,hc_00028_14.png,estudio s/ masa bordes de la masa x,False
+hc_00028_15,hc_00028_15.png,posterior. En estudio se 30 carácter en,False
+hc_00028_16,hc_00028_16.png,ecográfico hipoecogénica mamográfico mm,False
+hc_00028_17,hc_00028_17.png,neoformación encontrarse plano,False
+hc_00028_18,hc_00028_18.png,"malignidad, con",False
+hc_00029_00,hc_00029_00.png,Paciente: Elena Aguilar Paredes,True
+hc_00029_01,hc_00029_01.png,N° HC: 5793320 F: 28/01/2023,True
+hc_00029_02,hc_00029_02.png,Edad: 71a Sexo: F,True
+hc_00029_03,hc_00029_03.png,"Dx: anemia IV, Ca EC tiroides de",False
+hc_00029_04,hc_00029_04.png,"Tratamiento: gemcitabina, paclitaxel, carboplatino",False
+hc_00029_05,hc_00029_05.png,Evol: biopsia cervical y córneos. globos una un,False
+hc_00029_06,hc_00029_06.png,"resección a tienen Estas de 25 linfáticos, se",False
+hc_00029_07,hc_00029_07.png,Posteriormente células fibroadiposo tumorales hasta,False
+hc_00029_08,hc_00029_08.png,realizó diferenciado tendencia las células,False
+hc_00029_09,hc_00029_09.png,negativos quirúrgica. carcinoma borde siendo de,False
+hc_00029_10,hc_00029_10.png,formar que es del bajo dx tienen que 25,False
+hc_00029_11,hc_00029_11.png,mitósico contenía para proximidades de infiltra,False
+hc_00029_12,hc_00029_12.png,índice El epidermoide fragmento los bien,False
+hc_00029_13,hc_00029_13.png,ganglios,False
+hc_00030_00,hc_00030_00.png,Nombre: Lucía Sánchez Ramos,True
+hc_00030_01,hc_00030_01.png,HC: 1741883,True
+hc_00030_02,hc_00030_02.png,F: 15/08/2015,True
+hc_00030_03,hc_00030_03.png,Edad: 61 a,True
+hc_00030_04,hc_00030_04.png,Sexo: F,True
+hc_00030_05,hc_00030_05.png,Diagnóstico: laringe I Ca de EC,False
+hc_00030_06,hc_00030_06.png,Rp: C6 carboplatino,False
+hc_00030_07,hc_00030_07.png,Evol: retromolar. el la alimentación apertura informó el,False
+hc_00030_08,hc_00030_08.png,absceso fijación inmediato clínica de de apertura esta de,False
+hc_00030_09,hc_00030_09.png,Mujer 2 sufrido el En bucal. 12 crónica de pcte haber,False
+hc_00030_10,hc_00030_10.png,actual estudio una La boca. sólida realizó apertura cual lo,False
+hc_00030_11,hc_00030_11.png,de en la permite en bucal imposibilidad mantiene que momento,False
+hc_00030_12,hc_00030_12.png,a valoración confirmación cm realizó de La momento refiere,False
+hc_00030_13,hc_00030_13.png,cambios con de que compatibles por nuestra origen de la,False
+hc_00030_14,hc_00030_14.png,"entidad predominante una postoperatorio cm edad, dentario.",False
+hc_00030_15,hc_00030_15.png,bucomandibular cuña anatomopatológico osteomielitis fue,False
+hc_00030_16,hc_00030_16.png,"mediante se facial En se de mediante 2,4 izquierdo para",False
+hc_00031_00,hc_00031_00.png,Nombre: Jorge Núñez Chávez,True
+hc_00031_01,hc_00031_01.png,HC: 353211,True
+hc_00031_02,hc_00031_02.png,F: 07/05/2024,True
+hc_00031_03,hc_00031_03.png,Edad: 55 años,True
+hc_00031_04,hc_00031_04.png,Sexo: M,True
+hc_00031_05,hc_00031_05.png,DX: cerebral Tumor,False
+hc_00031_06,hc_00031_06.png,Tratamiento: ciclofosfamida C4,False
+hc_00031_07,hc_00031_07.png,Nota: s/ negativos exploraciones física,False
+hc_00031_08,hc_00031_08.png,"atención urinocultivo, adenopatías son las",False
+hc_00031_09,hc_00031_09.png,"hepatoesplenomegalia, En cuanto hemocultivos,",False
+hc_00031_10,hc_00031_10.png,llama En mantoux a complementarias,False
+hc_00031_11,hc_00031_11.png,exploración palpables. la sólo la,False
+hc_00032_00,hc_00032_00.png,Paciente: Pedro Espinoza Sánchez,True
+hc_00032_01,hc_00032_01.png,N° HC: 4763226 Fecha: 14/05/2020,True
+hc_00032_02,hc_00032_02.png,Edad: 18 a Sexo: M,True
+hc_00032_03,hc_00032_03.png,"Diagnóstico: obesidad IIA, EC múltiple Mieloma",False
+hc_00032_04,hc_00032_04.png,Rp: ciclo 2 gemcitabina,False
+hc_00032_05,hc_00032_05.png,Evol: en médica temporomandibular historia examen,False
+hc_00032_06,hc_00032_06.png,"articulación El bucal era piel muestra físico difusos, con",False
+hc_00032_07,hc_00032_07.png,extraoral aspecto mm. mejilla era aumento era La 30,False
+hc_00032_08,hc_00032_08.png,"facial de por izquierda, La en palpación, o consistencia",False
+hc_00032_09,hc_00032_09.png,limites sin la de no de la volumen apertura relevante. La,False
+hc_00032_10,hc_00032_10.png,"ruidos normal. asimetría (ATM) apertura ósea, dolor a",False
+hc_00032_11,hc_00032_11.png,"indoloro, normal",False
+hc_00033_00,hc_00033_00.png,Paciente: Luis Espinoza Chávez,True
+hc_00033_01,hc_00033_01.png,N° HC: 2028063,True
+hc_00033_02,hc_00033_02.png,Fecha: 16/03/2025,True
+hc_00033_03,hc_00033_03.png,Edad: 51a Sexo: M,True
+hc_00033_04,hc_00033_04.png,Diagnóstico: gástrico Ca EC IV,False
+hc_00033_05,hc_00033_05.png,Rp: 1 oxaliplatino mg 50 tramadol EV ciclo,False
+hc_00033_06,hc_00033_06.png,"c/8h,",False
+hc_00033_07,hc_00033_07.png,Evol: 10 era dorsalgia La un tramadol,False
+hc_00033_08,hc_00033_08.png,polidiscopatía miofascial secundarias fue,False
+hc_00033_09,hc_00033_09.png,"pregabalina, clínico degenerativa.",False
+hc_00033_10,hc_00033_10.png,paracetamol. y médico El estimado,False
+hc_00033_11,hc_00033_11.png,instauró tratamiento juicio y transcutánea,False
+hc_00033_12,hc_00033_12.png,electroterapia de síndrome y g/dl. Se c/,False
+hc_00033_13,hc_00033_13.png,hemoglobina lumbalgia a recibió,False
+hc_00034_00,hc_00034_00.png,Pcte: Mario Mamani Ramírez,True
+hc_00034_01,hc_00034_01.png,HC: 2228922,True
+hc_00034_02,hc_00034_02.png,Fecha: 15/12/2019,True
+hc_00034_03,hc_00034_03.png,Edad: 29a,True
+hc_00034_04,hc_00034_04.png,Sexo: M,True
+hc_00034_05,hc_00034_05.png,Diagnóstico: tiroides EC Ca IIIA de,False
+hc_00034_06,hc_00034_06.png,"Tratamiento: mg c/24h, ciclo 1 SC metotrexato 40",False
+hc_00034_07,hc_00034_07.png,enoxaparina,False
+hc_00034_08,hc_00034_08.png,Evol: la descendente a del mmHg. la espontánea planta arterial,False
+hc_00034_09,hc_00034_09.png,oclusión 120 la tto 10 izquierda. una 48 c/ a en de de las,False
+hc_00034_10,hc_00034_10.png,(TAS) torácica conservador de alta El llevó a colocó UCI,False
+hc_00034_11,hc_00034_11.png,tensión inferior horas un Fue las arteria ingreso en horas,False
+hc_00034_12,hc_00034_12.png,las lesiones femoral dado UCI la por cabo A paciente parcial,False
+hc_00034_13,hc_00034_13.png,vía en a aorta respiración le subclavia se sistólica Se con,False
+hc_00034_14,hc_00034_14.png,"asociadas. ingresó endoprótesis en izquierda,",False
+hc_00035_00,hc_00035_00.png,Pcte: Raúl Paredes Rojas,True
+hc_00035_01,hc_00035_01.png,N° HC: 8502554 Fecha: 25/10/2024,True
+hc_00035_02,hc_00035_02.png,Edad: 45 años,True
+hc_00035_03,hc_00035_03.png,Sexo: M,True
+hc_00035_04,hc_00035_04.png,Diagnóstico: Hodgkin IIIB EC Linfoma,False
+hc_00035_05,hc_00035_05.png,de,False
+hc_00035_06,hc_00035_06.png,"Tratamiento: gemcitabina, ciclo 1",False
+hc_00035_07,hc_00035_07.png,"paclitaxel cisplatino,",False
+hc_00035_08,hc_00035_08.png,Evolución: coloración cm La estaban,False
+hc_00035_09,hc_00035_09.png,verificó era alveolar lesión ausencias,False
+hc_00035_10,hc_00035_10.png,"masa y dentarias e ulcerada, c/ y",False
+hc_00035_11,hc_00035_11.png,"reborde incisivos. normal, diastemas,",False
+hc_00035_12,hc_00035_12.png,indolora tronco neurofibromatoso en los,False
+hc_00035_13,hc_00035_13.png,"2,5 la firme de del café Al a mucosa y",False
+hc_00035_14,hc_00035_14.png,lingualmente miembros de Manchas,False
+hc_00035_15,hc_00035_15.png,"aspecto cerca inferior, superiores.",False
+hc_00035_16,hc_00035_16.png,"leche se sésil de presentes maloclusión,",False
+hc_00035_17,hc_00035_17.png,"región palpación, de una examen",False
+hc_00035_18,hc_00035_18.png,extensión intraoral c/ en base no la a,False
+hc_00035_19,hc_00035_19.png,de,False
+hc_00036_00,hc_00036_00.png,Paciente: Miguel Espinoza Ramírez,True
+hc_00036_01,hc_00036_01.png,N° HC: 9179183 F: 12/01/2025,True
+hc_00036_02,hc_00036_02.png,Edad: 22a Sexo: M,True
+hc_00036_03,hc_00036_03.png,"DX: Ca desnutrición IIA, de tiroides EC",False
+hc_00036_04,hc_00036_04.png,"Tratamiento: 1 c/24h, mg dexametasona EV anastrozol",False
+hc_00036_05,hc_00036_05.png,"tramadol c/12h, VO 50 4 mg c/8h mg EV",False
+hc_00036_06,hc_00036_06.png,Evolución: acude que para mostraba de las de Refería a,False
+hc_00036_07,hc_00036_07.png,exploración rotación rotación dolor en Consulta limitada,False
+hc_00036_08,hc_00036_08.png,"femorales, estado en en la cadera presentaba paciente",False
+hc_00036_09,hc_00036_09.png,"su derecha, Nutrición además en la la años la",False
+hc_00036_10,hc_00036_10.png,"evidente rodillas, artralgias dos ambas",False
+hc_00036_11,hc_00036_11.png,monitorización Una una posterior más cabezas,False
+hc_00036_12,hc_00036_12.png,nutricional. de 25 interna y a,False
+hc_00037_00,hc_00037_00.png,Paciente: Luis Rojas Cárdenas,True
+hc_00037_01,hc_00037_01.png,HC: 3947341 F: 14/12/2022,True
+hc_00037_02,hc_00037_02.png,Edad: 28 años,True
+hc_00037_03,hc_00037_03.png,Sexo: M,True
+hc_00037_04,hc_00037_04.png,"Diagnóstico: IIB, Hodgkin EC Linfoma no EPOC",False
+hc_00037_05,hc_00037_05.png,"Tratamiento: 300 capecitabina, mcg gemcitabina,",False
+hc_00037_06,hc_00037_06.png,SC filgrastim,False
+hc_00037_07,hc_00037_07.png,Evolución: TSH el de se examen Enfermedad,False
+hc_00037_08,hc_00037_08.png,"(TGB: de de función En en antitiroideos o 7,6",False
+hc_00037_09,hc_00037_09.png,de de el normal. los iniciado fue hormonas,False
+hc_00037_10,hc_00037_10.png,compatible tiroidea tiroidea no El observó ctrl,False
+hc_00037_11,hc_00037_11.png,manteniendo 5 como La evolutivo de histiocitaria,False
+hc_00037_12,hc_00037_12.png,fue a Linfadenitis meses el Kikuchi-Fujimoto.,False
+hc_00037_13,hc_00037_13.png,"TPO: linfocítica U/mL), U/mL. necrotizante",False
+hc_00037_14,hc_00037_14.png,"cifras de c/ el un mU/L) título los cuadro, la",False
+hc_00037_15,hc_00037_15.png,"gammagrafía descenso así tiroideas (2,95",False
+hc_00037_16,hc_00037_16.png,anticuerpos normales 870 histológico,False
+hc_00038_00,hc_00038_00.png,Paciente: María Gutiérrez Ramos,True
+hc_00038_01,hc_00038_01.png,HC: 5036325 F: 26/04/2022,True
+hc_00038_02,hc_00038_02.png,Edad: 86 a,True
+hc_00038_03,hc_00038_03.png,Sexo: F,True
+hc_00038_04,hc_00038_04.png,Diagnóstico: T3N0M0 laringe de Ca,False
+hc_00038_05,hc_00038_05.png,"Rp: C6 mcg filgrastim SC, paclitaxel 300",False
+hc_00038_06,hc_00038_06.png,Nota: 4-6 sencilla. mayor A yeyunocólica,False
+hc_00038_07,hc_00038_07.png,secretor continuar c/ de se de caso para de,False
+hc_00038_08,hc_00038_08.png,estímulo se alimentos En todo disponen tres la,False
+hc_00038_09,hc_00038_09.png,deposiciones y y frecuentes fácil criterio,False
+hc_00038_10,hc_00038_10.png,comienza que preparación los diuresis c/,False
+hc_00038_11,hc_00038_11.png,menor estabilidad digestibilidad c/,False
+hc_00038_12,hc_00038_12.png,"anastomosis de progresividad, tomas y",False
+hc_00038_13,hc_00038_13.png,"nutricional, absorción de consistencia d)",False
+hc_00038_14,hc_00038_14.png,"pequeñas, y líquido-pastosa dificultad.",False
+hc_00038_15,hc_00038_15.png,Alimentación: de meses mantiene c/,False
+hc_00039_00,hc_00039_00.png,Pcte: Luis Huamán Rojas,True
+hc_00039_01,hc_00039_01.png,N° HC: 3561367 F: 28/11/2025,True
+hc_00039_02,hc_00039_02.png,Edad: 66a,True
+hc_00039_03,hc_00039_03.png,Sexo: M,True
+hc_00039_04,hc_00039_04.png,"DX: HTA IIIA, Ca renal der. EC",False
+hc_00039_05,hc_00039_05.png,"Rp: capecitabina, 3 g c/24h ceftriaxona 2 EV ciclo",False
+hc_00039_06,hc_00039_06.png,Evol: de predominio tratado hipertensa 10 anexectomía ni,False
+hc_00039_07,hc_00039_07.png,"alergias amlodipino evolución no verano, tos, doble de",False
+hc_00039_08,hc_00039_08.png,en aunque y es hábitos en invernal años hipotiroidismo,False
+hc_00039_09,hc_00039_09.png,pcte sibilancias ortopnea purulenta. también historia y,False
+hc_00039_10,hc_00039_10.png,"de una infecciones refiere Histerectomizada Refiere, de",False
+hc_00039_11,hc_00039_11.png,"c/ c/ además, a consistentes expectoración La a",False
+hc_00039_12,hc_00039_12.png,respiratorias clínica presentes Refiere tratamiento,False
+hc_00039_13,hc_00039_13.png,"presenta 20 antes. c/ levotiroxina. disnea, frecuentes,",False
+hc_00039_14,hc_00039_14.png,"tóxicos,",False
+hc_00040_00,hc_00040_00.png,Nombre: Isabel Torres Torres,True
+hc_00040_01,hc_00040_01.png,N° HCl: 5500795,True
+hc_00040_02,hc_00040_02.png,F: 03/03/2016,True
+hc_00040_03,hc_00040_03.png,Edad: 57a Sexo: F,True
+hc_00040_04,hc_00040_04.png,"DX: endometrio de EC anemia Ca IIA,",False
+hc_00040_05,hc_00040_05.png,"Rp: ácido c/24h, 1 tab paclitaxel fólico VO",False
+hc_00040_06,hc_00040_06.png,Evolución: finalizado El benigno. 5 completa,False
+hc_00040_07,hc_00040_07.png,presenta una de procedimiento. recuperación,False
+hc_00040_08,hc_00040_08.png,la la parálisis histológico el se los Se,False
+hc_00040_09,hc_00040_09.png,evidencias de del vascular compatible 24 a,False
+hc_00040_10,hc_00040_10.png,capilar seguimiento. La facial No ácido un,False
+hc_00040_11,hc_00040_11.png,h de tumor a postoperatorio. La,False
+hc_00040_12,hc_00040_12.png,poliglicólico a con dio parótida lesión c/,False
+hc_00040_13,hc_00040_13.png,de por cerró tras y hospitalaria c/,False
+hc_00040_14,hc_00040_14.png,separados diferido las puntos favorable de,False
+hc_00040_15,hc_00040_15.png,fue d mucosa por informó biopsia evolución,False
+hc_00040_16,hc_00040_16.png,congelación hemangioma informe la,False
+hc_00040_17,hc_00040_17.png,enfermedad alta y 10 fue,False
+hc_00041_00,hc_00041_00.png,Nombre: Pedro Vargas Chávez,True
+hc_00041_01,hc_00041_01.png,N° HC: 5628216,True
+hc_00041_02,hc_00041_02.png,F: 16/07/2016,True
+hc_00041_03,hc_00041_03.png,Edad: 25 a Sexo: M,True
+hc_00041_04,hc_00041_04.png,DX: EC vejiga Ca de IIIB,False
+hc_00041_05,hc_00041_05.png,Rp: morfina SC c/4h mg 5 C6,False
+hc_00041_06,hc_00041_06.png,Nota: recidiva siendo podemos claras estudio,False
+hc_00041_07,hc_00041_07.png,"Fuhrman, de cortical a de la histológico",False
+hc_00041_08,hc_00041_08.png,intervención 6 grado márgenes nivel c/ El La,False
+hc_00041_09,hc_00041_09.png,carcinoma postquirúrgicos anualmente células,False
+hc_00041_10,hc_00041_10.png,"presencia cada la adyacente, sin actualmente",False
+hc_00041_11,hc_00041_11.png,"paciente evidencia multilocular, a local. y la",False
+hc_00041_12,hc_00041_12.png,"los fue confirmó de renales, de satisfactoria TC",False
+hc_00041_13,hc_00041_13.png,"asintomático, ecografía un meses de la y la",False
+hc_00041_14,hc_00041_14.png,control grasa de posterior y evolución quístico,False
+hc_00041_15,hc_00041_15.png,resección los observar renal de En cambios de con,False
+hc_00041_16,hc_00041_16.png,está revisado el negativos. de con 6 TC meses I,False
+hc_00042_00,hc_00042_00.png,Paciente: Martha Vásquez Ramos,True
+hc_00042_01,hc_00042_01.png,N° HCl: 642703 Fecha: 25/11/2022,True
+hc_00042_02,hc_00042_02.png,Edad: 45 a,True
+hc_00042_03,hc_00042_03.png,Sexo: F,True
+hc_00042_04,hc_00042_04.png,Diagnóstico: IV Ca vejiga EC de,False
+hc_00042_05,hc_00042_05.png,"Rp: mg metoclopramida EV carboplatino,",False
+hc_00042_06,hc_00042_06.png,"c/8h, 10 oxaliplatino C6",False
+hc_00042_07,hc_00042_07.png,"Evolución: cabecera. La tto), pcte mes",False
+hc_00042_08,hc_00042_08.png,clara tto. mejoría médico tto,False
+hc_00042_09,hc_00042_09.png,tratados c/ de se a todo del,False
+hc_00042_10,hc_00042_10.png,"asintomática cistoscopia clínica,",False
+hc_00042_11,hc_00042_11.png,finalización coli prescribió con,False
+hc_00042_12,hc_00042_12.png,antibioteparia y año progresiva,False
+hc_00042_13,hc_00042_13.png,urocultivos y sobre la c/ de partir,False
+hc_00042_14,hc_00042_14.png,Actualmente de Se (al de negativos de,False
+hc_00042_15,hc_00042_15.png,(tolterodina). control del su normal,False
+hc_00042_16,hc_00042_16.png,encuentra desaparición experimentó,False
+hc_00042_17,hc_00042_17.png,por tercer anticolinérgico,False
+hc_00043_00,hc_00043_00.png,Paciente: Luis Castillo Rodríguez,True
+hc_00043_01,hc_00043_01.png,N° HC: 2437375,True
+hc_00043_02,hc_00043_02.png,F: 19/11/2022,True
+hc_00043_03,hc_00043_03.png,Edad: 57a Sexo: M,True
+hc_00043_04,hc_00043_04.png,DX: IIA Hodgkin EC no Linfoma,False
+hc_00043_05,hc_00043_05.png,"Tto: sulfato 1 cisplatino tab c/24h, C4",False
+hc_00043_06,hc_00043_06.png,ferroso VO,False
+hc_00043_07,hc_00043_07.png,Evol: y drenajes aportes infección se aportes,False
+hc_00043_08,hc_00043_08.png,seguimiento presenta Parenteral nivel Al (NPT),False
+hc_00043_09,hc_00043_09.png,clínica un gradualmente. a y ileo-cólica herida,False
+hc_00043_10,hc_00043_10.png,todo según dirigida ingreso se con La,False
+hc_00043_11,hc_00043_11.png,Farmacia. de portadora del parámetros de los,False
+hc_00043_12,hc_00043_12.png,evolución ileostomía dehiscencia se con,False
+hc_00043_13,hc_00043_13.png,fistulización ajustando de Servicio la por,False
+hc_00043_14,hc_00043_14.png,realiza NPT ingreso de los abdominales. Total,False
+hc_00043_15,hc_00043_15.png,una la sonda Nutrición bioquímicos,False
+hc_00043_16,hc_00043_16.png,anastomosis elabora los de instaurando Desde,False
+hc_00043_17,hc_00043_17.png,de diariamente severa. su Durante Petzer,False
+hc_00043_18,hc_00043_18.png,inicia el de y parte Sección el Nutrición,False
+hc_00043_19,hc_00043_19.png,"cutánea febrícula, Es periodo protección,",False
+hc_00043_20,hc_00043_20.png,desnutrición,False
+hc_00044_00,hc_00044_00.png,Nombre: Julio Ramos Quispe,True
+hc_00044_01,hc_00044_01.png,HC: 4051338 Fecha: 16/02/2018,True
+hc_00044_02,hc_00044_02.png,Edad: 66 a Sexo: M,True
+hc_00044_03,hc_00044_03.png,DX: IIB EC pulmonar Ca,False
+hc_00044_04,hc_00044_04.png,"Rp: 5-fluorouracilo tramadol C4 c/8h, EV",False
+hc_00044_05,hc_00044_05.png,50 mg,False
+hc_00044_06,hc_00044_06.png,"Evolución: que tendón intercondílea,",False
+hc_00044_07,hc_00044_07.png,intenso deslizamiento estaban y con,False
+hc_00044_08,hc_00044_08.png,tirantez. flexo-extensión,False
+hc_00044_09,hc_00044_09.png,comprobándose polo tendones observar,False
+hc_00044_10,hc_00044_10.png,indemnes estudio Se y rótula realizó de,False
+hc_00044_11,hc_00044_11.png,el compatible correctos s/ c/ La En,False
+hc_00044_12,hc_00044_12.png,contacto dolor tirantez tensión de,False
+hc_00044_13,hc_00044_13.png,"estaba zona baja hematoma, podía intento",False
+hc_00044_14,hc_00044_14.png,"los interno, proximal Cualquier provocaba",False
+hc_00044_15,hc_00044_15.png,y abordaje Payr radiológico mediante,False
+hc_00044_16,hc_00044_16.png,quirúrgico horizontal cuadricipital,False
+hc_00044_17,hc_00044_17.png,"patella. y gran y funcionantes, patella",False
+hc_00044_18,hc_00044_18.png,su c/ con pata c/ en realizar ganso.,False
+hc_00044_19,hc_00044_19.png,inferior de de rotuliano fija luxación,False
+hc_00044_20,hc_00044_20.png,se cuadricipital y,False
+hc_00045_00,hc_00045_00.png,Pcte: Tomás Castillo Núñez,True
+hc_00045_01,hc_00045_01.png,N° HC: 7751320 F: 22/02/2024,True
+hc_00045_02,hc_00045_02.png,Edad: 47a Sexo: M,True
+hc_00045_03,hc_00045_03.png,"Dx: EC de Ca tiroides DM2 I,",False
+hc_00045_04,hc_00045_04.png,Tto: ciclofosfamida 2 ciclo,False
+hc_00045_05,hc_00045_05.png,Evol: resto fueron la física las favorable virus Las,False
+hc_00045_06,hc_00045_06.png,"la evidenciaron en con serologías para negativas,",False
+hc_00045_07,hc_00045_07.png,anticuerpos virus dieron humana de púrpura a (VIH),False
+hc_00045_08,hc_00045_08.png,"y examen presencia cutánea, la inmunodeficiencia",False
+hc_00045_09,hc_00045_09.png,las los de Con de anodino. el Se la en se de inició,False
+hc_00045_10,hc_00045_10.png,destacaba vasculitis y una también En del,False
+hc_00045_11,hc_00045_11.png,desaparición evolución prednisona toracoabdominal,False
+hc_00045_12,hc_00045_12.png,inicial la exploración tto fue una,False
+hc_00045_13,hc_00045_13.png,"antifosfolipídicos. 1 mg/kg/día, ni como",False
+hc_00045_14,hc_00045_14.png,orientación que (TC) hepatotropos visceromegalias.,False
+hc_00045_15,hc_00045_15.png,adenopatías lesiones de extremidades negativos,False
+hc_00045_16,hc_00045_16.png,inferiores. con una se realizó la así no palpable,False
+hc_00045_17,hc_00045_17.png,dosis TC,False
+hc_00046_00,hc_00046_00.png,Paciente: Miguel Núñez Quispe,True
+hc_00046_01,hc_00046_01.png,HC: 9872505 Fecha: 27/10/2023,True
+hc_00046_02,hc_00046_02.png,Edad: 44a,True
+hc_00046_03,hc_00046_03.png,Sexo: M,True
+hc_00046_04,hc_00046_04.png,Dx: múltiple Mieloma,False
+hc_00046_05,hc_00046_05.png,"Tratamiento: paclitaxel tamoxifeno mg c/24h, C6",False
+hc_00046_06,hc_00046_06.png,"20 docetaxel, VO",False
+hc_00046_07,hc_00046_07.png,Evol: comprometía compromiso de un examen de,False
+hc_00046_08,hc_00046_08.png,"y derecha, apreció volumen extraoral Al rama",False
+hc_00046_09,hc_00046_09.png,la a e cuerpo que mandibular registraron,False
+hc_00046_10,hc_00046_10.png,"palpación, se indoloro firme piel. se aumento",False
+hc_00046_11,hc_00046_11.png,adenopatías la No s/,False
+hc_00047_00,hc_00047_00.png,Paciente: Inés Díaz Espinoza,True
+hc_00047_01,hc_00047_01.png,HC: 8289932,True
+hc_00047_02,hc_00047_02.png,F: 14/09/2025,True
+hc_00047_03,hc_00047_03.png,Edad: 34a Sexo: F,True
+hc_00047_04,hc_00047_04.png,Dx: Ca der. pulmonar,False
+hc_00047_05,hc_00047_05.png,"Tto: C6 mg morfina vincristina, c/4h 5",False
+hc_00047_06,hc_00047_06.png,"metotrexato, SC",False
+hc_00047_07,hc_00047_07.png,"Evol: y proteinuria de IMC clínica +++. mg/dl,",False
+hc_00047_08,hc_00047_08.png,"27, la En mínimos después presenta en física:",False
+hc_00047_09,hc_00047_09.png,"carpos albúmina edemas y mg/dl, colesterol",False
+hc_00047_10,hc_00047_10.png,"creatinina detectar coagulación comentada, y",False
+hc_00047_11,hc_00047_11.png,"0,9 miembros cutáneas total poliartralgias junto",False
+hc_00047_12,hc_00047_12.png,en tensión g/dl totales predominio En pápulas,False
+hc_00047_13,hc_00047_13.png,"medianas c/ la g/dl Hgma arterial articulaciones,",False
+hc_00047_14,hc_00047_14.png,"104 micropápulas 3,6 pruriginosas. 238",False
+hc_00047_15,hc_00047_15.png,"mmHg, mg/dl, tarsos, Poco a y exploración en",False
+hc_00047_16,hc_00047_16.png,"analítica: c/ 6,5 la envían Nefrología",False
+hc_00047_17,hc_00047_17.png,"normales, brazos. y codos y de lesiones",False
+hc_00047_18,hc_00047_18.png,104/76 triglicéridos de de inferiores por,False
+hc_00047_19,hc_00047_19.png,parestesias La proteínas,False
+hc_00048_00,hc_00048_00.png,Nombre: Mónica Torres Aguilar,True
+hc_00048_01,hc_00048_01.png,N° HC: 8029162 Fecha: 22/11/2020,True
+hc_00048_02,hc_00048_02.png,Edad: 63 a Sexo: F,True
+hc_00048_03,hc_00048_03.png,DX: IV EC Melanoma,False
+hc_00048_04,hc_00048_04.png,"Tto: ciclofosfamida C4 cisplatino,",False
+hc_00048_05,hc_00048_05.png,Evol: de presentes habitación) muy,False
+hc_00048_06,hc_00048_06.png,principalmente familiares visuales dolores,False
+hc_00048_07,hc_00048_07.png,desbridamiento aceptablemente perianal pcte,False
+hc_00048_08,hc_00048_08.png,como 4/10 pcte relación verbal reconocía Tras,False
+hc_00048_09,hc_00048_09.png,"en a Ambos se controlados, zona que bien",False
+hc_00048_10,hc_00048_10.png,derecho escala como dolor tumoral la,False
+hc_00048_11,hc_00048_11.png,afectación esta menor en una hépatica el por,False
+hc_00048_12,hc_00048_12.png,"no estructuradas intensidad, refirió reales",False
+hc_00048_13,hc_00048_13.png,valorados no en alucinaciones El c/ medicación,False
+hc_00048_14,hc_00048_14.png,"(EVN). la el la y, estaban en semana en",False
+hc_00048_15,hc_00048_15.png,quirúrgico. el hipocondrio numérica localizaba,False
+hc_00048_16,hc_00048_16.png,(veía,False
+hc_00049_00,hc_00049_00.png,Nombre: Sonia Torres Huamán,True
+hc_00049_01,hc_00049_01.png,N° HCl: 2837968 F: 04/02/2024,True
+hc_00049_02,hc_00049_02.png,Edad: 60 años,True
+hc_00049_03,hc_00049_03.png,Sexo: F,True
+hc_00049_04,hc_00049_04.png,Diagnóstico: Ca cérvix EC IV de,False
+hc_00049_05,hc_00049_05.png,"Tratamiento: 8 EV ondansetrón c/8h doxorrubicina, mg ciclo",False
+hc_00049_06,hc_00049_06.png,2,False
+hc_00049_07,hc_00049_07.png,"Evol: mostraba normales. estado analítica 14,5 de física",False
+hc_00049_08,hc_00049_08.png,"colostomía. dl recuento la C otras general, medio",False
+hc_00049_09,hc_00049_09.png,"hemoglobina mc, era proteína de y niveles destacando la",False
+hc_00049_10,hc_00049_10.png,"antitrombina VSG 89,7 hematíes alteraciones el salvo Los S",False
+hc_00049_11,hc_00049_11.png,"g/dl, de un corpuscular C hora presentaba únicamente de",False
+hc_00049_12,hc_00049_12.png,exploración fueron s/ volumen T° relevantes La En y,False
+hc_00049_13,hc_00049_13.png,"número leucocitos III, 8170/ de séricos y una 50 de mm",False
+hc_00049_14,hc_00049_14.png,La buen primera proteína leucocitos normal. el,False
+hc_00049_15,hc_00049_15.png,"4.650.000/mm3, una 38 la era",False
+hc_00050_00,hc_00050_00.png,Paciente: Beatriz Aguilar Rojas,True
+hc_00050_01,hc_00050_01.png,HC: 6321274,True
+hc_00050_02,hc_00050_02.png,F: 04/11/2021,True
+hc_00050_03,hc_00050_03.png,Edad: 41 años,True
+hc_00050_04,hc_00050_04.png,Sexo: F,True
+hc_00050_05,hc_00050_05.png,"Dx: ERC Melanoma T2N1M0,",False
+hc_00050_06,hc_00050_06.png,"Rp: ceftriaxona 1 c/24h, 2 g ciclo EV oxaliplatino",False
+hc_00050_07,hc_00050_07.png,Evol: ojo segmento mm OD en pupilar destaca el,False
+hc_00050_08,hc_00050_08.png,ampolla pseudofaquia En en Hg óptico 14,False
+hc_00050_09,hc_00050_09.png,intraocular observaba (NO) OI el OD en el,False
+hc_00050_10,hc_00050_10.png,trabeculectomia un del La y OI. seclusión el En un,False
+hc_00050_11,hc_00050_11.png,de presión la en el 45 fondo y coloboma estudio OD,False
+hc_00050_12,hc_00050_12.png,era la de anterior de nervio y de coloboma en y,False
+hc_00050_13,hc_00050_13.png,"filtración retina de iris, se el de el previa.",False
+hc_00051_00,hc_00051_00.png,Nombre: Rosa Gutiérrez Rodríguez,True
+hc_00051_01,hc_00051_01.png,N° HC: 939655,True
+hc_00051_02,hc_00051_02.png,Fecha: 17/08/2021,True
+hc_00051_03,hc_00051_03.png,Edad: 31a Sexo: F,True
+hc_00051_04,hc_00051_04.png,DX: EC Tumor IIB cerebral,False
+hc_00051_05,hc_00051_05.png,"Rp: morfina gemcitabina, 5 40 c/24h c/4h, SC enoxaparina SC",False
+hc_00051_06,hc_00051_06.png,mg mg,False
+hc_00051_07,hc_00051_07.png,"Nota: dosis GCAP tto había OI era 0,6 por en sufrido de",False
+hc_00051_08,hc_00051_08.png,1997 un AV pero cuadrantes OD inducida fármacos,False
+hc_00051_09,hc_00051_09.png,administrar la El el de inició corticosteroides. inmunosupresores.,False
+hc_00051_10,hc_00051_10.png,no en Fue una necesario en de desde de pcte esfuerzo también,False
+hc_00051_11,hc_00051_11.png,percepción dos luminosa y en recidiva por osteopenia se la,False
+hc_00051_12,hc_00051_12.png,mantenimiento las el La para reducir,False
+hc_00052_00,hc_00052_00.png,Nombre: Julio Ramos Flores,True
+hc_00052_01,hc_00052_01.png,HC: 9214525 Fecha: 23/07/2024,True
+hc_00052_02,hc_00052_02.png,Edad: 21 años Sexo: M,True
+hc_00052_03,hc_00052_03.png,"Diagnóstico: IV, ERC Osteosarcoma EC",False
+hc_00052_04,hc_00052_04.png,"Rp: metotrexato, ciclofosfamida paclitaxel, ciclo",False
+hc_00052_05,hc_00052_05.png,1,False
+hc_00052_06,hc_00052_06.png,"Evol: del llevado ALK, y para La para",False
+hc_00052_07,hc_00052_07.png,alteración ACL aumento 6.2x5.8x4.2 difuso dolor,False
+hc_00052_08,hc_00052_08.png,"TdT, Hombre 90 de testículo del mide de fue",False
+hc_00052_09,hc_00052_09.png,"evolución, negativas del CD30, por de consultó",False
+hc_00052_10,hc_00052_10.png,"cual cm, Niega el blanquecino. CD3 células Por",False
+hc_00052_11,hc_00052_11.png,"otra aumentó testículo bcl6 y quien a, tumorales",False
+hc_00052_12,hc_00052_12.png,testicular evidencio mismo. masa ecografía,False
+hc_00052_13,hc_00052_13.png,encontrando positivas ecogenicidad 2 y tamaño,False
+hc_00052_14,hc_00052_14.png,"c/ de bcl2, CD10 patológicos orquidectomia",False
+hc_00052_15,hc_00052_15.png,sintomatología. y la lo testicular de en meses 42,False
+hc_00052_16,hc_00052_16.png,"fueron que Ki67 y del cual, derecho, aumentado",False
+hc_00052_17,hc_00052_17.png,"derecho, tamaño, c/ cauchoso, antecedentes Las",False
+hc_00052_18,hc_00052_18.png,progresiva. forma difusa a,False
+hc_00053_00,hc_00053_00.png,Nombre: Ana Aguilar Rodríguez,True
+hc_00053_01,hc_00053_01.png,N° HCl: 5626664 F: 02/04/2019,True
+hc_00053_02,hc_00053_02.png,Edad: 65 años,True
+hc_00053_03,hc_00053_03.png,Sexo: F,True
+hc_00053_04,hc_00053_04.png,"DX: de Hodgkin, Linfoma obesidad",False
+hc_00053_05,hc_00053_05.png,"Rp: capecitabina 3 metotrexato, cisplatino, ciclo",False
+hc_00053_06,hc_00053_06.png,Evolución: durante citrato que ha . decide riñón vez,False
+hc_00053_07,hc_00053_07.png,La potásico que Una intentar asciende colocación a,False
+hc_00053_08,hc_00053_08.png,finalizados se dilatación formado del c/ J colocación,False
+hc_00053_09,hc_00053_09.png,procede de de c/8h total s/ doble ureteral de (Acalka,False
+hc_00053_10,hc_00053_10.png,meses y un J derecho. Sin al dicha un retirar se la,False
+hc_00053_11,hc_00053_11.png,de renal intentos la que 3 tratamiento alcalinizante,False
+hc_00053_12,hc_00053_12.png,de doble problemas administrar dosis guía Se impide,False
+hc_00053_13,hc_00053_13.png,catéter un 9 nudo un los observa comprimido un,False
+hc_00053_14,hc_00053_14.png,intrapiélico del trabajo. a bucle a embargo ) retirarla,False
+hc_00053_15,hc_00053_15.png,el catéter derecho por es función la guía,False
+hc_00054_00,hc_00054_00.png,Paciente: Patricia Salazar Cárdenas,True
+hc_00054_01,hc_00054_01.png,N° HC: 2047149 F: 13/08/2022,True
+hc_00054_02,hc_00054_02.png,Edad: 52a Sexo: F,True
+hc_00054_03,hc_00054_03.png,"Dx: anemia ovario der., Ca de",False
+hc_00054_04,hc_00054_04.png,"Tratamiento: 5-fluorouracilo 2 cisplatino, ciclo",False
+hc_00054_05,hc_00054_05.png,Nota: legal de El médico de resto sin confirmaron,False
+hc_00054_06,hc_00054_06.png,"distancia, larga a policial caracteres órganos etiología y",False
+hc_00054_07,hc_00054_07.png,"carácter largo indicaban examinados, la de accidental, lo se",False
+hc_00054_08,hc_00054_08.png,un las disparo a investigación morfológicos posiblemente de,False
+hc_00054_09,hc_00054_09.png,que estructuras extremos características. Los,False
+hc_00055_00,hc_00055_00.png,Nombre: Ángel Córdova Rojas,True
+hc_00055_01,hc_00055_01.png,N° HC: 3396719 F: 22/07/2024,True
+hc_00055_02,hc_00055_02.png,Edad: 47a Sexo: M,True
+hc_00055_03,hc_00055_03.png,Dx: linfoblástica T3N0M0 aguda Leucemia,False
+hc_00055_04,hc_00055_04.png,"Tto: c/12h, ondansetrón EV mg cisplatino 8",False
+hc_00055_05,hc_00055_05.png,"dexametasona EV mg C4 c/8h, 4",False
+hc_00055_06,hc_00055_06.png,Evolución: la convertidor de después la en y,False
+hc_00055_07,hc_00055_07.png,recibió de misma un angiotensina sustitutivo. por,False
+hc_00055_08,hc_00055_08.png,previas. un su los la detectada a por No inhibidor,False
+hc_00055_09,hc_00055_09.png,"de no tratamiento asintomática, estaba ello,",False
+hc_00055_10,hc_00055_10.png,"contexto Tuvo 48 estatinas, metformina de la Para",False
+hc_00055_11,hc_00055_11.png,hipercalcemia hormonal Primaria menopausia fue el,False
+hc_00055_12,hc_00055_12.png,años había recibía Atención y y fracturas de,False
+hc_00055_13,hc_00055_13.png,Clínicamente sufrido enzima ctrl (IECA). sus,False
+hc_00055_14,hc_00055_14.png,metabólico médico patologías,False
+hc_00056_00,hc_00056_00.png,Paciente: Ana Torres Torres,True
+hc_00056_01,hc_00056_01.png,N° HCl: 6409142 Fecha: 02/02/2023,True
+hc_00056_02,hc_00056_02.png,Edad: 77 años,True
+hc_00056_03,hc_00056_03.png,Sexo: F,True
+hc_00056_04,hc_00056_04.png,DX: endometrio IV de Ca EC,False
+hc_00056_05,hc_00056_05.png,"Tratamiento: C6 metotrexato, carboplatino docetaxel,",False
+hc_00056_06,hc_00056_06.png,"Evol: actividad de uterina peso nutricio), mantuvo de 23 y",False
+hc_00056_07,hc_00056_07.png,actividad un varón fetal en medidas fetal. demostró,False
+hc_00056_08,hc_00056_08.png,durante evidencia habituales uterina y manera UCI autopsia,False
+hc_00056_09,hc_00056_09.png,g. 23 c/ presentó Se macroscópica descontrol de,False
+hc_00056_10,hc_00056_10.png,"monitorización sin La de ultrasonido (22,4 evidencia y",False
+hc_00056_11,hc_00056_11.png,estancia 450 fetal de estabilidad Edad o metabólica,False
+hc_00056_12,hc_00056_12.png,"ventilatoria, día de muerte transvaginal. semanas de mostró",False
+hc_00056_13,hc_00056_13.png,"súbita, de apoyo El manejo obstétrico De día por de",False
+hc_00056_14,hc_00056_14.png,"tocográfica las sangrado hemodinámica, placentario días.",False
+hc_00056_15,hc_00056_15.png,"gestación, semanas 12° hipertensivo sufrimiento con producto",False
+hc_00056_16,hc_00056_16.png,"malformaciones desprendimiento 22 s/ c/ el gestación,",False
+hc_00057_00,hc_00057_00.png,Pcte: Juan Huamán Núñez,True
+hc_00057_01,hc_00057_01.png,HC: 3937026,True
+hc_00057_02,hc_00057_02.png,Fecha: 07/04/2020,True
+hc_00057_03,hc_00057_03.png,Edad: 51 a Sexo: M,True
+hc_00057_04,hc_00057_04.png,Diagnóstico: Melanoma EC IV,False
+hc_00057_05,hc_00057_05.png,"Rp: 20 c/24h, 1 cisplatino tamoxifeno",False
+hc_00057_06,hc_00057_06.png,"300 filgrastim VO ciclo SC, mcg mg",False
+hc_00057_07,hc_00057_07.png,Evol: cirugía cara ingresa se extirpa.,False
+hc_00057_08,hc_00057_08.png,"satisfactoriamente quirúrgica, como",False
+hc_00057_09,hc_00057_09.png,es Se pancreático-yeyunal. anterior,False
+hc_00057_10,hc_00057_10.png,"gástrica, el evoluciona que",False
+hc_00057_11,hc_00057_11.png,intraoperatoriamente tumoración que,False
+hc_00057_12,hc_00057_12.png,Se realizándose informada donde la,False
+hc_00057_13,hc_00057_13.png,decide intervención y GIST paciente,False
+hc_00057_14,hc_00057_14.png,en en pancreatectomía Tras y caudal,False
+hc_00057_15,hc_00057_15.png,"derivación encuentra UCI,",False
+hc_00058_00,hc_00058_00.png,Paciente: Raúl Ramos Núñez,True
+hc_00058_01,hc_00058_01.png,N° HC: 7221048 F: 21/05/2023,True
+hc_00058_02,hc_00058_02.png,Edad: 77 a Sexo: M,True
+hc_00058_03,hc_00058_03.png,"Diagnóstico: IV, izq. EC EPOC Osteosarcoma",False
+hc_00058_04,hc_00058_04.png,"Tto: c/12h, ciclo EV oxaliplatino 4",False
+hc_00058_05,hc_00058_05.png,dexametasona 2 mg,False
+hc_00058_06,hc_00058_06.png,"Nota: apósito realizados 5 En v.o.,",False
+hc_00058_07,hc_00058_07.png,transmucosa del al en mcg y y colocó,False
+hc_00058_08,hc_00058_08.png,"infiltró tto. parte un ósea), Se y ser",False
+hc_00058_09,hc_00058_09.png,mg oral realizar punción. todas 1 lumbares de,False
+hc_00058_10,hc_00058_10.png,sitios 2-5 por midazolam fentanilo,False
+hc_00058_11,hc_00058_11.png,paciente al de de crema lugar ) (4 c/ los bien,False
+hc_00058_12,hc_00058_12.png,la 1 posteriormente a comenzar del,False
+hc_00058_13,hc_00058_13.png,"tolerados ocasiones complicaciones, punción",False
+hc_00058_14,hc_00058_14.png,paciente citrato EMLA para se (Dormicum,False
+hc_00058_15,hc_00058_15.png,piel v.o. s/ pudieron OTFC punciones 400,False
+hc_00058_16,hc_00058_16.png,premedicó el siendo éstos c/ lidocaína,False
+hc_00058_17,hc_00058_17.png,aspirativa 30 de punción de Pasados,False
+hc_00058_18,hc_00058_18.png,minutos ml ) (Actiq se las,False
+hc_00059_00,hc_00059_00.png,Paciente: Jorge Paredes Cruz,True
+hc_00059_01,hc_00059_01.png,N° HCl: 3381495 Fecha: 20/05/2022,True
+hc_00059_02,hc_00059_02.png,Edad: 36 años Sexo: M,True
+hc_00059_03,hc_00059_03.png,Diagnóstico: Osteosarcoma der.,False
+hc_00059_04,hc_00059_04.png,T3N0M0,False
+hc_00059_05,hc_00059_05.png,Tto: omeprazol dexametasona 20 4,False
+hc_00059_06,hc_00059_06.png,"c/12h VO mg EV c/24h, mg",False
+hc_00059_07,hc_00059_07.png,Evol: abdomen y total exploración con,False
+hc_00059_08,hc_00059_08.png,"de antes general, A física coágulos.",False
+hc_00059_09,hc_00059_09.png,Días globuloso c/ se presentó estado,False
+hc_00059_10,hc_00059_10.png,la la del paciente apreciaba,False
+hc_00059_11,hc_00059_11.png,toracotomía cicatriz de consulta,False
+hc_00059_12,hc_00059_12.png,hematuria deterioro,False

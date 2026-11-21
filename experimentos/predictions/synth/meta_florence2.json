@@ -1,0 +1,24 @@
+{
+  "name": "Florence-2-large",
+  "hf_id": "florence-community/Florence-2-large",
+  "license": "MIT",
+  "load_s": 2.188947916030884,
+  "vram_peak_gb": 1.900556288,
+  "n": 3077,
+  "gpus": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "gpu_mem_after_load_gb": [
+    1.56,
+    0.0
+  ],
+  "gpu_peak_gb_per_device": [
+    1.91,
+    0.0
+  ],
+  "n_gpus_used": 1,
+  "device_map": "cuda:0",
+  "transformers": "5.20.2",
+  "lora_dir": null
+}

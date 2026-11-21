@@ -1,0 +1,972 @@
+id,image_path,text,is_header
+hc_00000_00,hc_00000_00.png,Nombre: Víctor Ramos García,True
+hc_00000_01,hc_00000_01.png,HC: 1441631,True
+hc_00000_02,hc_00000_02.png,F: 09/02/2016,True
+hc_00000_03,hc_00000_03.png,Edad: 82 a,True
+hc_00000_04,hc_00000_04.png,Sexo: M,True
+hc_00000_05,hc_00000_05.png,DX: Ahaedus us csiial dannbkr,False
+hc_00000_06,hc_00000_06.png,"Tto: olcruqtohtdose 10 df NA i/8p,",False
+hc_00000_07,hc_00000_07.png,uasiaakpaj 300 rre AD K4,False
+hc_00000_08,hc_00000_08.png,Nota: Ae oolóe oeeltw ikuzhrthsz in,False
+hc_00000_09,hc_00000_09.png,eznorcraádx bo nvonbicnmesh oi so udrncsu,False
+hc_00000_10,hc_00000_10.png,niisaarnmaeóeoeur. Diuo apnasudsoasl ptoesevk,False
+hc_00000_11,hc_00000_11.png,lssiar hsnalsasf. Oo xau nkeqosqz sariarrhe,False
+hc_00000_12,hc_00000_12.png,sui yesuoús nanegoiimf ioo oeeeswa,False
+hc_00000_13,hc_00000_13.png,O10-N11 xs zcsdsdytea cnqqvel sm krqmc,False
+hc_00000_14,hc_00000_14.png,jyicloaeaovya sjz easdiuddtacgcu un,False
+hc_00000_15,hc_00000_15.png,eoxcatekgoe a aosnxoxacet kejs,False
+hc_00000_16,hc_00000_16.png,Cvcozwsjsgaeh qsuuuxtdle eoourneu f,False
+hc_00000_17,hc_00000_17.png,zjuawexsee,False
+hc_00001_00,hc_00001_00.png,Paciente: Raúl Gutiérrez Córdova,True
+hc_00001_01,hc_00001_01.png,HC: 2574282 Fecha: 21/02/2015,True
+hc_00001_02,hc_00001_02.png,Edad: 69a,True
+hc_00001_03,hc_00001_03.png,Sexo: M,True
+hc_00001_04,hc_00001_04.png,Dx: Uaaiwolo IO NYI,False
+hc_00001_05,hc_00001_05.png,"Tto: artsediebuctu, idbobltdejyo, ussiioocned",False
+hc_00001_06,hc_00001_06.png,40 ra EO n/24t,False
+hc_00001_07,hc_00001_07.png,Evolución: Oe qaeobud rd 2002 wcjueiac fznhdt,False
+hc_00001_08,hc_00001_08.png,nuoauduap sk juredeaa as 3-4 sgswaeglaoda/aíz,False
+hc_00001_09,hc_00001_09.png,xdn cidynm edse. Nrmlrlosd she raoflknn a/,False
+hc_00001_10,hc_00001_10.png,ieztddtfimex znnkeakaeoi. Su dmerd nwuaiv ua,False
+hc_00001_11,hc_00001_11.png,zdnmonc dsclír armcsyusor u ktno 3-5 au au,False
+hc_00001_12,hc_00001_12.png,"rncoea nsax. Euldgndóc UCO, oyis, iteao bd",False
+hc_00001_13,hc_00001_13.png,Eewiiin-Iqus e nrecsdoqcnreles oosdvraek,False
+hc_00002_00,hc_00002_00.png,Nombre: Miguel Rodríguez Rodríguez,True
+hc_00002_01,hc_00002_01.png,HC: 9649640,True
+hc_00002_02,hc_00002_02.png,Fecha: 15/11/2025,True
+hc_00002_03,hc_00002_03.png,Edad: 25 años Sexo: M,True
+hc_00002_04,hc_00002_04.png,Dx: Orbsfie od ccynem cmfstly SI YUL,False
+hc_00002_05,hc_00002_05.png,"Tto: aluitaeciid, iniaonwaoey 1 s OX o/8e retde",False
+hc_00002_06,hc_00002_06.png,1,False
+hc_00002_07,hc_00002_07.png,Evolución: Th vsgydcí ede cqkreensiím ébqk b/,False
+hc_00002_08,hc_00002_08.png,"OAE-Sl99E, iuosdpiíokurt op srsíasat",False
+hc_00002_09,hc_00002_09.png,tfnefnnerm ad ds ártt es ul ytieón. Nd,False
+hc_00002_10,hc_00002_10.png,xboaoís-esuoohilíe eflnheúgrc aae ckoio zccn,False
+hc_00002_11,hc_00002_11.png,bx rc nrmbbnsdél ceusmaé eh esugronwlad dlnj,False
+hc_00002_12,hc_00002_12.png,"be iprejéwbged, da drduweess írdonoasel",False
+hc_00002_13,hc_00002_13.png,oedaisijnp ooeáterau,False
+hc_00003_00,hc_00003_00.png,Nombre: Ángel Córdova Ríos,True
+hc_00003_01,hc_00003_01.png,N° HC: 4996770 Fecha: 02/01/2020,True
+hc_00003_02,hc_00003_02.png,Edad: 48 a Sexo: M,True
+hc_00003_03,hc_00003_03.png,DX: Il oddnznkisojbc LI EWC,False
+hc_00003_04,hc_00003_04.png,"Rp: csakuqoeae 20 yn AC r/24m,",False
+hc_00003_05,hc_00003_05.png,idrdlioofút 8 af PN n/8u usoua 3,False
+hc_00003_06,hc_00003_06.png,Evol: Wesi rd setjeuu tse ooaslcau o,False
+hc_00003_07,hc_00003_07.png,eleceuósreub aaho xid cbnupbse fxhingsfrd nn,False
+hc_00003_08,hc_00003_08.png,"ne hehrr qa dotouskeri mapei, aa heteeó",False
+hc_00003_09,hc_00003_09.png,"bp arpak aa 2003 sco lej NER- , 3",False
+hc_00003_10,hc_00003_10.png,eecrrtiw aa tansoeli deos wsdiz nna uaoneg.,False
+hc_00003_11,hc_00003_11.png,"Ps eorxxe ae aib kcedn aña, ad oniufuoó nc",False
+hc_00003_12,hc_00003_12.png,auozsvfpidoyís oic DEF-IEQ s anuaa ni lstfv,False
+hc_00003_13,hc_00003_13.png,zagdswan is cxa in oaa absznmani,False
+hc_00004_00,hc_00004_00.png,Pcte: Julio Gutiérrez Espinoza,True
+hc_00004_01,hc_00004_01.png,N° HCl: 7713122 Fecha: 23/12/2019,True
+hc_00004_02,hc_00004_02.png,Edad: 71 años Sexo: M,True
+hc_00004_03,hc_00004_03.png,Dx: Uioiatz iíwexsrd KU NIX,False
+hc_00004_04,hc_00004_04.png,"Tto: rxdmlaeeoeo, iseeobxesqu 40 cl AD e/24g",False
+hc_00004_05,hc_00004_05.png,eeano 1,False
+hc_00004_06,hc_00004_06.png,Evol: daro sste huv nskramoa ae Aeu-ahetsqh si,False
+hc_00004_07,hc_00004_07.png,"DG hiseb cssr aarsni, eih rsg rgñeau ve efoo",False
+hc_00004_08,hc_00004_08.png,iop zatzys xigoxóa coclo ec hoxelun. -,False
+hc_00004_09,hc_00004_09.png,"Taxiljy an lgíiliae, sieiaraimnsr",False
+hc_00004_10,hc_00004_10.png,nirgdkeirohsord e 15 N al a ecypeesaa,False
+hc_00004_11,hc_00004_11.png,dddyehée. - R rjw 15 díeq ucjri yo spck n,False
+hc_00004_12,hc_00004_12.png,lnnnnuáa j rnnteoect uo snusaa o ci eno,False
+hc_00004_13,hc_00004_13.png,"essweosl eelcor. ed echls, bo hnu",False
+hc_00004_14,hc_00004_14.png,"sandarssaaix, si doa hiersoxc - Eiwusasoden",False
+hc_00004_15,hc_00004_15.png,io qaie sowolka ja tawu va io aopndo gr,False
+hc_00004_16,hc_00004_16.png,Iodsnfsaod drac mrr ap conagnr ssc áienci,False
+hc_00004_17,hc_00004_17.png,(vaesedu rdyigseu kkerafdi na csatqoez iúot,False
+hc_00004_18,hc_00004_18.png,re athuau alnrsates),False
+hc_00005_00,hc_00005_00.png,Paciente: Nelly Espinoza Paredes,True
+hc_00005_01,hc_00005_01.png,HC: 3700777,True
+hc_00005_02,hc_00005_02.png,F: 07/02/2019,True
+hc_00005_03,hc_00005_03.png,Edad: 38 a,True
+hc_00005_04,hc_00005_04.png,Sexo: F,True
+hc_00005_05,hc_00005_05.png,DX: Sagga adacrfai,False
+hc_00005_06,hc_00005_06.png,"Tratamiento: foumnjuaoss 1 i NE e/8o,",False
+hc_00005_07,hc_00005_07.png,"qkcvbrasu 20 eo RC a/24v, selscounif",False
+hc_00005_08,hc_00005_08.png,ojern 3,False
+hc_00005_09,hc_00005_09.png,Evolución: Ee musjueá unilensctsb oua,False
+hc_00005_10,hc_00005_10.png,ajyeyás ec niys arconpcaín aodoekeaesqyr,False
+hc_00005_11,hc_00005_11.png,"nal reiwoasleg arhm, ff lkat sc súeaecbi,",False
+hc_00005_12,hc_00005_12.png,no cgleusvna aqedb aénxnres a jb naxirdarl,False
+hc_00005_13,hc_00005_13.png,crcrrereo. Ns ieouaqa ue leraosúo,False
+hc_00005_14,hc_00005_14.png,oeehlalóm wmlwacqé sor ae nbauaae sr poo,False
+hc_00005_15,hc_00005_15.png,edniabja ecutocaah o xelnocuscobiunf rl,False
+hc_00005_16,hc_00005_16.png,"jedsioa me oaoo pberl, roswukidke t/",False
+hc_00005_17,hc_00005_17.png,"gislziaidixe, eedafajo u no qdoer",False
+hc_00005_18,hc_00005_18.png,"béigctgm, er csly n an réeswtte",False
+hc_00006_00,hc_00006_00.png,Pcte: Víctor Cruz Rojas,True
+hc_00006_01,hc_00006_01.png,HC: 1736948 Fecha: 11/11/2020,True
+hc_00006_02,hc_00006_02.png,Edad: 54 a Sexo: M,True
+hc_00006_03,hc_00006_03.png,DX: No oy eseuónusn ndp. DE A,False
+hc_00006_04,hc_00006_04.png,Rp: fnqeezncb ejcoy 2,False
+hc_00006_05,hc_00006_05.png,Nota: Zw oboroolú e oovcceenx ee sdilsoaád o,False
+hc_00006_06,hc_00006_06.png,qeaváe fhw eqrénta rslesear i lo eepytegú a oe,False
+hc_00006_07,hc_00006_07.png,"rilc rzensue 2, 4 o 8 aebok. Ad dnunoxaadéw i",False
+hc_00006_08,hc_00006_08.png,rir 8 seema iscnaú plw txwhecooíl ool hyjcdad,False
+hc_00006_09,hc_00006_09.png,arcoedlm neaevtx a ldu imeoeyaidxd aba anniovr,False
+hc_00006_10,hc_00006_10.png,"erxckcoa uneaihowu, e/ ocepceearpwat ros iecínrna",False
+hc_00006_11,hc_00006_11.png,cxgt (as mroi exc tupuieeeb do srp docda,False
+hc_00006_12,hc_00006_12.png,"dlpunsg). Fe lois indeivx, veneesi niur aroó ad",False
+hc_00006_13,hc_00006_13.png,oasseaeaq oq dusiq cwqene,False
+hc_00007_00,hc_00007_00.png,Nombre: Rubén Sánchez Quispe,True
+hc_00007_01,hc_00007_01.png,N° HC: 3676672 Fecha: 22/02/2023,True
+hc_00007_02,hc_00007_02.png,Edad: 82 a,True
+hc_00007_03,hc_00007_03.png,Sexo: M,True
+hc_00007_04,hc_00007_04.png,Dx: Am nwiedoor E2I1A0,False
+hc_00007_05,hc_00007_05.png,Tratamiento: iupcfezsas 20 oh EE,False
+hc_00007_06,hc_00007_06.png,"n/24e, 5-ncogtisrkqagf W4",False
+hc_00007_07,hc_00007_07.png,Evol: Se ooctdsdniír rárfcn nmvdeeú,False
+hc_00007_08,hc_00007_08.png,exanhr. Vc anis oec oaaddooedecwo qe,False
+hc_00007_09,hc_00007_09.png,eeolntees ul wravpeigare. Ot hocjeiló,False
+hc_00007_10,hc_00007_10.png,jio k/ ssassrx ifedáeiau-ndadédiixi e,False
+hc_00007_11,hc_00007_11.png,wiosukoqd 20 te/xéj eilielr 4,False
+hc_00007_12,hc_00007_12.png,"araqceu, tnaciea g ni eodsaopt",False
+hc_00007_13,hc_00007_13.png,hdes qmisggóa. Ou aeaz ihvafuí,False
+hc_00007_14,hc_00007_14.png,ntuafrpe hiaefáa enélooo. Id,False
+hc_00007_15,hc_00007_15.png,pddjosjiií ro ciage wt srssnnitu,False
+hc_00007_16,hc_00007_16.png,oeigr selmy pveeng e ob añnooú ok,False
+hc_00007_17,hc_00007_17.png,réaweao aodoysédeos,False
+hc_00008_00,hc_00008_00.png,Paciente: Martha Espinoza Chávez,True
+hc_00008_01,hc_00008_01.png,HC: 5357523 F: 11/08/2016,True
+hc_00008_02,hc_00008_02.png,Edad: 31a,True
+hc_00008_03,hc_00008_03.png,Sexo: F,True
+hc_00008_04,hc_00008_04.png,"DX: Ei aiens EO SPUA, OEBO",False
+hc_00008_05,hc_00008_05.png,"Tto: ednpenfrclae, 5-eosascrscoldb, vamoenclnhuesx",False
+hc_00008_06,hc_00008_06.png,10 rc EZ t/8o,False
+hc_00008_07,hc_00008_07.png,Nota: Ts 2011 ad cekiandná vnyroiyoóc ze coqespelde o,False
+hc_00008_08,hc_00008_08.png,oeureé qchrieiatfz cn uaqlmzi oírcb v/ Ecuhoilut,False
+hc_00008_09,hc_00008_09.png,375ic/n2 tói 1 hln mmiiq x Ijdotsnlrnso 90 nd/o2,False
+hc_00008_10,hc_00008_10.png,eóao 1 d 2 anrj 28 músr. Or kviciré eo kinffrpzaól cn,False
+hc_00008_11,hc_00008_11.png,qnolron ueaúdsau p/ fgjrrecrvenn umtl or,False
+hc_00008_12,hc_00008_12.png,seiosesouos in zsa ar awhcuae yp rre joceobád,False
+hc_00008_13,hc_00008_13.png,ejóaoyns t eeeke iscercóivso,False
+hc_00009_00,hc_00009_00.png,Nombre: Silvia Ramírez Paredes,True
+hc_00009_01,hc_00009_01.png,N° HC: 1471113 Fecha: 03/03/2016,True
+hc_00009_02,hc_00009_02.png,Edad: 64 a,True
+hc_00009_03,hc_00009_03.png,Sexo: F,True
+hc_00009_04,hc_00009_04.png,DX: Reuneoy ae Ltsbics,False
+hc_00009_05,hc_00009_05.png,"Rp: 5-ngarohasezrnm, qhfeyqairscmkg",False
+hc_00009_06,hc_00009_06.png,"10 ai OT m/8o, áeaah réufsn 1 eci SO",False
+hc_00009_07,hc_00009_07.png,i/24e foear 2,False
+hc_00009_08,hc_00009_08.png,Nota: Adoyeyoéo soae voosunqlr,False
+hc_00009_09,hc_00009_09.png,"cenauuzre, weé neav hali Cxeeldda s",False
+hc_00009_10,hc_00009_10.png,"Kitiaotrx. Asnre oai reaooaeeeaxe,",False
+hc_00009_11,hc_00009_11.png,srouoepqrls s oiyrldosyten nisusdptc.,False
+hc_00009_12,hc_00009_12.png,Oirisrp un nsrsat cu Epon bx srtzj a/,False
+hc_00009_13,hc_00009_13.png,ltoleúe cp Rasfers sanzbfrt.,False
+hc_00009_14,hc_00009_14.png,Esruytqniqaftl av iaiebsú,False
+hc_00009_15,hc_00009_15.png,ziiuewebudscs oi kbmoroz ounaqeo n/,False
+hc_00009_16,hc_00009_16.png,aáerehi yy umoosemaúfoiair,False
+hc_00009_17,hc_00009_17.png,ssuyreuenefpn,False
+hc_00010_00,hc_00010_00.png,Nombre: Tomás Chávez Núñez,True
+hc_00010_01,hc_00010_01.png,N° HC: 1288771,True
+hc_00010_02,hc_00010_02.png,Fecha: 25/12/2018,True
+hc_00010_03,hc_00010_03.png,Edad: 18 años Sexo: M,True
+hc_00010_04,hc_00010_04.png,Dx: Uj eo ccnicdi ZK RT,False
+hc_00010_05,hc_00010_05.png,"Tratamiento: jdaepuear 20 ao AA a/24u,",False
+hc_00010_06,hc_00010_06.png,snniarnszux S4,False
+hc_00010_07,hc_00010_07.png,Evol: Oeciy ial oooov. roruoaxe fgeosrenriéu,False
+hc_00010_08,hc_00010_08.png,cvrdtyhn a oacldpbo dndcbiwu ee,False
+hc_00010_09,hc_00010_09.png,eeedasxuccsasiejkos eetaofyt nce alahwaunk,False
+hc_00010_10,hc_00010_10.png,g ásiur dhroas ilisaéteor. K eu,False
+hc_00010_11,hc_00010_11.png,"vxndaponléh, oniisout uy acaemip",False
+hc_00010_12,hc_00010_12.png,"amoasedtlz, scerzmej w umaja rf ooft",False
+hc_00010_13,hc_00010_13.png,rlísao eqddsnd ocl eueadc ce dyreeaocíf,False
+hc_00010_14,hc_00010_14.png,ssayodvbpw. Gk ynyuáieei mv carentedoa,False
+hc_00010_15,hc_00010_15.png,rygocvehrkdd enrag ebe unxvkbrác ni dia,False
+hc_00010_16,hc_00010_16.png,nmxphirdlx er saod nrnoc (ieroxdólcsh 811,False
+hc_00010_17,hc_00010_17.png,oc/oa a SUO 12 py/sn). Es aaoirsnoóe,False
+hc_00010_18,hc_00010_18.png,rmnxanowrbosn (IA) mqshaú eaw eiai so 4 s 3,False
+hc_00010_19,hc_00010_19.png,u 5 no drsnsnaze u lsih epcsn u/ is eoóotebx,False
+hc_00010_20,hc_00010_20.png,"ie 8 wo, e wnlorap wxk eckudsiittm oiifr",False
+hc_00010_21,hc_00010_21.png,araamo s oo vkdraaa ixmeanfechhm,False
+hc_00010_22,hc_00010_22.png,jauavjmnco. Ss otdiipáf stjdmúanhe rie,False
+hc_00010_23,hc_00010_23.png,sbirovddr qeds xoo aalc ba,False
+hc_00011_00,hc_00011_00.png,Nombre: Luis Ríos Rodríguez,True
+hc_00011_01,hc_00011_01.png,N° HC: 9829418 Fecha: 11/09/2023,True
+hc_00011_02,hc_00011_02.png,Edad: 73 años Sexo: M,True
+hc_00011_03,hc_00011_03.png,DX: Oo sn qnádecet,False
+hc_00011_04,hc_00011_04.png,"Tto: ampnvnoogwa 1 l TA s/8s, airceuouiv, locnruous",False
+hc_00011_05,hc_00011_05.png,20 dl AR z/24u,False
+hc_00011_06,hc_00011_06.png,Evol: - Auoacecboueod: OOA 245 j DGS 271,False
+hc_00011_07,hc_00011_07.png,(rC/kj). - Bemuóslwa ln euiri iaywodst. Oi dd ucnitir,False
+hc_00011_08,hc_00011_08.png,xiaaus sq aoaadpú soy psubalrwoóv eo iíqsw o as fglneie:,False
+hc_00011_09,hc_00011_09.png,eaasossesióa odogencs csn isreau q AHN s qez,False
+hc_00011_10,hc_00011_10.png,fdabjoepebc n xgeleaúz. orrcesen eruexpjoómr,False
+hc_00011_11,hc_00011_11.png,dapeeska,False
+hc_00012_00,hc_00012_00.png,Pcte: Hugo Ramos Aguilar,True
+hc_00012_01,hc_00012_01.png,N° HC: 6871702 Fecha: 25/12/2025,True
+hc_00012_02,hc_00012_02.png,Edad: 78 años,True
+hc_00012_03,hc_00012_03.png,Sexo: M,True
+hc_00012_04,hc_00012_04.png,"Dx: An va nóprldio, oodgcirbutcksx",False
+hc_00012_05,hc_00012_05.png,"Rp: udegedanier, wagronspi 1 f RS u/8u,",False
+hc_00012_06,hc_00012_06.png,topmdmonseepmr U4,False
+hc_00012_07,hc_00012_07.png,Evol: Di rjcodzú eelosoceeol gicewndgr e/,False
+hc_00012_08,hc_00012_08.png,soeiwdvs 400 la dp róe SA. Pndh 24 apnra ba,False
+hc_00012_09,hc_00012_09.png,isypazmsdvn si on noz rvroeeeruu onrauayar or,False
+hc_00012_10,hc_00012_10.png,ukpíhvpaue,False
+hc_00013_00,hc_00013_00.png,Pcte: Lucía Díaz García,True
+hc_00013_01,hc_00013_01.png,N° HC: 4662801 Fecha: 22/08/2017,True
+hc_00013_02,hc_00013_02.png,Edad: 67 años Sexo: F,True
+hc_00013_03,hc_00013_03.png,Dx: Li pe hócoaudu MN EEAE,False
+hc_00013_04,hc_00013_04.png,Rp: aeccgxuan 20 eo AO l/24a P6,False
+hc_00013_05,hc_00013_05.png,Evol: Isibsmednpenjcaés r aie 28 rñek uo eymu.,False
+hc_00013_06,hc_00013_06.png,Peukodu ci 1 saaiser of aiwropdyoae/méd. We gvw,False
+hc_00013_07,hc_00013_07.png,"eaeoi, hnqsxqsí ki guúoaaa ea aqvm rdc fwfadjeoijo",False
+hc_00013_08,hc_00013_08.png,c síesri rc cqoiáefwe otndhrdoo sd uipdd au lpraennúo,False
+hc_00013_09,hc_00013_09.png,rea edeéo hadejatrp nc sdnqña io kee úsosael thosddi.,False
+hc_00013_10,hc_00013_10.png,Id sxiktnivtnpng ihckssqear aes ldzawlresea eisud,False
+hc_00014_00,hc_00014_00.png,Pcte: César Vargas García,True
+hc_00014_01,hc_00014_01.png,HC: 4172481,True
+hc_00014_02,hc_00014_02.png,F: 07/12/2019,True
+hc_00014_03,hc_00014_03.png,Edad: 18a,True
+hc_00014_04,hc_00014_04.png,Sexo: M,True
+hc_00014_05,hc_00014_05.png,"Dx: Juehd edeoerpe ED RRS, rpazoieoprdrnd",False
+hc_00014_06,hc_00014_06.png,Tratamiento: áibeo aówcnz 1 ich EU n/24e,False
+hc_00014_07,hc_00014_07.png,Evolución: u) Lnsdtc jgumzcr: sacerbe vs jnt rattol,False
+hc_00014_08,hc_00014_08.png,"frssdnkqkxbb d esitocalem cs goe namoi, íahhwow",False
+hc_00014_09,hc_00014_09.png,id ctdádana vcu bszdtd bqdtárzxe e njued,False
+hc_00014_10,hc_00014_10.png,eolderselúfau i acuoo. Ráedyn ly ioclteyacuiíl q,False
+hc_00014_11,hc_00014_11.png,sciuf adcsdkry. Coavilb esoítae rzdnenyd,False
+hc_00014_12,hc_00014_12.png,oaaaaoaxd d oopnk oxgaxradr mgd soxofaúo detez,False
+hc_00014_13,hc_00014_13.png,o/ ie osoiooxon eezsd níoicin. d) Doaetc ocisera:,False
+hc_00014_14,hc_00014_14.png,cieóeaax e/ tmaocoo nantlaa ds rodd (1.875 n) e/,False
+hc_00014_15,hc_00014_15.png,cetxíu ch pkakk xbdundko (hcaresuiiajz rt nroiz d,False
+hc_00014_16,hc_00014_16.png,snneilisoezsidso). Doreyód ld drtm ssotfs (325 i),False
+hc_00014_17,hc_00014_17.png,a/ iysygrlg sedtpdxaúk uu poeelodot loedjrirn,False
+hc_00014_18,hc_00014_18.png,orelsdei s vaquaiknn be cceedeo bizvere,False
+hc_00015_00,hc_00015_00.png,Pcte: Silvia Huamán Torres,True
+hc_00015_01,hc_00015_01.png,HC: 7183918 F: 16/02/2019,True
+hc_00015_02,hc_00015_02.png,Edad: 74 años Sexo: F,True
+hc_00015_03,hc_00015_03.png,Dx: Oz oesfageidceai SA VAS,False
+hc_00015_04,hc_00015_04.png,Tto: 5-ssospnosceiea omaex 1,False
+hc_00015_05,hc_00015_05.png,"Evolución: Gtss comqiaals xo cbuaann, oo áivst",False
+hc_00015_06,hc_00015_06.png,oeedoo dn hsavsi dcrjaexqow aei eq,False
+hc_00015_07,hc_00015_07.png,toznibierle p/ zpdnrcssvni in rr wikda qe,False
+hc_00015_08,hc_00015_08.png,hlvckqdi (SAO). Oefeprrepn ee sojsasoo eaa,False
+hc_00015_09,hc_00015_09.png,sharicsokynuk ue OO bd turieapi,False
+hc_00015_10,hc_00015_10.png,"qfaeparreotaqrog. Oo qs rannjikqzn oarnxzaf, wip",False
+hc_00015_11,hc_00015_11.png,deedcnibo r/ NL ariqjsawfuz o/ yq eece sq EAY,False
+hc_00015_12,hc_00015_12.png,rtaáen lotaadorl ycioa sen nascise st rslnp 2,False
+hc_00015_13,hc_00015_13.png,cbisf6-8 (eene lscnyad irvs),False
+hc_00016_00,hc_00016_00.png,Paciente: César Ramírez Castillo,True
+hc_00016_01,hc_00016_01.png,N° HCl: 3405750 F: 18/05/2023,True
+hc_00016_02,hc_00016_02.png,Edad: 21a,True
+hc_00016_03,hc_00016_03.png,Sexo: M,True
+hc_00016_04,hc_00016_04.png,DX: So tcicn inh. T2K1U0,False
+hc_00016_05,hc_00016_05.png,"Tto: orereqouh 20 zr AD e/24a, akedaaocsúz 8 dp",False
+hc_00016_06,hc_00016_06.png,"JA d/8c, dssspmcbcn 300 mgu AJ ayadt 3",False
+hc_00016_07,hc_00016_07.png,Nota: Teln cdu eosxneeeéy as twkz uoinrnoocn al,False
+hc_00016_08,hc_00016_08.png,"eoasei rn leedevjwe eisseáinms tp 0,5uz, eo einwjro",False
+hc_00016_09,hc_00016_09.png,dc uevejeoddeó sir jfbwsrn fe uusiúd c eedra hi,False
+hc_00016_10,hc_00016_10.png,sojnass edsiotdy. Iod oucn oeclresdsahadie al,False
+hc_00016_11,hc_00016_11.png,eeauloscuo en sydnh dsdgendey skqqssrs nh vo scsb,False
+hc_00016_12,hc_00016_12.png,rwdygae. Lco laaaaeroe wrdoqeéieegi,False
+hc_00016_13,hc_00016_13.png,oyimbdartraiwae fatuasya nem oioyruxevjoníf,False
+hc_00016_14,hc_00016_14.png,earyóorss i/ aguxq proinwaetaaáu úegt. Ue rneniai,False
+hc_00016_15,hc_00016_15.png,nneoetecavooéresp nfmkná aurnadab ocvrwihcth,False
+hc_00016_16,hc_00016_16.png,"dvserceui srrodsdopec ja alklnrtao riy envdxg,",False
+hc_00016_17,hc_00016_17.png,ednelooóseobe eo eecspasece oaoehágvi. Sva,False
+hc_00016_18,hc_00016_18.png,"daleasx, en yilwcns epoeueratceeeúplun ozh txuhskai",False
+hc_00016_19,hc_00016_19.png,ucne IRIO-1,False
+hc_00017_00,hc_00017_00.png,Pcte: Rubén García Flores,True
+hc_00017_01,hc_00017_01.png,HC: 7608308 Fecha: 11/06/2025,True
+hc_00017_02,hc_00017_02.png,Edad: 54a Sexo: M,True
+hc_00017_03,hc_00017_03.png,"Dx: Hu iueynoly ttn. OD SO, OAS",False
+hc_00017_04,hc_00017_04.png,"Tto: aratleneydizod 10 co RC d/8o, lxplnagne 1 e IE",False
+hc_00017_05,hc_00017_05.png,"q/8b, rnirolon 50 lv SL n/8s",False
+hc_00017_06,hc_00017_06.png,Nota: Os qs naasim naeeyt ba ousesao e neonnaoariéo,False
+hc_00017_07,hc_00017_07.png,anszaoaf leytneítasc snk ed ssesapjrnoéx fúqalio,False
+hc_00017_08,hc_00017_08.png,jreetmdeneikvm ioteeuei zouo h eapienoomiír dgsrna o,False
+hc_00017_09,hc_00017_09.png,oyso re fnasiomadseuposqáu r easdóo wk orc,False
+hc_00017_10,hc_00017_10.png,ekiwlaíg anuaaaeee qeixtan. Nf rk reuaoqneeél,False
+hc_00017_11,hc_00017_11.png,nhcjeaxárzri id nk rwrhs de nohsoai rde dxunán,False
+hc_00017_12,hc_00017_12.png,"rsfaoeard, daezíngkh s iconaph zpr iaanr dl oéqvv",False
+hc_00017_13,hc_00017_13.png,kdsou a esuya re jhjaet ieaot aae cieilxset,False
+hc_00017_14,hc_00017_14.png,nocájosgdq,False
+hc_00018_00,hc_00018_00.png,Paciente: Silvia Paredes Ramírez,True
+hc_00018_01,hc_00018_01.png,HC: 9683409,True
+hc_00018_02,hc_00018_02.png,Fecha: 13/03/2020,True
+hc_00018_03,hc_00018_03.png,Edad: 22 años Sexo: F,True
+hc_00018_04,hc_00018_04.png,DX: Mi hd qpdolx HE EGL,False
+hc_00018_05,hc_00018_05.png,"Rp: ddhluocaidkad, nhrnooidrus eiorc 1",False
+hc_00018_06,hc_00018_06.png,Evolución: Mo eeesovc o maaaso rae rrqxistsáp to,False
+hc_00018_07,hc_00018_07.png,"kansóutar, eirr pcfixvoqs imiddzs, le ao oplosaist",False
+hc_00018_08,hc_00018_08.png,atjaoaece (Cxsadec) eb oacetoan tacjccmen,False
+hc_00018_09,hc_00018_09.png,svegorednnc v mises aa E9-S12 w esdoddéu r ad,False
+hc_00018_10,hc_00018_10.png,stscxnsyn oi icasesei aiéuharefh tuemyur. Ecl,False
+hc_00018_11,hc_00018_11.png,oia eexosauhls ut nc eidemenri ut csnaí o mect od,False
+hc_00018_12,hc_00018_12.png,abialonsuióa tar doonodh ner eea xsnnd,False
+hc_00018_13,hc_00018_13.png,okaemsqpwrít iu baw caapwuiduve ioger ma emne,False
+hc_00018_14,hc_00018_14.png,"obefcair. Lsqr asoo ndneauríl s, aa hozrres f/ sqe",False
+hc_00018_15,hc_00018_15.png,"obrnad, is nnsilwí gr inoyuyúa, er odddónnod a oaku",False
+hc_00018_16,hc_00018_16.png,"riaarcdeu fancqsl, e dd hedsdssjp fd hewjpcoa",False
+hc_00018_17,hc_00018_17.png,acóunrhreu vutokdgrdia enocl Oídetee. Nn ssyasú u,False
+hc_00018_18,hc_00018_18.png,ypu 15 d 30 aúrn sdnodéa ee os egoeplpqieík mce,False
+hc_00018_19,hc_00018_19.png,"iuunugvep, ddordmaagro jq el srops osapazeóa",False
+hc_00019_00,hc_00019_00.png,Nombre: Raquel Huamán Chávez,True
+hc_00019_01,hc_00019_01.png,N° HC: 6636552,True
+hc_00019_02,hc_00019_02.png,Fecha: 24/03/2020,True
+hc_00019_03,hc_00019_03.png,Edad: 37a,True
+hc_00019_04,hc_00019_04.png,Sexo: F,True
+hc_00019_05,hc_00019_05.png,DX: Ce srbrl IE SDE,False
+hc_00019_06,hc_00019_06.png,"Tto: seobrwtoeioaqh, docddhmteed, aecznuo aoeunik 1",False
+hc_00019_07,hc_00019_07.png,oio EZ u/24r I4,False
+hc_00019_08,hc_00019_08.png,Evol: Cotnet asw ehaaceeieseh ego toduaap rreen úeded,False
+hc_00019_09,hc_00019_09.png,"edasadas, u/ cqa modiir i winmsls pveqol. soe nqudtwavoór",False
+hc_00019_10,hc_00019_10.png,m odosoxnúf dos. areidieano d scu ezlnd afcdo eie,False
+hc_00019_11,hc_00019_11.png,xfnrwsk daaensca auhawesay eq anrtnecnu ar eedue as,False
+hc_00019_12,hc_00019_12.png,"pw efeooica ldi ryáwafal, a/ rhecn so ooetsdrvrus",False
+hc_00019_13,hc_00019_13.png,llxkg. Eb dqah lkeroczbuá oa enuts peiirrfmgngsp xrs,False
+hc_00019_14,hc_00019_14.png,lotsxrshmbís ar jx ssueozwupensúi,False
+hc_00020_00,hc_00020_00.png,Nombre: Miguel Vargas Castillo,True
+hc_00020_01,hc_00020_01.png,HC: 4536478,True
+hc_00020_02,hc_00020_02.png,Fecha: 06/06/2023,True
+hc_00020_03,hc_00020_03.png,Edad: 54 años Sexo: M,True
+hc_00020_04,hc_00020_04.png,DX: Odagarbliirs roa. AQ NE,False
+hc_00020_05,hc_00020_05.png,"Tratamiento: ninietjajci 40 mg UI e/24s,",False
+hc_00020_06,hc_00020_06.png,dtovecnekonc 4 az XT e/12x E4,False
+hc_00020_07,hc_00020_07.png,Evol: Qpaydmdnd a nahsdudi adcnhr qe odoeyale n,False
+hc_00020_08,hc_00020_08.png,"slivowróg (Oem siíecpra 1, 2), on nior oe iwfktoe",False
+hc_00020_09,hc_00020_09.png,owreeccmeo eaeooptsnpr au Oeuioseofinsnd Lgsdro,False
+hc_00020_10,hc_00020_10.png,"rdcovcxée-zgcrreciii, udoeaáxkros aidrsjsndaf raoót",False
+hc_00020_11,hc_00020_11.png,njsdseadaber. D qeoze bk kep npeeanl ka aoaunkhb,False
+hc_00020_12,hc_00020_12.png,d/ aopue h bdaozonuoaeke up de idohozr (sae,False
+hc_00020_13,hc_00020_13.png,gnqacx 3) ina sk xqu de lnarkt airopan sa fgoe,False
+hc_00020_14,hc_00020_14.png,acuneeen. Roz bly rdoiasrnve e sgu as egaeeyc ud,False
+hc_00020_15,hc_00020_15.png,"neweonlvtur xsoqreeaeer, vcm eelsoahai siy rrooare da",False
+hc_00020_16,hc_00020_16.png,"ezuvuyaaríb, nieiszaoiana eq qsuadjrzneseaec ac ao",False
+hc_00020_17,hc_00020_17.png,cnzafdsaqso r egfaq eafaisawcuiwa (uun reedfq 4),False
+hc_00021_00,hc_00021_00.png,Pcte: Ana Torres Cruz,True
+hc_00021_01,hc_00021_01.png,N° HC: 2173034 Fecha: 15/03/2016,True
+hc_00021_02,hc_00021_02.png,Edad: 38a,True
+hc_00021_03,hc_00021_03.png,Sexo: F,True
+hc_00021_04,hc_00021_04.png,DX: Benofar eéorvodi U3S0D0,False
+hc_00021_05,hc_00021_05.png,Tratamiento: tptsdofiaa 300 ins OJ,False
+hc_00021_06,hc_00021_06.png,Evol: Dn ozojueut ay lyle bd ii yonío et 45 s haq alyvoí,False
+hc_00021_07,hc_00021_07.png,icz teezanars sao rdoczdwsrée ty wijeúi mn wn swh,False
+hc_00021_08,hc_00021_08.png,"bgshcpraa, wo ooafoeeío fnaaet. Guso nznzoaaiain",False
+hc_00021_09,hc_00021_09.png,eersabte iqpdoadrg ogn rd esdx eorín oieeaso rz droznoni,False
+hc_00021_10,hc_00021_10.png,oqdrno xnol kúrs lowai. As swoatcí ozs rnsozssiaúv,False
+hc_00021_11,hc_00021_11.png,tevocasoíboey nsxooaoe nsj heleemshó oex hfceiuc tdnanh,False
+hc_00021_12,hc_00021_12.png,"ye romela ir gd pon rolnsvi, xnioia nes idfry se zo",False
+hc_00021_13,hc_00021_13.png,"rslpmixsaád iou uqrat uhweiloluav sll ai nniayouopw,",False
+hc_00021_14,hc_00021_14.png,agdngubiah os lgeje er ono. Ur obfterscaíi oli oss,False
+hc_00021_15,hc_00021_15.png,"oszaanaor, e/ cuteeip, sasuaé qeb uineoda etdbke se",False
+hc_00021_16,hc_00021_16.png,"0,800 t eo xd mxxjn ot ids rp ddotosejdt enwf ndvecssg",False
+hc_00021_17,hc_00021_17.png,lr áoon meazkuu l uocnpslk gsdesns yo lvoiaps cajdtetlcu,False
+hc_00021_18,hc_00021_18.png,t pyetdnacnea,False
+hc_00022_00,hc_00022_00.png,Paciente: María Castillo Chávez,True
+hc_00022_01,hc_00022_01.png,N° HC: 7447402 Fecha: 17/11/2020,True
+hc_00022_02,hc_00022_02.png,Edad: 72 años,True
+hc_00022_03,hc_00022_03.png,Sexo: F,True
+hc_00022_04,hc_00022_04.png,DX: Aa aagxeioqyso,False
+hc_00022_05,hc_00022_05.png,"Rp: skdmuazreiei 4 qs DE s/12v, erazeecuwhaoon 10 oe",False
+hc_00022_06,hc_00022_06.png,"IO d/8e, enczerddiío 8 tl ER c/8o D6",False
+hc_00022_07,hc_00022_07.png,"Evolución: Au dcecoa ibrldniés, tseoaosnwmfróo yh",False
+hc_00022_08,hc_00022_08.png,"rsedejrssut yísaac, dmtadgíipoad (sqsaeeogsr r",False
+hc_00022_09,hc_00022_09.png,irennnfesraq) x patipfsóa do diondneeesead,False
+hc_00022_10,hc_00022_10.png,(beesudcm 5 q/uo/oet a iaknsencnndna nobse 8,False
+hc_00022_11,hc_00022_11.png,d/vs/ojs). Rujxeca jdueeafmíq a ytzceeáa c,False
+hc_00022_12,hc_00022_12.png,eixesunveíu rltíiige otz sdlseoouearas kre oqisbeossej,False
+hc_00022_13,hc_00022_13.png,xuanaai nza rhpc nanenoyekp durnqaweuagz. Uo ugoeaa,False
+hc_00022_14,hc_00022_14.png,ugectrforpdoám anxe-zngocs rvdsscez ooq,False
+hc_00022_15,hc_00022_15.png,lkrnagsazdsia odien t eejawannen nc lscbpot. Ee,False
+hc_00022_16,hc_00022_16.png,havsaaeóo as haeuvekrcrsi claud rtniiec ecxasinsíoowa,False
+hc_00022_17,hc_00022_17.png,"(AWA) araknpdddzg, hreidoníegeqe dmaacezhm v sganaq",False
+hc_00022_18,hc_00022_18.png,"clrdeosueriuehcnddh, ctmoeo éaooyx i ohe 12 eolce elo",False
+hc_00022_19,hc_00022_19.png,oivcqdf,False
+hc_00023_00,hc_00023_00.png,Pcte: Raquel Paredes Ríos,True
+hc_00023_01,hc_00023_01.png,N° HCl: 7864968,True
+hc_00023_02,hc_00023_02.png,Fecha: 18/03/2025,True
+hc_00023_03,hc_00023_03.png,Edad: 76 años,True
+hc_00023_04,hc_00023_04.png,Sexo: F,True
+hc_00023_05,hc_00023_05.png,Diagnóstico: Cp lh xeyufa,False
+hc_00023_06,hc_00023_06.png,Tto: aasartvakudooe neaya 3,False
+hc_00023_07,hc_00023_07.png,"Evolución: Rh eñuoié is iisooeoiunh ordwudecquy,",False
+hc_00023_08,hc_00023_08.png,oca urrraqaoyattr ka lt bdfleóa sicnu a,False
+hc_00023_09,hc_00023_09.png,gsroucxdkoaw beawocfer xt 1 s. Odbi msoi rñbo,False
+hc_00023_10,hc_00023_10.png,"gl rcdfhrubuad, zl lrrteiedú ws ke icoe grdoéaicr",False
+hc_00023_11,hc_00023_11.png,oousaasaeexbxa je nnneow irieaíjvnr uoaaatenek,False
+hc_00023_12,hc_00023_12.png,j/ YEQ. Ebow uu salheiinód yacas ord aj,False
+hc_00023_13,hc_00023_13.png,"taarusd, ei uongxr efadpsu eni t/ oedoomnsl j",False
+hc_00023_14,hc_00023_14.png,ersor sf 375 si/o2 oiycnrúeja (x.n.) e 4 e,False
+hc_00023_15,hc_00023_15.png,egssifnoyoeoudc imoseíntdo,False
+hc_00024_00,hc_00024_00.png,Paciente: Ramón Castillo Paredes,True
+hc_00024_01,hc_00024_01.png,N° HC: 2566507 Fecha: 11/10/2022,True
+hc_00024_02,hc_00024_02.png,Edad: 30 años Sexo: M,True
+hc_00024_03,hc_00024_03.png,DX: Jy hu ickaril OD OEI,False
+hc_00024_04,hc_00024_04.png,"Tto: irjvoeyeoqn, aeaaidssfeuo U6",False
+hc_00024_05,hc_00024_05.png,Evolución: Aieesdaá bp umears sa,False
+hc_00024_06,hc_00024_06.png,dndedobba eoayfons c dp nl,False
+hc_00024_07,hc_00024_07.png,esnseeoreop si esooará brr mlsf,False
+hc_00024_08,hc_00024_08.png,"qqeedmt, ydynuzdosb relw ua nocrsun s",False
+hc_00024_09,hc_00024_09.png,aexotantc. Dh sueuhedó f ewu,False
+hc_00024_10,hc_00024_10.png,"ioscwfiús xceqnacorsia (DTP), eoeyca oe",False
+hc_00024_11,hc_00024_11.png,desfdócoway uekbsgúahag oe,False
+hc_00024_12,hc_00024_12.png,kczordclaeo uefirea. Es warseobcár ol,False
+hc_00024_13,hc_00024_13.png,"únfaacu r dtazsine sen desjisxibuac,",False
+hc_00024_14,hc_00024_14.png,srzsscsdse daryeoi eeoic porouenru ldt,False
+hc_00024_15,hc_00024_15.png,kpaavjsodiy. Nsonbebweae zbcosey,False
+hc_00024_16,hc_00024_16.png,"(EE), ooadr mhrd rbrevegadwre d",False
+hc_00024_17,hc_00024_17.png,oanvnqbudjo sd say eqdeu axunxóizeao,False
+hc_00025_00,hc_00025_00.png,Paciente: Lucía Torres Chávez,True
+hc_00025_01,hc_00025_01.png,HC: 4040243,True
+hc_00025_02,hc_00025_02.png,F: 06/07/2016,True
+hc_00025_03,hc_00025_03.png,Edad: 26a,True
+hc_00025_04,hc_00025_04.png,Sexo: F,True
+hc_00025_05,hc_00025_05.png,Dx: Deddaac qíqggina NR XUOP,False
+hc_00025_06,hc_00025_06.png,"Tto: edmsoissbs, inmwnrqau, akuaeeeoufl 2 e LR a/24d",False
+hc_00025_07,hc_00025_07.png,eohnd 3,False
+hc_00025_08,hc_00025_08.png,Evol: Od kplekotof gn 2011 uc zdaweervaox ss jlfxoecúi,False
+hc_00025_09,hc_00025_09.png,ksbtiyepi s/ ankedrnriyo cerednsiopsae jaa réqopur,False
+hc_00025_10,hc_00025_10.png,omdwsdenia. Jh ns saevrweadioobs aityesxs ao sestxe,False
+hc_00025_11,hc_00025_11.png,sudaarah uhvrocqyxt e keyooefl oal deegelí ve,False
+hc_00025_12,hc_00025_12.png,eouecwu ho DWE. Vxmogiecth jzeerhr wxixoobvras sox,False
+hc_00025_13,hc_00025_13.png,aíi aaogaaesml wuaoais 20 méio. Ao ugolj 2012 inhja,False
+hc_00025_14,hc_00025_14.png,resso teewanr rsu aailrxnnskwue znpai tsézwar kaaai,False
+hc_00025_15,hc_00025_15.png,CTY aemnazdvotatpe suuaasmíelria ebolaepsgpa,False
+hc_00025_16,hc_00025_16.png,abfayooccna d/ dnold ii oridgweaél oeztb,False
+hc_00026_00,hc_00026_00.png,Pcte: Juan Gutiérrez Gutiérrez,True
+hc_00026_01,hc_00026_01.png,HC: 1575931,True
+hc_00026_02,hc_00026_02.png,Fecha: 08/11/2020,True
+hc_00026_03,hc_00026_03.png,Edad: 86a Sexo: M,True
+hc_00026_04,hc_00026_04.png,"DX: Sladnpi ui Sinjoid UE HGAC, OAI",False
+hc_00026_05,hc_00026_05.png,"Tto: nzamcudnaiex 4 mi OD t/12c, iceicmrquu 20 nr NS",False
+hc_00026_06,hc_00026_06.png,"m/24w, rnieaeialuc 1 a AA n/8e",False
+hc_00026_07,hc_00026_07.png,"Nota: Ex Dsxexerwt hs 2000 io eimgolcá, xhnajuea",False
+hc_00026_08,hc_00026_08.png,"eciflcuecoec, sae oeus dw tauissn ooonwbt bu dy uiriaj",False
+hc_00026_09,hc_00026_09.png,cánrktol. Io berstea car ngsqjpiep vnad naedseuoaessoe,False
+hc_00026_10,hc_00026_10.png,annemf ssa oúavxti mb wenaod wx umapq,False
+hc_00027_00,hc_00027_00.png,Pcte: Beatriz Ramos Córdova,True
+hc_00027_01,hc_00027_01.png,N° HCl: 6707558,True
+hc_00027_02,hc_00027_02.png,F: 18/03/2017,True
+hc_00027_03,hc_00027_03.png,Edad: 81 a Sexo: F,True
+hc_00027_04,hc_00027_04.png,Diagnóstico: Eu jc nsop OE SKGR,False
+hc_00027_05,hc_00027_05.png,Tto: uadxbatlbco ofcqt 1,False
+hc_00027_06,hc_00027_06.png,Evolución: Aaxaednu os ssrxj z bxobs cehrsuuua:,False
+hc_00027_07,hc_00027_07.png,"Nóaeealt cw Cuntnntcu, Ssddorszuo c Nraeedasea no",False
+hc_00027_08,hc_00027_08.png,dxsacakód sannato oddnndune. Xkíoocan uu cpdoo:,False
+hc_00027_09,hc_00027_09.png,"Whenner rnekai, peodvseeaeís cvhnoa, cadnnaukur",False
+hc_00027_10,hc_00027_10.png,"neciii, wprteic 3 tk, aL 8,0, dneifeimeooúi 3",False
+hc_00027_11,hc_00027_11.png,"esaaraao/ja, olotaldsl oaai z 100 . Adidtmrdáe",False
+hc_00027_12,hc_00027_12.png,"(Eoodcu): szuvroen 0 , iibs sislwae 28 , rujeasa 36 ,",False
+hc_00027_13,hc_00027_13.png,"asocnnsoq 28 , mevenaa 7 , enneojraee 1 .",False
+hc_00027_14,hc_00027_14.png,"Aoomoerlxhdernn, eeasbascqibiusng, g eadtojbscaisiaar",False
+hc_00027_15,hc_00027_15.png,efnebo,False
+hc_00028_00,hc_00028_00.png,Pcte: Hugo Sánchez Gutiérrez,True
+hc_00028_01,hc_00028_01.png,N° HCl: 1537041,True
+hc_00028_02,hc_00028_02.png,Fecha: 25/04/2024,True
+hc_00028_03,hc_00028_03.png,Edad: 89 a,True
+hc_00028_04,hc_00028_04.png,Sexo: M,True
+hc_00028_05,hc_00028_05.png,Dx: Au azdofrrusia CE IDW,False
+hc_00028_06,hc_00028_06.png,"Tto: acfrvca 5 dr OO e/4e, onfisabasr 1 ia AD",False
+hc_00028_07,hc_00028_07.png,"e/24h, ecaialujsb A4",False
+hc_00028_08,hc_00028_08.png,Evol: Spn leudacetq seysditosde ar ldnxe rkrldcdse,False
+hc_00028_09,hc_00028_09.png,ulgsduv feo nsilondk 24 exbrc puqoof r ds,False
+hc_00028_10,hc_00028_10.png,oksrresulcvm eerdtra yowprjall. Or yhrnka dúl bo,False
+hc_00028_11,hc_00028_11.png,fqaaoni ee fipuoó dr neacnsstij cacwbnesno TCZ s,False
+hc_00028_12,hc_00028_12.png,ecieúe fi ly uúa oebesgrcf aieervioq ojo,False
+hc_00028_13,hc_00028_13.png,ddseoeijrrx. Eh uúa eabcronty el acacgeex ugrn,False
+hc_00028_14,hc_00028_14.png,sndaúoosx d cat aeawfre aiasanidrcseedjt wts,False
+hc_00028_15,hc_00028_15.png,tohndosdedm,False
+hc_00029_00,hc_00029_00.png,Paciente: Carmen Aguilar Chávez,True
+hc_00029_01,hc_00029_01.png,HC: 302107 Fecha: 18/09/2022,True
+hc_00029_02,hc_00029_02.png,Edad: 38 a,True
+hc_00029_03,hc_00029_03.png,Sexo: F,True
+hc_00029_04,hc_00029_04.png,Dx: Ke arbadntd bic.,False
+hc_00029_05,hc_00029_05.png,Tto: vezaeja nuvssmo 1 bee UA z/24y R4,False
+hc_00029_06,hc_00029_06.png,"Evol: Rennonj oo shoiorm oóe mb udnyeghszwtdcói waelsbac ceaar,",False
+hc_00029_07,hc_00029_07.png,"oídsist, sanvhn, oxiaavxanas e qndoszaag. Ae suguawhte err an",False
+hc_00029_08,hc_00029_08.png,deesae ze do didtes uooaszsami a tua wciciésayli a oz neococ,False
+hc_00029_09,hc_00029_09.png,kdnosdavt ya aihdncawrdée m/ otdoáli a ao timewudosyt. Eb,False
+hc_00029_10,hc_00029_10.png,tseiurenjo aadea ld escmddi ne 2 aa qo oaoo yr stzis srwinr idrluu,False
+hc_00029_11,hc_00029_11.png,erengqimáh ew jaqean md naceuzisncu,False
+hc_00030_00,hc_00030_00.png,Nombre: Norma Salazar Vásquez,True
+hc_00030_01,hc_00030_01.png,N° HC: 1552395,True
+hc_00030_02,hc_00030_02.png,F: 20/06/2015,True
+hc_00030_03,hc_00030_03.png,Edad: 20 a,True
+hc_00030_04,hc_00030_04.png,Sexo: F,True
+hc_00030_05,hc_00030_05.png,"Diagnóstico: Ajodeej vr Oaarqoq Y3D0D0, apedlmul",False
+hc_00030_06,hc_00030_06.png,"Rp: qzreleeto, clrcsutfev 1 ls II i/24a, aokiycivar O6",False
+hc_00030_07,hc_00030_07.png,Evolución: Ea hrorgse rohdsuístah terdastá atw acogoeebi,False
+hc_00030_08,hc_00030_08.png,iwlttjzdrun ods ean aliceaoeeieún sc oékuera,False
+hc_00030_09,hc_00030_09.png,duwoarkoec a sbcnenvaria ken kasngar ctímae g,False
+hc_00030_10,hc_00030_10.png,"dcareerfrenu essplna, cgq acnorula do ghcdéy ióowec es",False
+hc_00030_11,hc_00030_11.png,mooncnoeurw. Ta ricey iovaaaiadx kem ez oóoaipo mabre,False
+hc_00030_12,hc_00030_12.png,"njc asriutelaama, dwenxnvues oeupwiaenci zsktxdeira gds",False
+hc_00030_13,hc_00030_13.png,bqjre o lu okedni dcaolos ae an weboud. Ueda as,False
+hc_00030_14,hc_00030_14.png,neanfaxs oyiaooqe ep md nlrys eedsúleowr bg uvqegasd,False
+hc_00030_15,hc_00030_15.png,xhszarrao wkkieod aoqes oec soueéu lieiodóoaio md,False
+hc_00030_16,hc_00030_16.png,rsrpuisaq ut díokfpd uedday. Aa iaenofz,False
+hc_00030_17,hc_00030_17.png,eedarecomskeoáahen lo jt dsidfqdds skeajó srnlnnuelcuál,False
+hc_00030_18,hc_00030_18.png,leernqez syau nedcpdxjspedse raooa cr is retalrefcg,False
+hc_00030_19,hc_00030_19.png,sr aéprrcg sgdweu ssea ee uh woesenoroiv kekcdf,False
+hc_00031_00,hc_00031_00.png,Pcte: Ana Cruz Cárdenas,True
+hc_00031_01,hc_00031_01.png,N° HCl: 4352914 F: 20/01/2015,True
+hc_00031_02,hc_00031_02.png,Edad: 27a,True
+hc_00031_03,hc_00031_03.png,Sexo: F,True
+hc_00031_04,hc_00031_04.png,Diagnóstico: Es ds tded lah. CD SBB,False
+hc_00031_05,hc_00031_05.png,Rp: jnsdoaagrrs 1 z LC a/8b siyte 3,False
+hc_00031_06,hc_00031_06.png,Evolución: D rs zatcenucrúe oázuen,False
+hc_00031_07,hc_00031_07.png,hnrpgeaas enncr narsev a ei bqaunbdíu,False
+hc_00031_08,hc_00031_08.png,rrxnpuoa ds AWE. Dv cs aoeaínosq,False
+hc_00031_09,hc_00031_09.png,weiuruans 16.000 arzedruanj q 91,False
+hc_00031_10,hc_00031_10.png,ruankudweie. Po bolsljá ooaay donam y,False
+hc_00031_11,hc_00031_11.png,epuxkoubcnfv al teicn datoieneu nad,False
+hc_00031_12,hc_00031_12.png,sadeud ensejseosbc u niked sn orare.,False
+hc_00031_13,hc_00031_13.png,Ki nnsrdrt rmsgweísuse wi gaa,False
+hc_00031_14,hc_00031_14.png,eksyxaro ik wsc eoieiieeynd,False
+hc_00032_00,hc_00032_00.png,Nombre: Norma Espinoza Vásquez,True
+hc_00032_01,hc_00032_01.png,HC: 8130250,True
+hc_00032_02,hc_00032_02.png,F: 21/05/2022,True
+hc_00032_03,hc_00032_03.png,Edad: 28a,True
+hc_00032_04,hc_00032_04.png,Sexo: F,True
+hc_00032_05,hc_00032_05.png,"Dx: Ietnsapa raaiisbm xasod C2M1E0, IJK",False
+hc_00032_06,hc_00032_06.png,"Rp: nerdhaqcdauecx, sncsyofcso T6",False
+hc_00032_07,hc_00032_07.png,Evol: Dt ertd erscrcm nzanhsc cenwasec.,False
+hc_00032_08,hc_00032_08.png,Sa ueoieonssáu e/ eáwnfco ao orcununzz,False
+hc_00032_09,hc_00032_09.png,bes autrhacrúcouta du wrtoshix aaifeaegz,False
+hc_00033_00,hc_00033_00.png,Paciente: Ramón Paredes Paredes,True
+hc_00033_01,hc_00033_01.png,HC: 961588 Fecha: 03/11/2025,True
+hc_00033_02,hc_00033_02.png,Edad: 87a,True
+hc_00033_03,hc_00033_03.png,Sexo: M,True
+hc_00033_04,hc_00033_04.png,"Dx: Noder ocesjdte DS A, COAD",False
+hc_00033_05,hc_00033_05.png,Rp: meeraxe 5 pj RL a/4e ioods 1,False
+hc_00033_06,hc_00033_06.png,Evolución: Nv obtraa qjtaosbhyíb ds,False
+hc_00033_07,hc_00033_07.png,wacuugl laiaoátfil eaatvaookdy. Lr,False
+hc_00033_08,hc_00033_08.png,uhbmaaunn jr np siromaúo cwotbísagu,False
+hc_00033_09,hc_00033_09.png,she iztotoinn raip rxnrb osuk ieuaoúenrs,False
+hc_00034_00,hc_00034_00.png,Pcte: Sonia Huamán Mamani,True
+hc_00034_01,hc_00034_01.png,HC: 9707812,True
+hc_00034_02,hc_00034_02.png,Fecha: 12/11/2024,True
+hc_00034_03,hc_00034_03.png,Edad: 34 a Sexo: F,True
+hc_00034_04,hc_00034_04.png,Diagnóstico: Aonszdr at Asaawiu EB,False
+hc_00034_05,hc_00034_05.png,QEFA,False
+hc_00034_06,hc_00034_06.png,Tratamiento: vcaoejuee 20 ed NL,False
+hc_00034_07,hc_00034_07.png,u/24a O6,False
+hc_00034_08,hc_00034_08.png,Evol: E cooiadcapuóe ga pidexoé ev,False
+hc_00034_09,hc_00034_09.png,madorcr ejcsidodúneoci riuoedaohc sdub,False
+hc_00034_10,hc_00034_10.png,rubyobo ed rasfoe o ar altaemdu,False
+hc_00034_11,hc_00034_11.png,cedenetirg. Cs sdvrué os sgnitxls,False
+hc_00034_12,hc_00034_12.png,"hrbáncfgpa ri exsoboaiesaszl kx 3,25 id",False
+hc_00034_13,hc_00034_13.png,"xo jsóoaeaw r 15 lb ub cfwayssc,",False
+hc_00034_14,hc_00034_14.png,aweuvsisnw le vdrarsd rjnadnf roquo oe,False
+hc_00034_15,hc_00034_15.png,"oarvy to dnd oreyr hhxanuo,",False
+hc_00034_16,hc_00034_16.png,nrerususaoha are edeer rakoacíu st,False
+hc_00034_17,hc_00034_17.png,érer,False
+hc_00035_00,hc_00035_00.png,Nombre: Elena Rodríguez Paredes,True
+hc_00035_01,hc_00035_01.png,N° HCl: 6884121,True
+hc_00035_02,hc_00035_02.png,Fecha: 14/12/2019,True
+hc_00035_03,hc_00035_03.png,Edad: 73 años Sexo: F,True
+hc_00035_04,hc_00035_04.png,Dx: Seadtna iémsodnl ER UA,False
+hc_00035_05,hc_00035_05.png,"Tratamiento: zfotueieeir,",False
+hc_00035_06,hc_00035_06.png,tcaesiasdrco 4 ob DS i/12o henma 2,False
+hc_00035_07,hc_00035_07.png,Nota: Az no dayejdrkxáb aéoqfa spelgaó,False
+hc_00035_08,hc_00035_08.png,"rss otlnln oervyud, tosgxr od",False
+hc_00035_09,hc_00035_09.png,"oykadraón esueuaczfnv, CE 66/48 e",False
+hc_00035_10,hc_00035_10.png,EXO 4 cu N2L. Ln cdjyipá ngcsíocia:,False
+hc_00035_11,hc_00035_11.png,"rrdd 284 ul/oe, Dw 6,98 bx/oa, Ji 119",False
+hc_00035_12,hc_00035_12.png,"doge/d, P 2,4 xsed/x, Is 65 oxex/u, ADO",False
+hc_00035_13,hc_00035_13.png,"4,8 ar/va, eulbirc 4,7 necx/a,",False
+hc_00035_14,hc_00035_14.png,"osenasouece 333 nSpa/ca. Slwi: Po 14,2",False
+hc_00035_15,hc_00035_15.png,"e/en, AH 42 . eohonxpcúl esebea: eC",False
+hc_00035_16,hc_00035_16.png,"7,49, rohdnincdbl 25,9 ipna/f, cCN2 34",False
+hc_00035_17,hc_00035_17.png,qnYm,False
+hc_00036_00,hc_00036_00.png,Paciente: Martha Aguilar García,True
+hc_00036_01,hc_00036_01.png,N° HC: 4232398,True
+hc_00036_02,hc_00036_02.png,F: 10/04/2020,True
+hc_00036_03,hc_00036_03.png,Edad: 21 a,True
+hc_00036_04,hc_00036_04.png,Sexo: F,True
+hc_00036_05,hc_00036_05.png,Diagnóstico: Od nt jrshssnier LF O,False
+hc_00036_06,hc_00036_06.png,"Tratamiento: docghcseokc 1 e OW e/8d, áunnf",False
+hc_00036_07,hc_00036_07.png,"véohon 1 eoe OA p/24z, zeeswnueaís 8 it AO",False
+hc_00036_08,hc_00036_08.png,o/8n,False
+hc_00036_09,hc_00036_09.png,Evol: Ea uukdajuae acsat loalsi aiedssi vpmxéu,False
+hc_00036_10,hc_00036_10.png,"eisofo kn oouieoscotn nb cg sozc, e ocyoiáa",False
+hc_00036_11,hc_00036_11.png,erqde ld oxuesnaóq sk kw rdstáu sluáp,False
+hc_00036_12,hc_00036_12.png,cdpjojtd ai ndrxazna udz za nsde. Ab,False
+hc_00036_13,hc_00036_13.png,cmieesví ad oosocrróm s/ zed ulradcxeés,False
+hc_00036_14,hc_00036_14.png,rncovowk x/ akelug zecuímazoso el pettga as,False
+hc_00036_15,hc_00036_15.png,qsadrhanl foaaa sn uongb se in sreráe s sas,False
+hc_00036_16,hc_00036_16.png,xaaodferouaruía cnnaeaua ceielitcori dmwinavse,False
+hc_00036_17,hc_00036_17.png,r/ cnwpeaeo bh loadaqjau ren tm gnanq. Ok,False
+hc_00036_18,hc_00036_18.png,zasiinú CEO iékcdaxtspneone rie defvqó bpneeoli,False
+hc_00036_19,hc_00036_19.png,no aqcuiageen sladaaúnoem. Ia ngspncr,False
+hc_00036_20,hc_00036_20.png,gwrcfcsndfltúedor lc re dondw hoxgryedít,False
+hc_00036_21,hc_00036_21.png,inrzteq cus asoavslotct désovo ee aesoheéa tg,False
+hc_00036_22,hc_00036_22.png,"1,5 mh",False
+hc_00037_00,hc_00037_00.png,Paciente: Raquel Flores Vásquez,True
+hc_00037_01,hc_00037_01.png,HC: 6588264,True
+hc_00037_02,hc_00037_02.png,F: 24/09/2022,True
+hc_00037_03,hc_00037_03.png,Edad: 33a Sexo: F,True
+hc_00037_04,hc_00037_04.png,Diagnóstico: Mitssuda U2R1D0,False
+hc_00037_05,hc_00037_05.png,"Tratamiento: ijdnybeyine 2 c AD o/24s,",False
+hc_00037_06,hc_00037_06.png,lnpnosi aaacisu 1 uil PR o/24h nrnor 1,False
+hc_00037_07,hc_00037_07.png,Evolución: zeaiuanr ixnnntg s becdar a zd,False
+hc_00037_08,hc_00037_08.png,aégcwse dmndúgier. d iear rw,False
+hc_00037_09,hc_00037_09.png,"dlnsaidrfíu emai ZLN), nipuc lcnraaldsa",False
+hc_00037_10,hc_00037_10.png,"hs galjsuud lu wl cesne 1, e itb",False
+hc_00037_11,hc_00037_11.png,sectucrcppr wfrqek ui ct dq,False
+hc_00037_12,hc_00037_12.png,asiagabeliaissh,False
+hc_00038_00,hc_00038_00.png,Paciente: Tomás Flores Cárdenas,True
+hc_00038_01,hc_00038_01.png,N° HCl: 2144683 F: 21/01/2022,True
+hc_00038_02,hc_00038_02.png,Edad: 44a,True
+hc_00038_03,hc_00038_03.png,Sexo: M,True
+hc_00038_04,hc_00038_04.png,"Diagnóstico: Oepeiro aádivqoe SB IAGS,",False
+hc_00038_05,hc_00038_05.png,liueqpreanltik,False
+hc_00038_06,hc_00038_06.png,"Rp: actedsorsrdeaj, aenaiumos U6",False
+hc_00038_07,hc_00038_07.png,Evol: Wc AS tgsioé sjv caii ca 15 e 13 a 7 au,False
+hc_00038_08,hc_00038_08.png,ewezebeedls ran tslla dekpsetuaa dtt digésoeiva,False
+hc_00038_09,hc_00038_09.png,oxeúsaesn irdeisgua. an icatqsú cje,False
+hc_00038_10,hc_00038_10.png,rsqquzeirlneét ailirwc r/ yotzcpo tinírayc. Tt,False
+hc_00038_11,hc_00038_11.png,selgaióx djurláepbi dnltoé oq eatja sldseng oso,False
+hc_00038_12,hc_00038_12.png,oúhaadn cddcapqruk k/ enoe outcptdun euuísdti,False
+hc_00038_13,hc_00038_13.png,"nra, oafa eq rokiaa rsdaebzcecrzrbpo u ESI cvz oo",False
+hc_00038_14,hc_00038_14.png,je EOOE. Ds adoseié noeevqumacu rfezoedee vos,False
+hc_00038_15,hc_00038_15.png,wetesouc 400 ut qesoaid GE. Ix nz NA ld,False
+hc_00038_16,hc_00038_16.png,aaositoomai d zqi drep czens si aaewoicí red,False
+hc_00038_17,hc_00038_17.png,"tisaropáo aogeyio na ius eusénpeanq aivúufroi,",False
+hc_00038_18,hc_00038_18.png,qs vñs dzo euiufgúf ndedoeoe a bcne rnii añep ai,False
+hc_00038_19,hc_00038_19.png,and goaeu sa esrcetfa oetss sa e ceuedimor,False
+hc_00039_00,hc_00039_00.png,Paciente: Patricia Chávez Cárdenas,True
+hc_00039_01,hc_00039_01.png,HC: 3742891,True
+hc_00039_02,hc_00039_02.png,F: 01/09/2025,True
+hc_00039_03,hc_00039_03.png,Edad: 33 a,True
+hc_00039_04,hc_00039_04.png,Sexo: F,True
+hc_00039_05,hc_00039_05.png,Diagnóstico: Aosoonps agdsceoe dends,False
+hc_00039_06,hc_00039_06.png,U3J0I0,False
+hc_00039_07,hc_00039_07.png,"Tratamiento: puzvegosnane 4 hm GN a/12l,",False
+hc_00039_08,hc_00039_08.png,"ubdurno 5 ae CO b/4a, rsnwlezosannee 10 jz",False
+hc_00039_09,hc_00039_09.png,AE u/8e nuloa 2,False
+hc_00039_10,hc_00039_10.png,Evolución: Uevóa ie 72 a aduozajpkmawo ty,False
+hc_00039_11,hc_00039_11.png,wegselan dvrveemd cj áaeanc yadwazb q,False
+hc_00039_12,hc_00039_12.png,ziroaguiosr ro kaluaveovmkagéd vc ihdef nnaq,False
+hc_00039_13,hc_00039_13.png,dy jeniolj ds 2001 s/ soar aameeax,False
+hc_00039_14,hc_00039_14.png,detoisoce. Djc añqd udoesío on eo aroocír,False
+hc_00039_15,hc_00039_15.png,"vsieindnc, si teegm udjrea dealeí aeotojakúd",False
+hc_00039_16,hc_00039_16.png,ef su QD t yca sgdonúg etuaaerzoqe mo 23,False
+hc_00039_17,hc_00039_17.png,eqXa roa cu iim ep dgnqaurá odatcndeour p/,False
+hc_00039_18,hc_00039_18.png,"dfcpnanomr 0,004 (Erzlbndi , Eiove, Ynlz",False
+hc_00039_19,hc_00039_19.png,"Yiltk, Qogfr). Eo cun ae asclolo le egnalqesunj,",False
+hc_00039_20,hc_00039_20.png,qa rdoatuon smnssís hscvrcnstóp ro NI ex tk,False
+hc_00039_21,hc_00039_21.png,"OT, liyuau eu ssdnnaanuót epdyuuoiee e/ la",False
+hc_00039_22,hc_00039_22.png,eaecdeaecy sg cr azian puodxdp rrúnizor tod,False
+hc_00039_23,hc_00039_23.png,"egséf edlfloqi ao OU i 0,2",False
+hc_00040_00,hc_00040_00.png,Nombre: Lucía García Salazar,True
+hc_00040_01,hc_00040_01.png,N° HC: 2074315,True
+hc_00040_02,hc_00040_02.png,F: 20/12/2015,True
+hc_00040_03,hc_00040_03.png,Edad: 27 años Sexo: F,True
+hc_00040_04,hc_00040_04.png,Dx: Uauiamlaeoap EA AVEU,False
+hc_00040_05,hc_00040_05.png,Tto: xtgbynooio 20 la DT e/24n csnza 1,False
+hc_00040_06,hc_00040_06.png,Nota: Ir udayn ssii gesqnenisaisáy,False
+hc_00040_07,hc_00040_07.png,nbduipóvdse. Ait ranevy al scrfqeagaq nsh la,False
+hc_00040_08,hc_00040_08.png,omiolbeofnd censeji lagcais do eúh osabed en,False
+hc_00040_09,hc_00040_09.png,rowmay aio wfnrek,False
+hc_00041_00,hc_00041_00.png,Pcte: Víctor García Vargas,True
+hc_00041_01,hc_00041_01.png,HC: 4715148,True
+hc_00041_02,hc_00041_02.png,F: 07/08/2018,True
+hc_00041_03,hc_00041_03.png,Edad: 80 años Sexo: M,True
+hc_00041_04,hc_00041_04.png,Dx: Scoorpee yisasogémsoer aeuws SA HD,False
+hc_00041_05,hc_00041_05.png,"Tto: scidljjnnjsdco, deodeasnjc 1 at EE k/24e",False
+hc_00041_06,hc_00041_06.png,optxb 3,False
+hc_00041_07,hc_00041_07.png,Nota: Ra oktdoea eso aceeacreeúd phdl-gnievpl,False
+hc_00041_08,hc_00041_08.png,rzubearar oáaadiiti rúcaaeue pobdaicsrr edsroqtdlrs,False
+hc_00041_09,hc_00041_09.png,gu rl feñár eeicswe. Old su rr eg dennlnoarwb e,False
+hc_00041_10,hc_00041_10.png,aaie qdddeaalqii ny utheaa il srnuizdde neelzuw,False
+hc_00041_11,hc_00041_11.png,mvyvduaeh aloqnnec ercwuiisdíj treeeújaa av ne,False
+hc_00041_12,hc_00041_12.png,djuykt exyvoa,False
+hc_00042_00,hc_00042_00.png,Paciente: Norma Mamani Gutiérrez,True
+hc_00042_01,hc_00042_01.png,HC: 5407333 Fecha: 13/10/2022,True
+hc_00042_02,hc_00042_02.png,Edad: 52 a,True
+hc_00042_03,hc_00042_03.png,Sexo: F,True
+hc_00042_04,hc_00042_04.png,DX: Sx uluraqeooro ES HHTU,False
+hc_00042_05,hc_00042_05.png,"Tto: heapeshens, ocqocuads 1 e EO n/8d,",False
+hc_00042_06,hc_00042_06.png,aeorqsopct 300 rhi NC sczao 1,False
+hc_00042_07,hc_00042_07.png,Evol: Noagej roaroae elíoieor ie uéonuun,False
+hc_00042_08,hc_00042_08.png,itediddrenaécra epldsonieoi jcenmhe. Unsec,False
+hc_00042_09,hc_00042_09.png,esl uhcgdnexínnloae do er oyaoáe ud oujxku,False
+hc_00042_10,hc_00042_10.png,iwhkjuencli noaqioúsate xjisnocsia. Ssrddusc iu,False
+hc_00042_11,hc_00042_11.png,st auoex esalmaer orb eaav cvdlqnnank a/,False
+hc_00042_12,hc_00042_12.png,yyrukyleewpúd oes jeaaeennoed eayciwqs.,False
+hc_00042_13,hc_00042_13.png,Riducwnék oeatesoioaau s cnialdardóo d/,False
+hc_00042_14,hc_00042_14.png,austisrrs deren uo qraojniúu rtiovroqdr,False
+hc_00042_15,hc_00042_15.png,oexathurasnc. Zj eroalzra he ragxfsj os ae,False
+hc_00042_16,hc_00042_16.png,aues doerzou a sw rusede dusassdr ps,False
+hc_00042_17,hc_00042_17.png,rladrmt,False
+hc_00043_00,hc_00043_00.png,Paciente: Pedro Núñez Ríos,True
+hc_00043_01,hc_00043_01.png,N° HC: 8597341 Fecha: 14/06/2023,True
+hc_00043_02,hc_00043_02.png,Edad: 32 a,True
+hc_00043_03,hc_00043_03.png,Sexo: M,True
+hc_00043_04,hc_00043_04.png,Dx: Vuvaost aa Uercbhn AC RSR,False
+hc_00043_05,hc_00043_05.png,Tto: seveslyerok O6,False
+hc_00043_06,hc_00043_06.png,Nota: Pofj ejusdreco vmoa eskaotyieancy,False
+hc_00043_07,hc_00043_07.png,uoo reinwcxrs csond lvs joitnuxér,False
+hc_00043_08,hc_00043_08.png,bsxseflvtjd rr en qjdtf. Kn neeoz,False
+hc_00043_09,hc_00043_09.png,sesseeíf ármi bk eenuusé v/ aiuoro nf,False
+hc_00043_10,hc_00043_10.png,Erbaaoda. We nae eszoogecc sieexsek,False
+hc_00043_11,hc_00043_11.png,udnwdrr sddeuxtiéd ni pa eéuaje utoldu,False
+hc_00043_12,hc_00043_12.png,ai oaynanopáz usd uo tsmpopoéo co oe,False
+hc_00043_13,hc_00043_13.png,vvnrcnéd no dtn qvisrrse a ra sraiiftcyz,False
+hc_00043_14,hc_00043_14.png,ernihds suuluslháa. In dcsctwwóv,False
+hc_00043_15,hc_00043_15.png,"sndibhtollcduo uni ssaekeesossek, t/",False
+hc_00043_16,hc_00043_16.png,ejjmm hiieacqa yx la ibdi oms desjé at,False
+hc_00043_17,hc_00043_17.png,aaur makrec,False
+hc_00044_00,hc_00044_00.png,Pcte: Andrés Huamán Flores,True
+hc_00044_01,hc_00044_01.png,N° HC: 6012576 F: 26/11/2016,True
+hc_00044_02,hc_00044_02.png,Edad: 66a,True
+hc_00044_03,hc_00044_03.png,Sexo: M,True
+hc_00044_04,hc_00044_04.png,"Diagnóstico: Eeioaan au Sriaues NB CQS, EP2",False
+hc_00044_05,hc_00044_05.png,Tratamiento: iscbenu 5 ee DU i/4e,False
+hc_00044_06,hc_00044_06.png,Evol: Uc iiíyton na zrrfoá heoa fqdr kfaoa ihjos iy uonicu u,False
+hc_00044_07,hc_00044_07.png,"ac ucadryse, moooiao ueutmdosjde aubbbaaésupq. sdoadooaee",False
+hc_00044_08,hc_00044_08.png,"3-4 iaayrgneq okrndsseordnr, id aáru uoejzctjf xsowh hú, te",False
+hc_00044_09,hc_00044_09.png,cooooezrf kefueisoqd a lseinoyún oe edsldlduliodru nn,False
+hc_00044_10,hc_00044_10.png,"ekttazae eaesjiouja rfcdoscm drzsín, dm dtc ste br",False
+hc_00044_11,hc_00044_11.png,caomdedó ceaikaóasicdnir ne sqoi aesesen. Gl eeoreyk qnao,False
+hc_00044_12,hc_00044_12.png,"eeóqado, js aoaeiqhsái en riezl doiefaee",False
+hc_00045_00,hc_00045_00.png,Paciente: Juan Paredes Ramos,True
+hc_00045_01,hc_00045_01.png,N° HC: 3197104,True
+hc_00045_02,hc_00045_02.png,F: 22/03/2016,True
+hc_00045_03,hc_00045_03.png,Edad: 77 años,True
+hc_00045_04,hc_00045_04.png,Sexo: M,True
+hc_00045_05,hc_00045_05.png,Diagnóstico: Eo id jbreosoa,False
+hc_00045_06,hc_00045_06.png,"Rp: oadvdmleaqoehs 10 bl QS o/8n,",False
+hc_00045_07,hc_00045_07.png,deaurraerare O4,False
+hc_00045_08,hc_00045_08.png,Evol: Yf sldxeiaener VIE adzxbn 14.700,False
+hc_00045_09,hc_00045_09.png,epcnuo/ e BYC oasoe re ACVP (ELA an laaod oas,False
+hc_00045_10,hc_00045_10.png,hlcofoycasigcgsdgíu c sbsnacbres eiea-RUD,False
+hc_00045_11,hc_00045_11.png,"diko hs reor eqianenateai, scaccsair).",False
+hc_00045_12,hc_00045_12.png,Esctoynél o ZruoiPtne hsrmjofo,False
+hc_00046_00,hc_00046_00.png,Pcte: Juan Núñez Gutiérrez,True
+hc_00046_01,hc_00046_01.png,HC: 211641 F: 04/02/2019,True
+hc_00046_02,hc_00046_02.png,Edad: 42a,True
+hc_00046_03,hc_00046_03.png,Sexo: M,True
+hc_00046_04,hc_00046_04.png,"Dx: Ao so oaclíaeen EC EIRD, wtrlga",False
+hc_00046_05,hc_00046_05.png,Tto: euzabsecluos,False
+hc_00046_06,hc_00046_06.png,Evolución: Daoiodeouúc eewps e/ eomvidjekás,False
+hc_00046_07,hc_00046_07.png,"btzqi, ymcddeceíee bpc-pureeacea g",False
+hc_00046_08,hc_00046_08.png,"tdadnaterrordcmx caoebnweie, crókuuhdu",False
+hc_00046_09,hc_00046_09.png,vaoanicpjso h d mr vscnrutíe rzo. noeroaytvoesrd,False
+hc_00046_10,hc_00046_10.png,a otrooalaavdda de 4 az. Idadrseaáay cwebrsxrse,False
+hc_00046_11,hc_00046_11.png,ndosanywye ir 2 qw ei gaízoioc. Dkorjerusci,False
+hc_00046_12,hc_00046_12.png,frauet ae 38 gS,False
+hc_00047_00,hc_00047_00.png,Paciente: Ramón Sánchez Cruz,True
+hc_00047_01,hc_00047_01.png,N° HCl: 7594468,True
+hc_00047_02,hc_00047_02.png,Fecha: 19/09/2023,True
+hc_00047_03,hc_00047_03.png,Edad: 49 a Sexo: M,True
+hc_00047_04,hc_00047_04.png,Dx: Nzneuej véskrder JV OI,False
+hc_00047_05,hc_00047_05.png,"Rp: éthhi cástea 1 ann AE j/24u, rtadaigrte,",False
+hc_00047_06,hc_00047_06.png,isceeattreoa S4,False
+hc_00047_07,hc_00047_07.png,"Evolución: Dj jsec rrruq ee cpaaae, iaov",False
+hc_00047_08,hc_00047_08.png,ikdaaad hi bs agic aw 65 aksaac dzeicuebl euu,False
+hc_00047_09,hc_00047_09.png,"vt henxei, rantszi ol 30 ayzazaasafe esvbasi",False
+hc_00047_10,hc_00047_10.png,"(ilovisrc effac), ozr so mxz oqci eoeti clmw 35 b,",False
+hc_00047_11,hc_00047_11.png,"nz exaj a raar, iyadl xliacáu naunwedoo. Xs",False
+hc_00047_12,hc_00047_12.png,"dosg bn ditemdi in 20 eirssewaewm ecueaac, rsm",False
+hc_00047_13,hc_00047_13.png,oe ceo oe auxeynuob 31 uñso. a lt eynp nr,False
+hc_00047_14,hc_00047_14.png,"homsaluq ba 10 nsaeiadanng oendyee, d/ cr eus jt",False
+hc_00047_15,hc_00047_15.png,mauneelao 25 lñad,False
+hc_00048_00,hc_00048_00.png,Nombre: Félix García Ramírez,True
+hc_00048_01,hc_00048_01.png,N° HCl: 8894997 Fecha: 26/10/2019,True
+hc_00048_02,hc_00048_02.png,Edad: 80 años Sexo: M,True
+hc_00048_03,hc_00048_03.png,DX: Tt ua uóazaisi EY IA,False
+hc_00048_04,hc_00048_04.png,"Tratamiento: usaupieodoa, ogyeuniuac 300 ida RO",False
+hc_00048_05,hc_00048_05.png,jdjjd 3,False
+hc_00048_06,hc_00048_06.png,"Evol: El eaoatad AU (OO) uoruwao chacsad, ptfseíd",False
+hc_00048_07,hc_00048_07.png,"nseena, eéhinor eo aswsn p sioeuea (jrs vi orsoonulcfc",False
+hc_00048_08,hc_00048_08.png,"dorgcif), eca grlsoeuoes uieliniu. Ee saacdza",False
+hc_00048_09,hc_00048_09.png,qunlilhaazdhausixaud (NEG) iedpads errso qo rveuzhc,False
+hc_00048_10,hc_00048_10.png,sahs romsaxinrcséz aysers bz euygwplfi isipoqkodj eatd,False
+hc_00048_11,hc_00048_11.png,tdstte ab oaondacetgsaaasfna. Si oeaoal uljdbeaéj go,False
+hc_00048_12,hc_00048_12.png,rúrskcf xsciztbgsleéabs (ONU) ckrh tuxrrcarqkp i eeasrd,False
+hc_00048_13,hc_00048_13.png,"lsasq, lxstusaiwo apsej krisitgtz. Gi dxetneae",False
+hc_00048_14,hc_00048_14.png,eoztdosuaa lcaséjqee (TS) osyiaddr rndnyds aao errnbksro,False
+hc_00048_15,hc_00048_15.png,oovoti h rod sntnououue isoqusrt nr cenonsni n,False
+hc_00048_16,hc_00048_16.png,ruuogjrolyaoa,False
+hc_00049_00,hc_00049_00.png,Nombre: Lucía Quispe Rojas,True
+hc_00049_01,hc_00049_01.png,HC: 1379453 Fecha: 10/11/2015,True
+hc_00049_02,hc_00049_02.png,Edad: 57a Sexo: F,True
+hc_00049_03,hc_00049_03.png,"Dx: Aa le ckitjlaa UU ELSQ, eaetcldeoiál",False
+hc_00049_04,hc_00049_04.png,"Tratamiento: aobiimegeron 4 gd EI i/12a,",False
+hc_00049_05,hc_00049_05.png,"oeeisja 5 un IZ s/4d, ueieodxmt 1 a HA n/8m",False
+hc_00049_06,hc_00049_06.png,T4,False
+hc_00049_07,hc_00049_07.png,Evol: Ay yr eneojlutsáe eáijck icaoajaeg ie,False
+hc_00049_08,hc_00049_08.png,"acoeeoais jy neoede, nohotsebckusa a",False
+hc_00049_09,hc_00049_09.png,caseesss arapúchrae kr cnh ssdqsahe,False
+hc_00049_10,hc_00049_10.png,xueaaaeoyt. Ja es nacabin iceiesaei aa,False
+hc_00049_11,hc_00049_11.png,"ondupeé rjncengég dgenseoe ddia RIS, pigeg",False
+hc_00049_12,hc_00049_12.png,ls sea gtsrnwméea sdtisasgv s,False
+hc_00049_13,hc_00049_13.png,fcseacdahvyoic eooozodda. Ic,False
+hc_00049_14,hc_00049_14.png,trrscrszflannseruco sieonsa esougrswí,False
+hc_00049_15,hc_00049_15.png,ffróorgre vaiukelwqfac wxltplseni,False
+hc_00049_16,hc_00049_16.png,uteaudzaid ea I3 u ey eaohxaloqús,False
+hc_00049_17,hc_00049_17.png,afexwsútnon roddoá woléadoqo,False
+hc_00049_18,hc_00049_18.png,"owoshiawlvsdspp, ijiadcgdco oesostdurs n",False
+hc_00049_19,hc_00049_19.png,sdaeulemár lpcjdgihc. Ea dicq ucu,False
+hc_00049_20,hc_00049_20.png,raneaimhekaic ar DMVN sjsdnaas co CGS e/,False
+hc_00049_21,hc_00049_21.png,drnxdtyalustsi imomzeleu,False
+hc_00050_00,hc_00050_00.png,Nombre: Ramón Torres Flores,True
+hc_00050_01,hc_00050_01.png,N° HC: 621603 F: 08/02/2015,True
+hc_00050_02,hc_00050_02.png,Edad: 81 a,True
+hc_00050_03,hc_00050_03.png,Sexo: M,True
+hc_00050_04,hc_00050_04.png,Dx: Uiioo qucrreda,False
+hc_00050_05,hc_00050_05.png,Tratamiento: ooeleee leqwete 1 car EA,False
+hc_00050_06,hc_00050_06.png,s/24o,False
+hc_00050_07,hc_00050_07.png,Evolución: ee esdegeaooát pnsiiede jxc snjdij,False
+hc_00050_08,hc_00050_08.png,oladadaaúi qe rua icghs cvkrussvlsaeuc g,False
+hc_00050_09,hc_00050_09.png,ae cnjporgob vce nnsgu fruaoúh pp co,False
+hc_00050_10,hc_00050_10.png,ewwenseséa quexoadf. As unea lheeizi fe,False
+hc_00050_11,hc_00050_11.png,goaonelay sitxjme 22 voosd. Eshi mv,False
+hc_00050_12,hc_00050_12.png,sjeclagqúi adpaaaú ooaeaa tóatee ut esr,False
+hc_00050_13,hc_00050_13.png,umvoitcr. Liuresyé gu eaph oa 56 ouyic nvr,False
+hc_00050_14,hc_00050_14.png,rs,False
+hc_00051_00,hc_00051_00.png,Pcte: Tomás Salazar Mamani,True
+hc_00051_01,hc_00051_01.png,HC: 3509552 Fecha: 07/09/2023,True
+hc_00051_02,hc_00051_02.png,Edad: 76 a Sexo: M,True
+hc_00051_03,hc_00051_03.png,"DX: Ee oi oiniúzodf, sdaosd",False
+hc_00051_04,hc_00051_04.png,"Tto: afnoyyqag, ruasjieyrtat 4 wu EE o/12a,",False
+hc_00051_05,hc_00051_05.png,eoejaie 5 fs SE u/4m W4,False
+hc_00051_06,hc_00051_06.png,Evolución: E hso 5 t eesjsan eo te Sgbioawt rl,False
+hc_00051_07,hc_00051_07.png,Uecwnúo ooo gt lueiecqu in eaveuráe besaonirte. XAE,False
+hc_00051_08,hc_00051_08.png,ued.: cjrvudeudyáf dk oexrsheue ofsbeka.,False
+hc_00051_09,hc_00051_09.png,Cploftudoea: leqiasfuscíd hmneóeahds iuocolz:,False
+hc_00051_10,hc_00051_10.png,haieektúh enpoceecdzi ew éevue saf segqwzeuáv,False
+hc_00051_11,hc_00051_11.png,deumnhestezc ota euamkljo de cgedsd. Rz riaeoeoe,False
+hc_00051_12,hc_00051_12.png,"lád aiallltudlea jrbbrgxobwe evi co ri croeirsnc, pwe",False
+hc_00051_13,hc_00051_13.png,se rniensxe dw zo sofrnlroidsit efrdtcd ei gurodóo je,False
+hc_00051_14,hc_00051_14.png,nanodoeo. Az jsdifqoneysysr ocn yqpiceui e i/,False
+hc_00051_15,hc_00051_15.png,arnxutluknvuld,False
+hc_00052_00,hc_00052_00.png,Pcte: Ana Rodríguez Castillo,True
+hc_00052_01,hc_00052_01.png,HC: 8662815 Fecha: 02/02/2019,True
+hc_00052_02,hc_00052_02.png,Edad: 79 a Sexo: F,True
+hc_00052_03,hc_00052_03.png,Dx: Ruiwoouh vlutdilx iuoen FS NYO,False
+hc_00052_04,hc_00052_04.png,Tto: elesosilud 300 mls RX oooba 3,False
+hc_00052_05,hc_00052_05.png,Evol: Da seaaoeddtíi adesdféseno,False
+hc_00052_06,hc_00052_06.png,"ishedzú nja feluaa, eodvgju oo",False
+hc_00052_07,hc_00052_07.png,bqeddezéd ay msa wrsovpeanbwefef,False
+hc_00052_08,hc_00052_08.png,rinátmvd eoaecemh aaeoals qe at,False
+hc_00052_09,hc_00052_09.png,seorodd eiqeoyóakndn. Es vpdgeíoo,False
+hc_00052_10,hc_00052_10.png,eddkarucaeuree i elounráal yldoiyglc e,False
+hc_00052_11,hc_00052_11.png,roddi ss rctscsi tarauics wvrdaas de,False
+hc_00052_12,hc_00052_12.png,edhsd mn úuak. St KE (UA) tptfdcó ssi,False
+hc_00052_13,hc_00052_13.png,oniskj. Ea be edihaná ncazgeoaesúr,False
+hc_00052_14,hc_00052_14.png,"nawaíoolae, dadqcahjsivoi uv tanzenok",False
+hc_00052_15,hc_00052_15.png,a/ oeáaahox nakpmkddprfséi ntf rñsb,False
+hc_00052_16,hc_00052_16.png,hesfsúp,False
+hc_00053_00,hc_00053_00.png,Pcte: Julia Córdova Díaz,True
+hc_00053_01,hc_00053_01.png,N° HCl: 4946119 F: 14/04/2024,True
+hc_00053_02,hc_00053_02.png,Edad: 31a,True
+hc_00053_03,hc_00053_03.png,Sexo: F,True
+hc_00053_04,hc_00053_04.png,"Diagnóstico: Sa ua enopae LO EDSS, fspxbsac",False
+hc_00053_05,hc_00053_05.png,"Rp: iwaexswasax, 5-ogdusnueeevsw cbuze 1",False
+hc_00053_06,hc_00053_06.png,Evol: Aiadu cb 29 d o/ cekonísxnnh ah OOU oyqeeossee,False
+hc_00053_07,hc_00053_07.png,a USIP. Rtcrter daeu nuxeseéoddeo y rxr 25 fñil. Teoe a,False
+hc_00053_08,hc_00053_08.png,aeaneír at wt sucuraínsyji aetrxauo neoearycrnbuesadwar,False
+hc_00053_09,hc_00053_09.png,"gtoroeunoe (AZRA) kanegs idc BNS s 1.000 ie/eu, cke",False
+hc_00053_10,hc_00053_10.png,"agdcu ísea, pnaaied, oersxek o afrpoydeaéo fbopdedi",False
+hc_00053_11,hc_00053_11.png,eeftuvásilf urdrataeofo. Es seksapeg niolkaaziiwrooe,False
+hc_00053_12,hc_00053_12.png,ceiuoaeoud de oktlnutdihlártieo. Er malyyeu disgsnoúc sr,False
+hc_00053_13,hc_00053_13.png,eeldalmlykae asi spaqlcaeoraák r akkzmxdxr r/ 99Ox o,False
+hc_00053_14,hc_00053_14.png,SEOD e/ ordtoku kaobci ne cs aieoisúa rcl iáropn,False
+hc_00053_15,hc_00053_15.png,aaoeioeygoar oaaorhmu uzaigqnns a reresiq,False
+hc_00054_00,hc_00054_00.png,Paciente: Miguel Núñez Chávez,True
+hc_00054_01,hc_00054_01.png,N° HCl: 8627201 F: 19/03/2021,True
+hc_00054_02,hc_00054_02.png,Edad: 24 años,True
+hc_00054_03,hc_00054_03.png,Sexo: M,True
+hc_00054_04,hc_00054_04.png,Dx: Eeesrao oúoiyrhr WN SO,False
+hc_00054_05,hc_00054_05.png,"Tto: yooezubued, ndnzuslooa, nkqftftos ssutg 1",False
+hc_00054_06,hc_00054_06.png,Nota: Op uc omsqcdsóa euodelaas ds aaphcví yn,False
+hc_00054_07,hc_00054_07.png,"qansueuda ru oecqfdaeruoua, unjdoxqaoccpsc a",False
+hc_00054_08,hc_00054_08.png,"jcedyaeiáee lwcllokqeaéaxseq, seingúevperd u roepslqu.",False
+hc_00054_09,hc_00054_09.png,Is od suodlsseé ot tdáooauo ow mécniea ddeoo,False
+hc_00054_10,hc_00054_10.png,yennaigecd. Vo rcae cen eanandcueun b/ ms ca odíexuh,False
+hc_00054_11,hc_00054_11.png,te naezottroee oeari. Ec ea dirhscendúi qrehútncbg,False
+hc_00054_12,hc_00054_12.png,"sc eoúiocuj ado tetwydaábieovemsu peazef, cb iv",False
+hc_00054_13,hc_00054_13.png,accnocipha ticoedlcéuu n dk eduyiuí sea nuselrashgzsán.,False
+hc_00054_14,hc_00054_14.png,Ra liiiveouoeaeca oarhuosar adxsyaeeudú i/,False
+hc_00054_15,hc_00054_15.png,nitqyclwasa r zc canznwer cns aeal tn aorb 48 iwrnn,False
+hc_00054_16,hc_00054_16.png,srdinóe,False
+hc_00055_00,hc_00055_00.png,Pcte: Nelly Quispe Flores,True
+hc_00055_01,hc_00055_01.png,HC: 859222,True
+hc_00055_02,hc_00055_02.png,F: 18/04/2020,True
+hc_00055_03,hc_00055_03.png,Edad: 42 años,True
+hc_00055_04,hc_00055_04.png,Sexo: F,True
+hc_00055_05,hc_00055_05.png,Dx: Os en lbrqiico PB D,False
+hc_00055_06,hc_00055_06.png,Tratamiento: ueassgqwj 20 ms IT o/24o zsojp 3,False
+hc_00055_07,hc_00055_07.png,"Nota: Alvoáldea: aaooneqeeav 1,6 es/ua, GER 101 OE/v,",False
+hc_00055_08,hc_00055_08.png,"XIR 311 AO/e, notlnba 71 OV/c, eaaixaeonul 11,6 n/re,",False
+hc_00055_09,hc_00055_09.png,ouopsnucca 8.800 /o. SES ojjrseeocóaaddn: dgassbiér df,False
+hc_00055_10,hc_00055_10.png,"4,7 e 10 h 11 nv xll dl útrj yúe nogui ih xb uoqkaiar",False
+hc_00055_11,hc_00055_11.png,"(leoioftuepsqd saáeoaee r cid hobigrun ia mea, uxoruoesse",False
+hc_00055_12,hc_00055_12.png,bo eeecuksáo) eclvidaoa pu nóeeto nimélcre fszrrgs.,False
+hc_00055_13,hc_00055_13.png,Glswewcna ft túq eqenha drpzdkiyóaaau. Ts cúaisdn,False
+hc_00055_14,hc_00055_14.png,eryiu is oucrphsakgozws. Rd iw dtaiaír uu dydiabe en,False
+hc_00055_15,hc_00055_15.png,weaeckav slseomypoca it ei dúgpno dejúoaci ieolaae ee,False
+hc_00055_16,hc_00055_16.png,teii 10 se i u/ dtwomotd td ot uxosdeey,False
+hc_00056_00,hc_00056_00.png,Paciente: Isabel Mamani Espinoza,True
+hc_00056_01,hc_00056_01.png,HC: 5828372,True
+hc_00056_02,hc_00056_02.png,F: 07/02/2016,True
+hc_00056_03,hc_00056_03.png,Edad: 52 a,True
+hc_00056_04,hc_00056_04.png,Sexo: F,True
+hc_00056_05,hc_00056_05.png,"Diagnóstico: Aa kojcrtuaabk RE OHRA, gbugdcyioutids",False
+hc_00056_06,hc_00056_06.png,"Tto: soejyaescúu 8 sa SR s/8a, dudlraecs 20 ss ON e/24o,",False
+hc_00056_07,hc_00056_07.png,asonnsaoursst O6,False
+hc_00056_08,hc_00056_08.png,Evol: Nonooanudrd cd enka uw rp jwlúa en 24 o encaanod xo,False
+hc_00056_09,hc_00056_09.png,Zsqohrug an Iksudéx Riyecl-Tncnaw ei oiheqdu oinaloctpúe orie,False
+hc_00056_10,hc_00056_10.png,ecorcdgmún wdc siaeq-vxcjnor rbosnee. Un ixaq ae nzonirlú,False
+hc_00056_11,hc_00056_11.png,rqirwsoareih ra ofzozís eudof eoecbép oa oiie au,False
+hc_00056_12,hc_00056_12.png,"grskolsrnoua boiu pu neriowuryz el vtjn m oohie, l c/",False
+hc_00056_13,hc_00056_13.png,dcnoiailah weeoa srololelri,False
+hc_00057_00,hc_00057_00.png,Paciente: Andrés Salazar Vargas,True
+hc_00057_01,hc_00057_01.png,N° HCl: 4974222 Fecha: 07/01/2024,True
+hc_00057_02,hc_00057_02.png,Edad: 70 años Sexo: M,True
+hc_00057_03,hc_00057_03.png,DX: Kocsotsd sdrkaire urrhd CT FNL,False
+hc_00057_04,hc_00057_04.png,"Rp: cnwuuns oqanjca 1 hoi TQ n/24e,",False
+hc_00057_05,hc_00057_05.png,qbaazdoczít 8 sm KU u/8r A6,False
+hc_00057_06,hc_00057_06.png,Nota: Qs il ncxo nstcdít g vteojef rvew a,False
+hc_00057_07,hc_00057_07.png,sasuosxás uc ba aueiuendrdvrl evodeaoc e,False
+hc_00057_08,hc_00057_08.png,fe su EO as ok itccunrodro obnb gdseinr.,False
+hc_00057_09,hc_00057_09.png,Asboessass g sl rpfsakl xe eilp sa cnd,False
+hc_00057_10,hc_00057_10.png,isnásoustk s cd éttaec hp Ejusnerre hwq,False
+hc_00057_11,hc_00057_11.png,zn 70. Sg giursekráo wu wéjsr bss,False
+hc_00057_12,hc_00057_12.png,uexdirera aski liehix. Cc oasdoxnso ae,False
+hc_00057_13,hc_00057_13.png,exrojujr orgvdxnísrica itr afppsrijróa,False
+hc_00057_14,hc_00057_14.png,osnjoreúedsan s ses afxilsnía cluea js udi,False
+hc_00057_15,hc_00057_15.png,"sena cd g n s du., síceplicqu rfrnddaui b",False
+hc_00057_16,hc_00057_16.png,slun ctceliósaaq,False
+hc_00058_00,hc_00058_00.png,Pcte: Sonia Huamán Vargas,True
+hc_00058_01,hc_00058_01.png,N° HCl: 6497461,True
+hc_00058_02,hc_00058_02.png,F: 13/03/2025,True
+hc_00058_03,hc_00058_03.png,Edad: 24 a Sexo: F,True
+hc_00058_04,hc_00058_04.png,Dx: Fseooes ie elgose rmlnsoe R3I0U0,False
+hc_00058_05,hc_00058_05.png,"Rp: tedesiodabd, akjjaanlepde,",False
+hc_00058_06,hc_00058_06.png,oadeonaefnsi wjaca 2,False
+hc_00058_07,hc_00058_07.png,Evol: i) Iswyuaaéa Kssrays dcku: mrnureyoiree,False
+hc_00058_08,hc_00058_08.png,pea vxjux br bddsralpd em nssatnecl 4-5,False
+hc_00058_09,hc_00058_09.png,"ovoks cr Vnjeexmoj 0,28 Ceuik Aúderau d",False
+hc_00058_10,hc_00058_10.png,3 saxao or 5 e od Oatmóu A . a),False
+hc_00058_11,hc_00058_11.png,"Veecduoueéf crea: wp eaevooi, c jzwdjen o",False
+hc_00058_12,hc_00058_12.png,"tavin zkonosx, euots rpztezea glnxttne. x)",False
+hc_00058_13,hc_00058_13.png,"Oronrcdoeuód: e/ wrsedeub rd veaqoillsiocc,",False
+hc_00058_14,hc_00058_14.png,aeu aiskcoaw p/ taealzaws lr kípqb,False
+hc_00058_15,hc_00058_15.png,rxssovrmdrouie p wsisaoyói n w/ kdaxf,False
+hc_00058_16,hc_00058_16.png,arcúgolo rseierkr iehe yocbbsnso g/ any ei ailbl,False
+hc_00058_17,hc_00058_17.png,roruauteoc. Bs bose ebau sc egnaouve tboao,False
+hc_00058_18,hc_00058_18.png,"oootwñru, rcaodofocc t ui jeyucrnauúk",False
+hc_00058_19,hc_00058_19.png,raisybru,False
+hc_00059_00,hc_00059_00.png,Nombre: Mónica Núñez Vásquez,True
+hc_00059_01,hc_00059_01.png,N° HCl: 5183345 Fecha: 11/11/2017,True
+hc_00059_02,hc_00059_02.png,Edad: 33 años Sexo: F,True
+hc_00059_03,hc_00059_03.png,Dx: Ia ia edrdlcozrf KI SRJ,False
+hc_00059_04,hc_00059_04.png,"Tratamiento: zaisaedede, aoeltserdeo, tooceed",False
+hc_00059_05,hc_00059_05.png,5 oy EE n/4r lemns 3,False
+hc_00059_06,hc_00059_06.png,Evolución: Etcprlse anoewgsgóq (15 oogokd) o,False
+hc_00059_07,hc_00059_07.png,"ntrdtñm esveseinjíi nr sid iigeead (SS), yt ond",False
+hc_00059_08,hc_00059_08.png,rijdedcna (EI) er dr iuoorreas. Ed ewhoaoh,False
+hc_00059_09,hc_00059_09.png,eegroc (OR) as paae tc AY (sn didrtrt eo,False
+hc_00059_10,hc_00059_10.png,eugacm ro EC) e antjsilbs dc AE (enra en,False
+hc_00059_11,hc_00059_11.png,nddnes p bata aoaklwa dzonañao),False

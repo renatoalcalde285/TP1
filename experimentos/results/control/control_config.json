@@ -1,0 +1,17 @@
+{
+  "seed_gen": 2026,
+  "n_pages": 60,
+  "generate_synthetic_hc_sha1": "99942a05aa69",
+  "smoke": false,
+  "lora_dir": "/kaggle/working/lora/runs/synth-lora",
+  "bootstrap_B": 2000,
+  "clin_vocab_size": 4299,
+  "conds": [
+    "clinico_original",
+    "pseudopalabras",
+    "general_es",
+    "numeros",
+    "clinico_barajado",
+    "rodrigo_texto"
+  ]
+}

@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+rapidfuzz
+matplotlib
+# solo para inferencia y entrenamiento (GPU):
+transformers
+peft==0.21.2
+bitsandbytes
+accelerate
+torch
+pillow

@@ -1,0 +1,24 @@
+{
+  "name": "LLaVA-1.6-Mistral-7B",
+  "hf_id": "llava-hf/llava-v1.6-mistral-7b-hf",
+  "license": "Apache-2.0",
+  "load_s": 109.86261630058289,
+  "vram_peak_gb": 17.778221568,
+  "n": 5010,
+  "gpus": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "gpu_mem_after_load_gb": [
+    7.46,
+    7.68
+  ],
+  "gpu_peak_gb_per_device": [
+    8.84,
+    8.94
+  ],
+  "n_gpus_used": 2,
+  "device_map": "cuda:0",
+  "transformers": "5.20.2",
+  "lora_dir": null
+}

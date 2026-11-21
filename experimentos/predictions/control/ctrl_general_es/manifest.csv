@@ -1,0 +1,668 @@
+id,image_path,text,is_header
+hc_00000_00,hc_00000_00.png,Nombre: Víctor Ramos García,True
+hc_00000_01,hc_00000_01.png,HC: 1441631,True
+hc_00000_02,hc_00000_02.png,F: 09/02/2016,True
+hc_00000_03,hc_00000_03.png,Edad: 82 a,True
+hc_00000_04,hc_00000_04.png,Sexo: M,True
+hc_00000_05,hc_00000_05.png,DX: Reunión de equipo,False
+hc_00000_06,hc_00000_06.png,"Tto: Cumpleaños de Ana, Partido del",False
+hc_00000_07,hc_00000_07.png,sábado,False
+hc_00000_08,hc_00000_08.png,Nota: El río crece en época de lluvias y,False
+hc_00000_09,hc_00000_09.png,arrastra troncos y piedras. Necesito renovar,False
+hc_00000_10,hc_00000_10.png,el contrato de alquiler antes de fin de mes,False
+hc_00001_00,hc_00001_00.png,Nombre: Gloria Aguilar Espinoza,True
+hc_00001_01,hc_00001_01.png,HC: 6772162 F: 20/02/2017,True
+hc_00001_02,hc_00001_02.png,Edad: 66 años Sexo: F,True
+hc_00001_03,hc_00001_03.png,Dx: Feria del libro,False
+hc_00001_04,hc_00001_04.png,Tto: Clase de pintura,False
+hc_00001_05,hc_00001_05.png,Evolución: Mi vecino cría gallinas y,False
+hc_00001_06,hc_00001_06.png,vende huevos frescos todos los días.,False
+hc_00001_07,hc_00001_07.png,Preparamos arroz con pollo para el,False
+hc_00001_08,hc_00001_08.png,almuerzo del domingo. Compramos una mesa,False
+hc_00001_09,hc_00001_09.png,nueva de madera para la cocina,False
+hc_00002_00,hc_00002_00.png,Pcte: Patricia Mendoza Sánchez,True
+hc_00002_01,hc_00002_01.png,N° HC: 6245792 Fecha: 08/10/2019,True
+hc_00002_02,hc_00002_02.png,Edad: 20 años Sexo: F,True
+hc_00002_03,hc_00002_03.png,DX: Lista de compras,False
+hc_00002_04,hc_00002_04.png,"Tto: Partido del sábado, Clase de pintura",False
+hc_00002_05,hc_00002_05.png,Evolución: El cartero dejó un paquete,False
+hc_00002_06,hc_00002_06.png,grande en la puerta principal. Mi hermana,False
+hc_00002_07,hc_00002_07.png,viaja a Cusco el próximo martes con sus,False
+hc_00002_08,hc_00002_08.png,amigas. El jardín necesita agua dos veces por,False
+hc_00002_09,hc_00002_09.png,semana en verano. Este libro cuenta la,False
+hc_00002_10,hc_00002_10.png,historia de un pueblo de la sierra,False
+hc_00003_00,hc_00003_00.png,Nombre: Inés Aguilar Ramírez,True
+hc_00003_01,hc_00003_01.png,HC: 9611573 F: 21/08/2024,True
+hc_00003_02,hc_00003_02.png,Edad: 81a Sexo: F,True
+hc_00003_03,hc_00003_03.png,Diagnóstico: Pago de servicios,False
+hc_00003_04,hc_00003_04.png,"Tto: Revisar el contrato, Cumpleaños de Ana",False
+hc_00003_05,hc_00003_05.png,Evolución: El taller de pintura se realizará,False
+hc_00003_06,hc_00003_06.png,en la casa de la cultura. Pedro llegó tarde,False
+hc_00003_07,hc_00003_07.png,porque el autobús se averió en la avenida. La,False
+hc_00003_08,hc_00003_08.png,biblioteca abre de lunes a sábado desde las,False
+hc_00003_09,hc_00003_09.png,ocho. El jardín necesita agua dos veces por,False
+hc_00003_10,hc_00003_10.png,semana en verano. Compramos una mesa nueva,False
+hc_00003_11,hc_00003_11.png,de madera para la cocina,False
+hc_00004_00,hc_00004_00.png,Paciente: Carmen Chávez Rodríguez,True
+hc_00004_01,hc_00004_01.png,HC: 988140,True
+hc_00004_02,hc_00004_02.png,F: 15/01/2016,True
+hc_00004_03,hc_00004_03.png,Edad: 28 a,True
+hc_00004_04,hc_00004_04.png,Sexo: F,True
+hc_00004_05,hc_00004_05.png,Diagnóstico: Feria del libro,False
+hc_00004_06,hc_00004_06.png,Rp: Pago de servicios,False
+hc_00004_07,hc_00004_07.png,Evolución: El río crece en época de lluvias y,False
+hc_00004_08,hc_00004_08.png,arrastra troncos y piedras. Los,False
+hc_00004_09,hc_00004_09.png,estudiantes entregaron el informe final el,False
+hc_00004_10,hc_00004_10.png,viernes pasado. Hoy hace mucho calor y no,False
+hc_00004_11,hc_00004_11.png,hay viento en toda la costa,False
+hc_00005_00,hc_00005_00.png,Nombre: Raquel Vásquez Rodríguez,True
+hc_00005_01,hc_00005_01.png,HC: 3338657,True
+hc_00005_02,hc_00005_02.png,Fecha: 05/11/2021,True
+hc_00005_03,hc_00005_03.png,Edad: 57a Sexo: F,True
+hc_00005_04,hc_00005_04.png,DX: Clase de pintura,False
+hc_00005_05,hc_00005_05.png,Tratamiento: Clase de pintura,False
+hc_00005_06,hc_00005_06.png,Nota: Hoy hace mucho calor y no hay viento en toda la,False
+hc_00005_07,hc_00005_07.png,costa. Mañana temprano iremos al aeropuerto a recoger a,False
+hc_00005_08,hc_00005_08.png,mis tíos,False
+hc_00006_00,hc_00006_00.png,Pcte: Jorge Mendoza Mendoza,True
+hc_00006_01,hc_00006_01.png,N° HC: 8010102,True
+hc_00006_02,hc_00006_02.png,F: 16/12/2017,True
+hc_00006_03,hc_00006_03.png,Edad: 60 a Sexo: M,True
+hc_00006_04,hc_00006_04.png,Diagnóstico: Feria del libro,False
+hc_00006_05,hc_00006_05.png,Tratamiento: Lista de compras,False
+hc_00006_06,hc_00006_06.png,Nota: La carretera estuvo cerrada por un,False
+hc_00006_07,hc_00006_07.png,derrumbe cerca del puente. Mi madre teje,False
+hc_00006_08,hc_00006_08.png,chompas de lana para vender en la feria.,False
+hc_00006_09,hc_00006_09.png,Necesito renovar el contrato de alquiler antes,False
+hc_00006_10,hc_00006_10.png,de fin de mes. Preparamos arroz con pollo para,False
+hc_00006_11,hc_00006_11.png,el almuerzo del domingo. Recuerda apagar las,False
+hc_00006_12,hc_00006_12.png,luces y cerrar la puerta al salir,False
+hc_00007_00,hc_00007_00.png,Paciente: Raúl Ramos Vásquez,True
+hc_00007_01,hc_00007_01.png,HC: 1733583 Fecha: 28/05/2021,True
+hc_00007_02,hc_00007_02.png,Edad: 83 a Sexo: M,True
+hc_00007_03,hc_00007_03.png,Dx: Lista de compras,False
+hc_00007_04,hc_00007_04.png,"Rp: Feria del libro, Partido del sábado",False
+hc_00007_05,hc_00007_05.png,Evol: Mi hermana viaja a Cusco el próximo,False
+hc_00007_06,hc_00007_06.png,martes con sus amigas. La panadería de la,False
+hc_00007_07,hc_00007_07.png,esquina vende los mejores panes de la zona.,False
+hc_00007_08,hc_00007_08.png,Pedro llegó tarde porque el autobús se,False
+hc_00007_09,hc_00007_09.png,averió en la avenida. Se perdió la llave,False
+hc_00007_10,hc_00007_10.png,del almacén y nadie sabe dónde quedó.,False
+hc_00007_11,hc_00007_11.png,"Compré pan, queso, tomates y dos botellas de",False
+hc_00007_12,hc_00007_12.png,agua en el mercado,False
+hc_00008_00,hc_00008_00.png,Nombre: Juan Flores Aguilar,True
+hc_00008_01,hc_00008_01.png,N° HC: 6779124 Fecha: 16/02/2015,True
+hc_00008_02,hc_00008_02.png,Edad: 80a Sexo: M,True
+hc_00008_03,hc_00008_03.png,DX: Feria del libro,False
+hc_00008_04,hc_00008_04.png,Tto: Feria del libro,False
+hc_00008_05,hc_00008_05.png,Evol: La feria del libro recibió más de,False
+hc_00008_06,hc_00008_06.png,mil visitantes el sábado. La lluvia de,False
+hc_00008_07,hc_00008_07.png,anoche dejó las calles llenas de,False
+hc_00008_08,hc_00008_08.png,barro,False
+hc_00009_00,hc_00009_00.png,Pcte: Hugo Vargas Torres,True
+hc_00009_01,hc_00009_01.png,N° HCl: 9417889 F: 06/12/2024,True
+hc_00009_02,hc_00009_02.png,Edad: 89 años Sexo: M,True
+hc_00009_03,hc_00009_03.png,Diagnóstico: Viaje a Cusco,False
+hc_00009_04,hc_00009_04.png,Tto: Reunión de equipo,False
+hc_00009_05,hc_00009_05.png,Evol: El jardín necesita agua dos veces por,False
+hc_00009_06,hc_00009_06.png,semana en verano. Hay veinte sillas en el salón y,False
+hc_00009_07,hc_00009_07.png,todas están ocupadas. Mañana tenemos reunión con,False
+hc_00009_08,hc_00009_08.png,el equipo a las nueve de la mañana,False
+hc_00010_00,hc_00010_00.png,Paciente: Silvia Vargas Huamán,True
+hc_00010_01,hc_00010_01.png,N° HC: 4434318,True
+hc_00010_02,hc_00010_02.png,Fecha: 03/07/2016,True
+hc_00010_03,hc_00010_03.png,Edad: 34 años Sexo: F,True
+hc_00010_04,hc_00010_04.png,DX: Revisar el contrato,False
+hc_00010_05,hc_00010_05.png,"Rp: Pago de servicios, Cumpleaños de Ana",False
+hc_00010_06,hc_00010_06.png,Nota: Los estudiantes entregaron el informe final el,False
+hc_00010_07,hc_00010_07.png,viernes pasado. El taller de pintura se realizará en la,False
+hc_00010_08,hc_00010_08.png,casa de la cultura. La empresa abrió una nueva sucursal,False
+hc_00010_09,hc_00010_09.png,en el centro de la ciudad. La carretera estuvo,False
+hc_00010_10,hc_00010_10.png,cerrada por un derrumbe cerca del puente,False
+hc_00011_00,hc_00011_00.png,Paciente: Isabel Cruz Díaz,True
+hc_00011_01,hc_00011_01.png,N° HC: 5348711,True
+hc_00011_02,hc_00011_02.png,F: 20/08/2021,True
+hc_00011_03,hc_00011_03.png,Edad: 48 años Sexo: F,True
+hc_00011_04,hc_00011_04.png,Diagnóstico: Reunión de equipo,False
+hc_00011_05,hc_00011_05.png,"Rp: Entrega del informe, Clase de pintura",False
+hc_00011_06,hc_00011_06.png,Nota: Preparamos arroz con pollo para el,False
+hc_00011_07,hc_00011_07.png,almuerzo del domingo. Mañana temprano,False
+hc_00011_08,hc_00011_08.png,iremos al aeropuerto a recoger a mis tíos.,False
+hc_00011_09,hc_00011_09.png,Recuerda apagar las luces y cerrar la,False
+hc_00011_10,hc_00011_10.png,puerta al salir. Escribí una carta a mi abuela,False
+hc_00011_11,hc_00011_11.png,contándole sobre el viaje. La reunión de,False
+hc_00011_12,hc_00011_12.png,vecinos será en el local comunal a las seis,False
+hc_00012_00,hc_00012_00.png,Pcte: Raquel Gutiérrez Mendoza,True
+hc_00012_01,hc_00012_01.png,N° HC: 5279797 F: 15/07/2024,True
+hc_00012_02,hc_00012_02.png,Edad: 48 años Sexo: F,True
+hc_00012_03,hc_00012_03.png,Dx: Lista de compras,False
+hc_00012_04,hc_00012_04.png,Tratamiento: Clase de pintura,False
+hc_00012_05,hc_00012_05.png,Nota: Se perdió la llave del almacén y nadie sabe,False
+hc_00012_06,hc_00012_06.png,dónde quedó. Los estudiantes entregaron el informe,False
+hc_00012_07,hc_00012_07.png,final el viernes pasado. Pedro llegó tarde porque el,False
+hc_00012_08,hc_00012_08.png,autobús se averió en la avenida,False
+hc_00013_00,hc_00013_00.png,Pcte: Nelly Ríos García,True
+hc_00013_01,hc_00013_01.png,HC: 8635062 F: 04/01/2019,True
+hc_00013_02,hc_00013_02.png,Edad: 57 a,True
+hc_00013_03,hc_00013_03.png,Sexo: F,True
+hc_00013_04,hc_00013_04.png,Diagnóstico: Cumpleaños de Ana,False
+hc_00013_05,hc_00013_05.png,"Rp: Visita al museo, Pago de servicios",False
+hc_00013_06,hc_00013_06.png,Evol: Llamaré al plomero para arreglar la,False
+hc_00013_07,hc_00013_07.png,fuga del baño. Hay que pagar la factura,False
+hc_00013_08,hc_00013_08.png,de luz y la de internet esta semana. El,False
+hc_00013_09,hc_00013_09.png,concierto empieza a las siete y las entradas,False
+hc_00013_10,hc_00013_10.png,se agotaron. Hay veinte sillas en el salón y,False
+hc_00013_11,hc_00013_11.png,todas están ocupadas. La reunión de,False
+hc_00013_12,hc_00013_12.png,vecinos será en el local comunal a las seis,False
+hc_00014_00,hc_00014_00.png,Nombre: Rosa Vásquez Mamani,True
+hc_00014_01,hc_00014_01.png,N° HCl: 7390683 F: 09/10/2018,True
+hc_00014_02,hc_00014_02.png,Edad: 53 años Sexo: F,True
+hc_00014_03,hc_00014_03.png,Diagnóstico: Partido del sábado,False
+hc_00014_04,hc_00014_04.png,"Tratamiento: Viaje a Cusco, Entrega del",False
+hc_00014_05,hc_00014_05.png,informe,False
+hc_00014_06,hc_00014_06.png,"Evol: No olvides traer el cuaderno, los",False
+hc_00014_07,hc_00014_07.png,lápices y la regla. La lluvia de anoche,False
+hc_00014_08,hc_00014_08.png,dejó las calles llenas de barro. El camino,False
+hc_00014_09,hc_00014_09.png,hacia la laguna es largo pero el paisaje,False
+hc_00014_10,hc_00014_10.png,vale la pena. El río crece en época de,False
+hc_00014_11,hc_00014_11.png,lluvias y arrastra troncos y piedras.,False
+hc_00014_12,hc_00014_12.png,Hay que pagar la factura de luz y la de,False
+hc_00014_13,hc_00014_13.png,internet esta semana,False
+hc_00015_00,hc_00015_00.png,Pcte: Jorge Vásquez Huamán,True
+hc_00015_01,hc_00015_01.png,HC: 5604201 F: 17/04/2019,True
+hc_00015_02,hc_00015_02.png,Edad: 29a Sexo: M,True
+hc_00015_03,hc_00015_03.png,Dx: Feria del libro,False
+hc_00015_04,hc_00015_04.png,Tto: Feria del libro,False
+hc_00015_05,hc_00015_05.png,Evolución: El sábado limpiamos el patio y,False
+hc_00015_06,hc_00015_06.png,pintamos la reja de verde. Este libro,False
+hc_00015_07,hc_00015_07.png,cuenta la historia de un pueblo de la sierra.,False
+hc_00015_08,hc_00015_08.png,Se perdió la llave del almacén y nadie sabe,False
+hc_00015_09,hc_00015_09.png,dónde quedó. El concierto empieza a las,False
+hc_00015_10,hc_00015_10.png,siete y las entradas se agotaron. Compramos,False
+hc_00015_11,hc_00015_11.png,una mesa nueva de madera para la cocina,False
+hc_00016_00,hc_00016_00.png,Paciente: Víctor Huamán Cárdenas,True
+hc_00016_01,hc_00016_01.png,N° HC: 3036009,True
+hc_00016_02,hc_00016_02.png,F: 12/10/2018,True
+hc_00016_03,hc_00016_03.png,Edad: 18a Sexo: M,True
+hc_00016_04,hc_00016_04.png,Dx: Lista de compras,False
+hc_00016_05,hc_00016_05.png,Tto: Clase de pintura,False
+hc_00016_06,hc_00016_06.png,Nota: El concierto empieza a las siete y las,False
+hc_00016_07,hc_00016_07.png,entradas se agotaron. La empresa abrió una nueva,False
+hc_00016_08,hc_00016_08.png,sucursal en el centro de la ciudad. Recuerda,False
+hc_00016_09,hc_00016_09.png,apagar las luces y cerrar la puerta al salir. El,False
+hc_00016_10,hc_00016_10.png,camino hacia la laguna es largo pero el paisaje,False
+hc_00016_11,hc_00016_11.png,vale la pena. El profesor explicó el teorema con un,False
+hc_00016_12,hc_00016_12.png,ejemplo muy claro,False
+hc_00017_00,hc_00017_00.png,Nombre: Miguel Rodríguez Chávez,True
+hc_00017_01,hc_00017_01.png,N° HCl: 291169 F: 06/06/2019,True
+hc_00017_02,hc_00017_02.png,Edad: 43a,True
+hc_00017_03,hc_00017_03.png,Sexo: M,True
+hc_00017_04,hc_00017_04.png,Diagnóstico: Reunión de equipo,False
+hc_00017_05,hc_00017_05.png,"Tratamiento: Partido del sábado, Feria del",False
+hc_00017_06,hc_00017_06.png,libro,False
+hc_00017_07,hc_00017_07.png,Evolución: Necesito renovar el contrato de,False
+hc_00017_08,hc_00017_08.png,alquiler antes de fin de mes. Mañana,False
+hc_00017_09,hc_00017_09.png,tenemos reunión con el equipo a las nueve de,False
+hc_00017_10,hc_00017_10.png,la mañana. El río crece en época de,False
+hc_00017_11,hc_00017_11.png,lluvias y arrastra troncos y piedras. Compré,False
+hc_00017_12,hc_00017_12.png,"pan, queso, tomates y dos botellas de agua",False
+hc_00017_13,hc_00017_13.png,en el mercado. Hay que pagar la factura,False
+hc_00017_14,hc_00017_14.png,de luz y la de internet esta semana,False
+hc_00018_00,hc_00018_00.png,Paciente: Carmen Gutiérrez Rodríguez,True
+hc_00018_01,hc_00018_01.png,HC: 8818873 Fecha: 01/10/2019,True
+hc_00018_02,hc_00018_02.png,Edad: 54 a,True
+hc_00018_03,hc_00018_03.png,Sexo: F,True
+hc_00018_04,hc_00018_04.png,Diagnóstico: Arreglo del baño,False
+hc_00018_05,hc_00018_05.png,"Tratamiento: Lista de compras, Partido del sábado",False
+hc_00018_06,hc_00018_06.png,Evolución: Este libro cuenta la historia de un,False
+hc_00018_07,hc_00018_07.png,pueblo de la sierra. Mi madre teje chompas de,False
+hc_00018_08,hc_00018_08.png,lana para vender en la feria. Recuerda apagar las,False
+hc_00018_09,hc_00018_09.png,luces y cerrar la puerta al salir,False
+hc_00019_00,hc_00019_00.png,Nombre: Silvia Rodríguez Mendoza,True
+hc_00019_01,hc_00019_01.png,HC: 5488256,True
+hc_00019_02,hc_00019_02.png,Fecha: 23/07/2023,True
+hc_00019_03,hc_00019_03.png,Edad: 66 a Sexo: F,True
+hc_00019_04,hc_00019_04.png,Dx: Clase de pintura,False
+hc_00019_05,hc_00019_05.png,Tratamiento: Pago de servicios,False
+hc_00019_06,hc_00019_06.png,Evol: La feria del libro recibió más de mil,False
+hc_00019_07,hc_00019_07.png,visitantes el sábado. El museo exhibe,False
+hc_00019_08,hc_00019_08.png,pinturas del siglo diecinueve y,False
+hc_00019_09,hc_00019_09.png,esculturas antiguas,False
+hc_00020_00,hc_00020_00.png,Nombre: Beatriz Castillo Rodríguez,True
+hc_00020_01,hc_00020_01.png,N° HC: 3052292 F: 23/05/2023,True
+hc_00020_02,hc_00020_02.png,Edad: 80 años Sexo: F,True
+hc_00020_03,hc_00020_03.png,DX: Lista de compras,False
+hc_00020_04,hc_00020_04.png,Tto: Partido del sábado,False
+hc_00020_05,hc_00020_05.png,"Nota: No olvides traer el cuaderno, los lápices y la",False
+hc_00020_06,hc_00020_06.png,regla. Mi madre teje chompas de lana para vender,False
+hc_00020_07,hc_00020_07.png,en la feria. Hoy hace mucho calor y no hay viento en,False
+hc_00020_08,hc_00020_08.png,toda la costa. El camino hacia la laguna es largo pero,False
+hc_00020_09,hc_00020_09.png,el paisaje vale la pena. El partido terminó,False
+hc_00020_10,hc_00020_10.png,empatado a dos goles,False
+hc_00021_00,hc_00021_00.png,Pcte: Rosa Chávez Rodríguez,True
+hc_00021_01,hc_00021_01.png,N° HC: 7197154 F: 03/08/2015,True
+hc_00021_02,hc_00021_02.png,Edad: 47a,True
+hc_00021_03,hc_00021_03.png,Sexo: F,True
+hc_00021_04,hc_00021_04.png,DX: Viaje a Cusco,False
+hc_00021_05,hc_00021_05.png,Tratamiento: Feria del libro,False
+hc_00021_06,hc_00021_06.png,Nota: El museo exhibe pinturas del siglo,False
+hc_00021_07,hc_00021_07.png,diecinueve y esculturas antiguas. La carretera,False
+hc_00021_08,hc_00021_08.png,estuvo cerrada por un derrumbe cerca del puente.,False
+hc_00021_09,hc_00021_09.png,Hay que pagar la factura de luz y la de internet,False
+hc_00021_10,hc_00021_10.png,esta semana. El tren sale de la estación central,False
+hc_00021_11,hc_00021_11.png,a las 14:30,False
+hc_00022_00,hc_00022_00.png,Paciente: Nelly Ramírez Díaz,True
+hc_00022_01,hc_00022_01.png,HC: 8617831,True
+hc_00022_02,hc_00022_02.png,Fecha: 23/08/2017,True
+hc_00022_03,hc_00022_03.png,Edad: 90 años,True
+hc_00022_04,hc_00022_04.png,Sexo: F,True
+hc_00022_05,hc_00022_05.png,Diagnóstico: Lista de compras,False
+hc_00022_06,hc_00022_06.png,Rp: Revisar el contrato,False
+hc_00022_07,hc_00022_07.png,Nota: El taller de pintura se realizará en la,False
+hc_00022_08,hc_00022_08.png,casa de la cultura. El jardín necesita agua dos,False
+hc_00022_09,hc_00022_09.png,veces por semana en verano. El camino hacia la,False
+hc_00022_10,hc_00022_10.png,laguna es largo pero el paisaje vale la pena.,False
+hc_00022_11,hc_00022_11.png,Preparamos arroz con pollo para el almuerzo del,False
+hc_00022_12,hc_00022_12.png,domingo. La empresa abrió una nueva sucursal en,False
+hc_00022_13,hc_00022_13.png,el centro de la ciudad,False
+hc_00023_00,hc_00023_00.png,Nombre: Raúl Salazar Gutiérrez,True
+hc_00023_01,hc_00023_01.png,HC: 3465390 F: 26/04/2016,True
+hc_00023_02,hc_00023_02.png,Edad: 90 a Sexo: M,True
+hc_00023_03,hc_00023_03.png,DX: Pago de servicios,False
+hc_00023_04,hc_00023_04.png,Tto: Viaje a Cusco,False
+hc_00023_05,hc_00023_05.png,Evolución: Escribí una carta a mi abuela,False
+hc_00023_06,hc_00023_06.png,contándole sobre el viaje. Mi hermana,False
+hc_00023_07,hc_00023_07.png,viaja a Cusco el próximo martes con sus,False
+hc_00023_08,hc_00023_08.png,amigas. El jardín necesita agua dos veces,False
+hc_00023_09,hc_00023_09.png,por semana en verano,False
+hc_00024_00,hc_00024_00.png,Paciente: Mario Cruz Cárdenas,True
+hc_00024_01,hc_00024_01.png,N° HCl: 9790207 F: 22/06/2020,True
+hc_00024_02,hc_00024_02.png,Edad: 18 a,True
+hc_00024_03,hc_00024_03.png,Sexo: M,True
+hc_00024_04,hc_00024_04.png,Diagnóstico: Lista de compras,False
+hc_00024_05,hc_00024_05.png,"Tratamiento: Pago de servicios, Arreglo del baño",False
+hc_00024_06,hc_00024_06.png,Evol: Mi madre teje chompas de lana para vender en la feria.,False
+hc_00024_07,hc_00024_07.png,El partido terminó empatado a dos goles. No olvides traer el,False
+hc_00024_08,hc_00024_08.png,"cuaderno, los lápices y la regla. Hay que pagar la factura",False
+hc_00024_09,hc_00024_09.png,de luz y la de internet esta semana. La panadería de la,False
+hc_00024_10,hc_00024_10.png,esquina vende los mejores panes de la zona,False
+hc_00025_00,hc_00025_00.png,Pcte: Isabel Mendoza Huamán,True
+hc_00025_01,hc_00025_01.png,N° HC: 5815882,True
+hc_00025_02,hc_00025_02.png,F: 02/10/2016,True
+hc_00025_03,hc_00025_03.png,Edad: 21 años Sexo: F,True
+hc_00025_04,hc_00025_04.png,DX: Viaje a Cusco,False
+hc_00025_05,hc_00025_05.png,"Rp: Revisar el contrato, Pago de servicios",False
+hc_00025_06,hc_00025_06.png,Evol: El río crece en época de lluvias y,False
+hc_00025_07,hc_00025_07.png,arrastra troncos y piedras. El partido terminó,False
+hc_00025_08,hc_00025_08.png,empatado a dos goles,False
+hc_00026_00,hc_00026_00.png,Pcte: Carlos Rojas Ramos,True
+hc_00026_01,hc_00026_01.png,HC: 9091416 F: 02/02/2022,True
+hc_00026_02,hc_00026_02.png,Edad: 77a Sexo: M,True
+hc_00026_03,hc_00026_03.png,DX: Partido del sábado,False
+hc_00026_04,hc_00026_04.png,"Tratamiento: Arreglo del baño, Lista de",False
+hc_00026_05,hc_00026_05.png,compras,False
+hc_00026_06,hc_00026_06.png,Nota: Se perdió la llave del almacén y nadie,False
+hc_00026_07,hc_00026_07.png,sabe dónde quedó. Mi madre teje chompas de,False
+hc_00026_08,hc_00026_08.png,lana para vender en la feria,False
+hc_00027_00,hc_00027_00.png,Paciente: Carmen Mendoza Córdova,True
+hc_00027_01,hc_00027_01.png,N° HCl: 3976726,True
+hc_00027_02,hc_00027_02.png,F: 18/11/2020,True
+hc_00027_03,hc_00027_03.png,Edad: 65 años Sexo: F,True
+hc_00027_04,hc_00027_04.png,Dx: Reunión de equipo,False
+hc_00027_05,hc_00027_05.png,Rp: Cumpleaños de Ana,False
+hc_00027_06,hc_00027_06.png,Evolución: Se perdió la llave del almacén y nadie sabe dónde,False
+hc_00027_07,hc_00027_07.png,quedó. Mi madre teje chompas de lana para vender en la feria.,False
+hc_00027_08,hc_00027_08.png,El río crece en época de lluvias y arrastra troncos y,False
+hc_00027_09,hc_00027_09.png,piedras,False
+hc_00028_00,hc_00028_00.png,Nombre: Lucía Rodríguez Salazar,True
+hc_00028_01,hc_00028_01.png,N° HCl: 4390452,True
+hc_00028_02,hc_00028_02.png,F: 24/10/2016,True
+hc_00028_03,hc_00028_03.png,Edad: 33 años,True
+hc_00028_04,hc_00028_04.png,Sexo: F,True
+hc_00028_05,hc_00028_05.png,Dx: Partido del sábado,False
+hc_00028_06,hc_00028_06.png,Tto: Feria del libro,False
+hc_00028_07,hc_00028_07.png,Evolución: Hay veinte sillas en el salón y todas,False
+hc_00028_08,hc_00028_08.png,están ocupadas. El tren sale de la estación,False
+hc_00028_09,hc_00028_09.png,central a las 14:30. El camino hacia la laguna,False
+hc_00028_10,hc_00028_10.png,es largo pero el paisaje vale la pena. La,False
+hc_00028_11,hc_00028_11.png,carretera estuvo cerrada por un derrumbe,False
+hc_00028_12,hc_00028_12.png,cerca del puente,False
+hc_00029_00,hc_00029_00.png,Paciente: Luis Espinoza Cárdenas,True
+hc_00029_01,hc_00029_01.png,HC: 6855945,True
+hc_00029_02,hc_00029_02.png,F: 22/06/2022,True
+hc_00029_03,hc_00029_03.png,Edad: 43a Sexo: M,True
+hc_00029_04,hc_00029_04.png,Dx: Cumpleaños de Ana,False
+hc_00029_05,hc_00029_05.png,Tto: Feria del libro,False
+hc_00029_06,hc_00029_06.png,Evol: El concierto empieza a las siete y las,False
+hc_00029_07,hc_00029_07.png,entradas se agotaron. Necesito renovar el,False
+hc_00029_08,hc_00029_08.png,contrato de alquiler antes de fin de mes.,False
+hc_00029_09,hc_00029_09.png,"Compré pan, queso, tomates y dos botellas de",False
+hc_00029_10,hc_00029_10.png,agua en el mercado,False
+hc_00030_00,hc_00030_00.png,Nombre: Teresa Paredes Rojas,True
+hc_00030_01,hc_00030_01.png,N° HC: 1581692 F: 26/03/2018,True
+hc_00030_02,hc_00030_02.png,Edad: 75 años Sexo: F,True
+hc_00030_03,hc_00030_03.png,Diagnóstico: Viaje a Cusco,False
+hc_00030_04,hc_00030_04.png,Rp: Viaje a Cusco,False
+hc_00030_05,hc_00030_05.png,Nota: Recuerda apagar las luces y cerrar la,False
+hc_00030_06,hc_00030_06.png,puerta al salir. El museo exhibe pinturas del siglo,False
+hc_00030_07,hc_00030_07.png,diecinueve y esculturas antiguas. Mañana,False
+hc_00030_08,hc_00030_08.png,temprano iremos al aeropuerto a recoger a mis tíos.,False
+hc_00030_09,hc_00030_09.png,La empresa abrió una nueva sucursal en el centro,False
+hc_00030_10,hc_00030_10.png,de la ciudad,False
+hc_00031_00,hc_00031_00.png,Pcte: Elena Gutiérrez Sánchez,True
+hc_00031_01,hc_00031_01.png,N° HC: 2729318 F: 25/09/2021,True
+hc_00031_02,hc_00031_02.png,Edad: 50a Sexo: F,True
+hc_00031_03,hc_00031_03.png,DX: Viaje a Cusco,False
+hc_00031_04,hc_00031_04.png,Tratamiento: Arreglo del baño,False
+hc_00031_05,hc_00031_05.png,Evol: El tren sale de la estación central a las,False
+hc_00031_06,hc_00031_06.png,"14:30. Compré pan, queso, tomates y dos",False
+hc_00031_07,hc_00031_07.png,botellas de agua en el mercado,False
+hc_00032_00,hc_00032_00.png,Nombre: Norma Córdova Rojas,True
+hc_00032_01,hc_00032_01.png,N° HC: 6527876,True
+hc_00032_02,hc_00032_02.png,F: 26/01/2015,True
+hc_00032_03,hc_00032_03.png,Edad: 28 a Sexo: F,True
+hc_00032_04,hc_00032_04.png,Dx: Partido del sábado,False
+hc_00032_05,hc_00032_05.png,"Tratamiento: Visita al museo, Feria del",False
+hc_00032_06,hc_00032_06.png,libro,False
+hc_00032_07,hc_00032_07.png,Evolución: El concierto empieza a las siete,False
+hc_00032_08,hc_00032_08.png,y las entradas se agotaron. La panadería de,False
+hc_00032_09,hc_00032_09.png,la esquina vende los mejores panes de la,False
+hc_00032_10,hc_00032_10.png,zona. Preparamos arroz con pollo para el,False
+hc_00032_11,hc_00032_11.png,almuerzo del domingo,False
+hc_00033_00,hc_00033_00.png,Pcte: Teresa Díaz Salazar,True
+hc_00033_01,hc_00033_01.png,N° HCl: 3179313 F: 15/05/2017,True
+hc_00033_02,hc_00033_02.png,Edad: 88a,True
+hc_00033_03,hc_00033_03.png,Sexo: F,True
+hc_00033_04,hc_00033_04.png,Dx: Partido del sábado,False
+hc_00033_05,hc_00033_05.png,"Tto: Visita al museo, Reunión de equipo",False
+hc_00033_06,hc_00033_06.png,Evol: Hoy hace mucho calor y no hay viento en toda la,False
+hc_00033_07,hc_00033_07.png,costa. Preparamos arroz con pollo para el almuerzo del,False
+hc_00033_08,hc_00033_08.png,domingo. Este libro cuenta la historia de un pueblo de la,False
+hc_00033_09,hc_00033_09.png,sierra,False
+hc_00034_00,hc_00034_00.png,Paciente: Rubén Huamán Ramos,True
+hc_00034_01,hc_00034_01.png,HC: 1339043 Fecha: 10/07/2019,True
+hc_00034_02,hc_00034_02.png,Edad: 46a,True
+hc_00034_03,hc_00034_03.png,Sexo: M,True
+hc_00034_04,hc_00034_04.png,DX: Revisar el contrato,False
+hc_00034_05,hc_00034_05.png,"Tto: Revisar el contrato, Reunión de equipo",False
+hc_00034_06,hc_00034_06.png,Evolución: Compramos una mesa nueva de,False
+hc_00034_07,hc_00034_07.png,madera para la cocina. El concierto empieza a,False
+hc_00034_08,hc_00034_08.png,las siete y las entradas se agotaron,False
+hc_00035_00,hc_00035_00.png,Paciente: Beatriz Ramírez Cárdenas,True
+hc_00035_01,hc_00035_01.png,HC: 3732089 F: 21/06/2019,True
+hc_00035_02,hc_00035_02.png,Edad: 64a Sexo: F,True
+hc_00035_03,hc_00035_03.png,Dx: Feria del libro,False
+hc_00035_04,hc_00035_04.png,"Rp: Partido del sábado, Cumpleaños de Ana",False
+hc_00035_05,hc_00035_05.png,Nota: La biblioteca abre de lunes a sábado desde las,False
+hc_00035_06,hc_00035_06.png,ocho. El museo exhibe pinturas del siglo diecinueve y,False
+hc_00035_07,hc_00035_07.png,esculturas antiguas. El taller de pintura se realizará,False
+hc_00035_08,hc_00035_08.png,en la casa de la cultura. Se perdió la llave del almacén y,False
+hc_00035_09,hc_00035_09.png,nadie sabe dónde quedó,False
+hc_00036_00,hc_00036_00.png,Pcte: Ramón Sánchez Sánchez,True
+hc_00036_01,hc_00036_01.png,HC: 6149528 F: 04/12/2025,True
+hc_00036_02,hc_00036_02.png,Edad: 35 a Sexo: M,True
+hc_00036_03,hc_00036_03.png,Dx: Visita al museo,False
+hc_00036_04,hc_00036_04.png,Tto: Partido del sábado,False
+hc_00036_05,hc_00036_05.png,Evolución: La panadería de la esquina,False
+hc_00036_06,hc_00036_06.png,vende los mejores panes de la zona.,False
+hc_00036_07,hc_00036_07.png,Hay veinte sillas en el salón y todas,False
+hc_00036_08,hc_00036_08.png,están ocupadas. Recuerda apagar las,False
+hc_00036_09,hc_00036_09.png,luces y cerrar la puerta al salir. Los,False
+hc_00036_10,hc_00036_10.png,estudiantes entregaron el informe final,False
+hc_00036_11,hc_00036_11.png,el viernes pasado,False
+hc_00037_00,hc_00037_00.png,Pcte: Óscar Salazar Cárdenas,True
+hc_00037_01,hc_00037_01.png,HC: 8686982,True
+hc_00037_02,hc_00037_02.png,Fecha: 16/10/2018,True
+hc_00037_03,hc_00037_03.png,Edad: 68 a Sexo: M,True
+hc_00037_04,hc_00037_04.png,Diagnóstico: Lista de compras,False
+hc_00037_05,hc_00037_05.png,"Tratamiento: Revisar el contrato, Lista de",False
+hc_00037_06,hc_00037_06.png,compras,False
+hc_00037_07,hc_00037_07.png,"Evol: Compré pan, queso, tomates y dos botellas de",False
+hc_00037_08,hc_00037_08.png,agua en el mercado. Necesito renovar el contrato,False
+hc_00037_09,hc_00037_09.png,de alquiler antes de fin de mes,False
+hc_00038_00,hc_00038_00.png,Pcte: Gloria Torres Castillo,True
+hc_00038_01,hc_00038_01.png,N° HCl: 9414577 F: 08/10/2023,True
+hc_00038_02,hc_00038_02.png,Edad: 71 años,True
+hc_00038_03,hc_00038_03.png,Sexo: F,True
+hc_00038_04,hc_00038_04.png,Diagnóstico: Lista de compras,False
+hc_00038_05,hc_00038_05.png,Tto: Clase de pintura,False
+hc_00038_06,hc_00038_06.png,Nota: La panadería de la esquina vende los mejores panes de la,False
+hc_00038_07,hc_00038_07.png,zona. Mañana temprano iremos al aeropuerto a recoger a mis,False
+hc_00038_08,hc_00038_08.png,tíos. Mañana tenemos reunión con el equipo a las nueve de la,False
+hc_00038_09,hc_00038_09.png,mañana,False
+hc_00039_00,hc_00039_00.png,Pcte: César Paredes Sánchez,True
+hc_00039_01,hc_00039_01.png,N° HCl: 4343276 F: 22/03/2023,True
+hc_00039_02,hc_00039_02.png,Edad: 41a,True
+hc_00039_03,hc_00039_03.png,Sexo: M,True
+hc_00039_04,hc_00039_04.png,Diagnóstico: Visita al museo,False
+hc_00039_05,hc_00039_05.png,"Tto: Visita al museo, Cumpleaños de Ana",False
+hc_00039_06,hc_00039_06.png,Nota: Mi vecino cría gallinas y vende huevos frescos,False
+hc_00039_07,hc_00039_07.png,todos los días. Este libro cuenta la historia de un pueblo,False
+hc_00039_08,hc_00039_08.png,de la sierra. La carretera estuvo cerrada por un,False
+hc_00039_09,hc_00039_09.png,derrumbe cerca del puente. Mi hermana viaja a Cusco,False
+hc_00039_10,hc_00039_10.png,el próximo martes con sus amigas,False
+hc_00040_00,hc_00040_00.png,Pcte: María Aguilar Díaz,True
+hc_00040_01,hc_00040_01.png,N° HC: 306664 Fecha: 13/07/2016,True
+hc_00040_02,hc_00040_02.png,Edad: 32 a,True
+hc_00040_03,hc_00040_03.png,Sexo: F,True
+hc_00040_04,hc_00040_04.png,Diagnóstico: Partido del sábado,False
+hc_00040_05,hc_00040_05.png,Tratamiento: Visita al museo,False
+hc_00040_06,hc_00040_06.png,Nota: El concierto empieza a las,False
+hc_00040_07,hc_00040_07.png,siete y las entradas se agotaron.,False
+hc_00040_08,hc_00040_08.png,"Compré pan, queso, tomates y dos",False
+hc_00040_09,hc_00040_09.png,botellas de agua en el mercado. Hay,False
+hc_00040_10,hc_00040_10.png,que pagar la factura de luz y la de,False
+hc_00040_11,hc_00040_11.png,internet esta semana. La,False
+hc_00040_12,hc_00040_12.png,panadería de la esquina vende los,False
+hc_00040_13,hc_00040_13.png,mejores panes de la zona. Compramos,False
+hc_00040_14,hc_00040_14.png,una mesa nueva de madera para la,False
+hc_00040_15,hc_00040_15.png,cocina,False
+hc_00041_00,hc_00041_00.png,Nombre: Ana Huamán García,True
+hc_00041_01,hc_00041_01.png,N° HC: 6186235,True
+hc_00041_02,hc_00041_02.png,F: 17/09/2023,True
+hc_00041_03,hc_00041_03.png,Edad: 43 a,True
+hc_00041_04,hc_00041_04.png,Sexo: F,True
+hc_00041_05,hc_00041_05.png,Diagnóstico: Viaje a Cusco,False
+hc_00041_06,hc_00041_06.png,Tratamiento: Lista de compras,False
+hc_00041_07,hc_00041_07.png,Nota: El taller de pintura se realizará en la casa de la,False
+hc_00041_08,hc_00041_08.png,cultura. Llamaré al plomero para arreglar la fuga del,False
+hc_00041_09,hc_00041_09.png,baño,False
+hc_00042_00,hc_00042_00.png,Nombre: Carmen Flores Vásquez,True
+hc_00042_01,hc_00042_01.png,N° HCl: 8412842 Fecha: 13/03/2019,True
+hc_00042_02,hc_00042_02.png,Edad: 84a Sexo: F,True
+hc_00042_03,hc_00042_03.png,Diagnóstico: Viaje a Cusco,False
+hc_00042_04,hc_00042_04.png,Rp: Arreglo del baño,False
+hc_00042_05,hc_00042_05.png,"Evolución: No olvides traer el cuaderno, los lápices y la",False
+hc_00042_06,hc_00042_06.png,regla. El gato duerme sobre el sillón junto a la ventana,False
+hc_00043_00,hc_00043_00.png,Paciente: Sonia Díaz Ramírez,True
+hc_00043_01,hc_00043_01.png,HC: 4811235,True
+hc_00043_02,hc_00043_02.png,F: 05/04/2025,True
+hc_00043_03,hc_00043_03.png,Edad: 58 años Sexo: F,True
+hc_00043_04,hc_00043_04.png,DX: Lista de compras,False
+hc_00043_05,hc_00043_05.png,"Tratamiento: Feria del libro, Reunión de equipo",False
+hc_00043_06,hc_00043_06.png,Evolución: La panadería de la esquina vende los mejores,False
+hc_00043_07,hc_00043_07.png,panes de la zona. Los niños jugaron en el parque,False
+hc_00043_08,hc_00043_08.png,hasta que oscureció. El sábado limpiamos el patio y,False
+hc_00043_09,hc_00043_09.png,pintamos la reja de verde,False
+hc_00044_00,hc_00044_00.png,Nombre: Gloria Mendoza Rojas,True
+hc_00044_01,hc_00044_01.png,N° HCl: 1300327 Fecha: 26/12/2018,True
+hc_00044_02,hc_00044_02.png,Edad: 68a,True
+hc_00044_03,hc_00044_03.png,Sexo: F,True
+hc_00044_04,hc_00044_04.png,Dx: Entrega del informe,False
+hc_00044_05,hc_00044_05.png,"Tratamiento: Visita al museo, Viaje a Cusco",False
+hc_00044_06,hc_00044_06.png,Evolución: El taller de pintura se realizará en,False
+hc_00044_07,hc_00044_07.png,la casa de la cultura. Mañana tenemos reunión,False
+hc_00044_08,hc_00044_08.png,con el equipo a las nueve de la mañana. La,False
+hc_00044_09,hc_00044_09.png,panadería de la esquina vende los mejores,False
+hc_00044_10,hc_00044_10.png,panes de la zona. La biblioteca abre de lunes,False
+hc_00044_11,hc_00044_11.png,a sábado desde las ocho. Compramos una mesa,False
+hc_00044_12,hc_00044_12.png,nueva de madera para la cocina,False
+hc_00045_00,hc_00045_00.png,Paciente: Julia Ríos Cárdenas,True
+hc_00045_01,hc_00045_01.png,N° HCl: 3238253 F: 20/02/2024,True
+hc_00045_02,hc_00045_02.png,Edad: 41 a,True
+hc_00045_03,hc_00045_03.png,Sexo: F,True
+hc_00045_04,hc_00045_04.png,Dx: Arreglo del baño,False
+hc_00045_05,hc_00045_05.png,"Tratamiento: Partido del sábado, Lista",False
+hc_00045_06,hc_00045_06.png,de compras,False
+hc_00045_07,hc_00045_07.png,Evolución: La reunión de vecinos será en,False
+hc_00045_08,hc_00045_08.png,el local comunal a las seis. El taller de,False
+hc_00045_09,hc_00045_09.png,pintura se realizará en la casa de la,False
+hc_00045_10,hc_00045_10.png,cultura. El camino hacia la laguna es,False
+hc_00045_11,hc_00045_11.png,largo pero el paisaje vale la pena. La,False
+hc_00045_12,hc_00045_12.png,panadería de la esquina vende los mejores,False
+hc_00045_13,hc_00045_13.png,panes de la zona. Preparamos arroz con,False
+hc_00045_14,hc_00045_14.png,pollo para el almuerzo del domingo,False
+hc_00046_00,hc_00046_00.png,Paciente: Hugo Vargas Salazar,True
+hc_00046_01,hc_00046_01.png,N° HC: 1645368,True
+hc_00046_02,hc_00046_02.png,Fecha: 04/05/2025,True
+hc_00046_03,hc_00046_03.png,Edad: 66a,True
+hc_00046_04,hc_00046_04.png,Sexo: M,True
+hc_00046_05,hc_00046_05.png,Dx: Revisar el contrato,False
+hc_00046_06,hc_00046_06.png,Tratamiento: Feria del libro,False
+hc_00046_07,hc_00046_07.png,Nota: El río crece en época de lluvias y,False
+hc_00046_08,hc_00046_08.png,arrastra troncos y piedras. No olvides,False
+hc_00046_09,hc_00046_09.png,"traer el cuaderno, los lápices y la regla",False
+hc_00047_00,hc_00047_00.png,Pcte: César Chávez Sánchez,True
+hc_00047_01,hc_00047_01.png,HC: 958474 F: 01/07/2024,True
+hc_00047_02,hc_00047_02.png,Edad: 43 a,True
+hc_00047_03,hc_00047_03.png,Sexo: M,True
+hc_00047_04,hc_00047_04.png,DX: Reunión de equipo,False
+hc_00047_05,hc_00047_05.png,Rp: Viaje a Cusco,False
+hc_00047_06,hc_00047_06.png,Evolución: La carretera estuvo cerrada por un,False
+hc_00047_07,hc_00047_07.png,derrumbe cerca del puente. Mi vecino cría,False
+hc_00047_08,hc_00047_08.png,gallinas y vende huevos frescos todos los días. La,False
+hc_00047_09,hc_00047_09.png,panadería de la esquina vende los mejores,False
+hc_00047_10,hc_00047_10.png,panes de la zona. Hoy hace mucho calor y no hay,False
+hc_00047_11,hc_00047_11.png,viento en toda la costa. El jardín necesita agua,False
+hc_00047_12,hc_00047_12.png,dos veces por semana en verano,False
+hc_00048_00,hc_00048_00.png,Pcte: Patricia Ramírez Núñez,True
+hc_00048_01,hc_00048_01.png,N° HC: 1396136 Fecha: 23/11/2017,True
+hc_00048_02,hc_00048_02.png,Edad: 46a,True
+hc_00048_03,hc_00048_03.png,Sexo: F,True
+hc_00048_04,hc_00048_04.png,Diagnóstico: Pago de servicios,False
+hc_00048_05,hc_00048_05.png,Tratamiento: Cumpleaños de Ana,False
+hc_00048_06,hc_00048_06.png,"Evolución: No olvides traer el cuaderno, los lápices y la",False
+hc_00048_07,hc_00048_07.png,regla. Mi vecino cría gallinas y vende huevos frescos,False
+hc_00048_08,hc_00048_08.png,todos los días. Se perdió la llave del almacén y nadie,False
+hc_00048_09,hc_00048_09.png,sabe dónde quedó,False
+hc_00049_00,hc_00049_00.png,Nombre: Carlos Vargas Castillo,True
+hc_00049_01,hc_00049_01.png,N° HC: 1859717 F: 28/07/2019,True
+hc_00049_02,hc_00049_02.png,Edad: 68 años Sexo: M,True
+hc_00049_03,hc_00049_03.png,Dx: Entrega del informe,False
+hc_00049_04,hc_00049_04.png,Rp: Revisar el contrato,False
+hc_00049_05,hc_00049_05.png,Nota: Mañana temprano iremos al aeropuerto a recoger a,False
+hc_00049_06,hc_00049_06.png,mis tíos. La panadería de la esquina vende los,False
+hc_00049_07,hc_00049_07.png,mejores panes de la zona. La carretera estuvo,False
+hc_00049_08,hc_00049_08.png,cerrada por un derrumbe cerca del puente. El profesor,False
+hc_00049_09,hc_00049_09.png,explicó el teorema con un ejemplo muy claro. El taller,False
+hc_00049_10,hc_00049_10.png,de pintura se realizará en la casa de la cultura,False
+hc_00050_00,hc_00050_00.png,Nombre: Mario Sánchez Vargas,True
+hc_00050_01,hc_00050_01.png,HC: 4999999 F: 23/12/2025,True
+hc_00050_02,hc_00050_02.png,Edad: 23a,True
+hc_00050_03,hc_00050_03.png,Sexo: M,True
+hc_00050_04,hc_00050_04.png,Dx: Reunión de equipo,False
+hc_00050_05,hc_00050_05.png,"Tto: Feria del libro, Lista de compras",False
+hc_00050_06,hc_00050_06.png,Evol: El gato duerme sobre el sillón,False
+hc_00050_07,hc_00050_07.png,junto a la ventana. La lluvia de,False
+hc_00050_08,hc_00050_08.png,anoche dejó las calles llenas de,False
+hc_00050_09,hc_00050_09.png,"barro. No olvides traer el cuaderno,",False
+hc_00050_10,hc_00050_10.png,los lápices y la regla,False
+hc_00051_00,hc_00051_00.png,Nombre: Norma Sánchez Mamani,True
+hc_00051_01,hc_00051_01.png,N° HCl: 5149619,True
+hc_00051_02,hc_00051_02.png,Fecha: 13/11/2020,True
+hc_00051_03,hc_00051_03.png,Edad: 52 a Sexo: F,True
+hc_00051_04,hc_00051_04.png,Dx: Viaje a Cusco,False
+hc_00051_05,hc_00051_05.png,"Tto: Viaje a Cusco, Clase de pintura",False
+hc_00051_06,hc_00051_06.png,Evol: La empresa abrió una nueva sucursal en el centro,False
+hc_00051_07,hc_00051_07.png,de la ciudad. El taller de pintura se realizará en la,False
+hc_00051_08,hc_00051_08.png,casa de la cultura,False
+hc_00052_00,hc_00052_00.png,Pcte: Juan García Aguilar,True
+hc_00052_01,hc_00052_01.png,N° HC: 589201 F: 16/09/2024,True
+hc_00052_02,hc_00052_02.png,Edad: 85a Sexo: M,True
+hc_00052_03,hc_00052_03.png,Diagnóstico: Arreglo del baño,False
+hc_00052_04,hc_00052_04.png,Tratamiento: Pago de servicios,False
+hc_00052_05,hc_00052_05.png,Nota: Escribí una carta a mi abuela,False
+hc_00052_06,hc_00052_06.png,contándole sobre el viaje. Hay veinte sillas,False
+hc_00052_07,hc_00052_07.png,en el salón y todas están ocupadas. La,False
+hc_00052_08,hc_00052_08.png,empresa abrió una nueva sucursal en el centro,False
+hc_00052_09,hc_00052_09.png,de la ciudad,False
+hc_00053_00,hc_00053_00.png,Nombre: Ángel Díaz Gutiérrez,True
+hc_00053_01,hc_00053_01.png,HC: 5324023 F: 11/10/2023,True
+hc_00053_02,hc_00053_02.png,Edad: 61a Sexo: M,True
+hc_00053_03,hc_00053_03.png,Diagnóstico: Reunión de equipo,False
+hc_00053_04,hc_00053_04.png,"Tto: Cumpleaños de Ana, Visita al museo",False
+hc_00053_05,hc_00053_05.png,Evol: El camino hacia la laguna es largo pero el,False
+hc_00053_06,hc_00053_06.png,"paisaje vale la pena. Compré pan, queso,",False
+hc_00053_07,hc_00053_07.png,tomates y dos botellas de agua en el,False
+hc_00053_08,hc_00053_08.png,mercado. Hoy hace mucho calor y no hay,False
+hc_00053_09,hc_00053_09.png,viento en toda la costa. La empresa abrió una,False
+hc_00053_10,hc_00053_10.png,nueva sucursal en el centro de la ciudad,False
+hc_00054_00,hc_00054_00.png,Nombre: Víctor Gutiérrez Paredes,True
+hc_00054_01,hc_00054_01.png,N° HC: 3611205 Fecha: 23/10/2020,True
+hc_00054_02,hc_00054_02.png,Edad: 30 años,True
+hc_00054_03,hc_00054_03.png,Sexo: M,True
+hc_00054_04,hc_00054_04.png,Dx: Partido del sábado,False
+hc_00054_05,hc_00054_05.png,"Tto: Feria del libro, Viaje a Cusco",False
+hc_00054_06,hc_00054_06.png,Evol: Mi vecino cría gallinas y vende,False
+hc_00054_07,hc_00054_07.png,huevos frescos todos los días. No olvides,False
+hc_00054_08,hc_00054_08.png,"traer el cuaderno, los lápices y la",False
+hc_00054_09,hc_00054_09.png,regla. La empresa abrió una nueva,False
+hc_00054_10,hc_00054_10.png,sucursal en el centro de la ciudad. Hoy,False
+hc_00054_11,hc_00054_11.png,hace mucho calor y no hay viento en toda,False
+hc_00054_12,hc_00054_12.png,la costa,False
+hc_00055_00,hc_00055_00.png,Paciente: Félix Aguilar García,True
+hc_00055_01,hc_00055_01.png,N° HC: 6021621,True
+hc_00055_02,hc_00055_02.png,Fecha: 09/06/2017,True
+hc_00055_03,hc_00055_03.png,Edad: 84 años,True
+hc_00055_04,hc_00055_04.png,Sexo: M,True
+hc_00055_05,hc_00055_05.png,Dx: Revisar el contrato,False
+hc_00055_06,hc_00055_06.png,"Tratamiento: Viaje a Cusco, Cumpleaños de",False
+hc_00055_07,hc_00055_07.png,Ana,False
+hc_00055_08,hc_00055_08.png,Evolución: El jardín necesita agua dos veces,False
+hc_00055_09,hc_00055_09.png,por semana en verano. No olvides traer el,False
+hc_00055_10,hc_00055_10.png,"cuaderno, los lápices y la regla. La carretera",False
+hc_00055_11,hc_00055_11.png,estuvo cerrada por un derrumbe cerca del,False
+hc_00055_12,hc_00055_12.png,puente. Este libro cuenta la historia de un,False
+hc_00055_13,hc_00055_13.png,pueblo de la sierra. La lluvia de anoche dejó,False
+hc_00055_14,hc_00055_14.png,las calles llenas de barro,False
+hc_00056_00,hc_00056_00.png,Paciente: Gloria Vargas Sánchez,True
+hc_00056_01,hc_00056_01.png,N° HC: 1538107 Fecha: 09/01/2020,True
+hc_00056_02,hc_00056_02.png,Edad: 45 a Sexo: F,True
+hc_00056_03,hc_00056_03.png,Diagnóstico: Viaje a Cusco,False
+hc_00056_04,hc_00056_04.png,"Tto: Pago de servicios, Partido del sábado",False
+hc_00056_05,hc_00056_05.png,Nota: Preparamos arroz con pollo para el almuerzo del domingo. La,False
+hc_00056_06,hc_00056_06.png,empresa abrió una nueva sucursal en el centro de la ciudad. Hay,False
+hc_00056_07,hc_00056_07.png,que pagar la factura de luz y la de internet esta semana,False
+hc_00057_00,hc_00057_00.png,Nombre: José Salazar Rojas,True
+hc_00057_01,hc_00057_01.png,HC: 1952745,True
+hc_00057_02,hc_00057_02.png,Fecha: 27/09/2021,True
+hc_00057_03,hc_00057_03.png,Edad: 28 a Sexo: M,True
+hc_00057_04,hc_00057_04.png,DX: Pago de servicios,False
+hc_00057_05,hc_00057_05.png,Tto: Reunión de equipo,False
+hc_00057_06,hc_00057_06.png,Nota: Este libro cuenta la historia de,False
+hc_00057_07,hc_00057_07.png,un pueblo de la sierra. La reunión de,False
+hc_00057_08,hc_00057_08.png,vecinos será en el local comunal a las,False
+hc_00057_09,hc_00057_09.png,seis,False
+hc_00058_00,hc_00058_00.png,Paciente: Isabel Sánchez Aguilar,True
+hc_00058_01,hc_00058_01.png,N° HC: 5292732,True
+hc_00058_02,hc_00058_02.png,F: 10/06/2020,True
+hc_00058_03,hc_00058_03.png,Edad: 62 años Sexo: F,True
+hc_00058_04,hc_00058_04.png,DX: Entrega del informe,False
+hc_00058_05,hc_00058_05.png,Tto: Reunión de equipo,False
+hc_00058_06,hc_00058_06.png,Evolución: La reunión de vecinos será en el,False
+hc_00058_07,hc_00058_07.png,local comunal a las seis. Escribí una carta a,False
+hc_00058_08,hc_00058_08.png,mi abuela contándole sobre el viaje. Los,False
+hc_00058_09,hc_00058_09.png,estudiantes entregaron el informe final el,False
+hc_00058_10,hc_00058_10.png,viernes pasado,False
+hc_00059_00,hc_00059_00.png,Nombre: Andrés Salazar Chávez,True
+hc_00059_01,hc_00059_01.png,N° HC: 3825997 Fecha: 26/08/2015,True
+hc_00059_02,hc_00059_02.png,Edad: 70 años Sexo: M,True
+hc_00059_03,hc_00059_03.png,DX: Cumpleaños de Ana,False
+hc_00059_04,hc_00059_04.png,"Rp: Pago de servicios, Visita al museo",False
+hc_00059_05,hc_00059_05.png,Nota: Mi hermana viaja a Cusco el próximo,False
+hc_00059_06,hc_00059_06.png,martes con sus amigas. El tren sale de la,False
+hc_00059_07,hc_00059_07.png,estación central a las 14:30. El gato duerme,False
+hc_00059_08,hc_00059_08.png,sobre el sillón junto a la ventana. Hay que,False
+hc_00059_09,hc_00059_09.png,pagar la factura de luz y la de internet,False
+hc_00059_10,hc_00059_10.png,esta semana. Llamaré al plomero para arreglar,False
+hc_00059_11,hc_00059_11.png,la fuga del baño,False

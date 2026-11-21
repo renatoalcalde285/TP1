@@ -1,0 +1,24 @@
+{
+  "name": "TrOCR-large-handwritten",
+  "hf_id": "microsoft/trocr-large-handwritten",
+  "license": "MIT",
+  "load_s": 22.81222105026245,
+  "vram_peak_gb": 1.135106048,
+  "n": 5010,
+  "gpus": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "gpu_mem_after_load_gb": [
+    1.13,
+    0.0
+  ],
+  "gpu_peak_gb_per_device": [
+    1.14,
+    0.0
+  ],
+  "n_gpus_used": 1,
+  "device_map": "cuda:0",
+  "transformers": "5.20.2",
+  "lora_dir": null
+}

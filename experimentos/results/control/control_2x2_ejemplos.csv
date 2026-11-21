@@ -1,0 +1,25 @@
+condición,ref,zero-shot,LoRA
+clinico_original,DX: Sarcoma de partes blandas,DK: Sarcoma de partes blandas,DX: Sarcoma de partes blandas
+clinico_original,"Tto: metoclopramida 10 mg EV c/8h,","Tto: metoclopramide 10 mg EV c/8h,","Tto: metoclopramida 10 mg EV c/8h,"
+clinico_original,filgrastim 300 mcg SC C4,f11grastlm 300 mcg SC C4,filgrastim 300 mcg SC C4
+clinico_original,Nota: No había signos sugestivos de,Nota: Notables signos sugestivos de,Nota: Notable signos sugestivos de
+pseudopalabras,DX: Ahaedus us csiial dannbkr,Dx: Ahedus us (silas) dannbKr,DX: Ahaedura us ciliaris daninha
+pseudopalabras,"Tto: olcruqtohtdose 10 df NA i/8p,","Tto: ol/cruqtoht dose 10 df NA 1/8p,","Tto: orciclohtidose 10 mg VO 1/8p,"
+pseudopalabras,uasiaakpaj 300 rre AD K4,uasiaakpaj300 rre A>K4,uasiaquí 300 g/día K4
+pseudopalabras,Nota: Ae oolóe oeeltw ikuzhrthsz in,Nota: Ae oo/oe oee/hw Kuzhrthsz In,Nota: Al ocluirse ocluiron Kuzhrthsz lin
+general_es,DX: Reunión de equipo,DX: Reunión de equipo,DX: Reunión de equipo
+general_es,"Tto: Cumpleaños de Ana, Partido del","Tito: Cumpleaños de Ans, Partido del","Tto: Cumpleaños de Ans, Partido del"
+general_es,sábado,sábado,sábado
+general_es,Nota: El río crece en época de lluvias y,Nota: El río crece en época de lluvias y,Nota: El río crece en época de lluvias y
+numeros,DX: 03/01/2025 163/120,03/01/2025 16:31:20,DX: 03/01/2025 16h120
+numeros,Tto: 149/116 4846278 9.81 38.8,T+0: 149/164846278 9.81 38.8,Tto: 149/116 4846278 9.81 38.8
+numeros,Nota: 27/11/2019 118/60 346 13/08/2021,Nota: 27/11/2019 118/60 346 13/08/2021,Nota: 27/11/2019 H18:60 346 13/08/2021
+numeros,7854267 140/118 789 mcg 64 194/52,1854267140/118789mcg64194/52,1854267 140/118 789 mcg 64 194/52
+clinico_barajado,DX: partes blandas de Sarcoma,DX: partes blandas de Sarcoma,DX: partes blandas de Sarcoma
+clinico_barajado,"Tto: mg C4 c/8h, mcg EV 10 SC 300","TTo: mg C4 c/8h, mcg EV 10 SC 300","Tto: mg C4 c/8h, mcg EV VO SC 300"
+clinico_barajado,filgrastim metoclopramida,fll gras fim metoclopramida,filgrastim metoclopramida
+clinico_barajado,Nota: hemocultivos obtenidas penicilina signos,Nota: hemocultivos obtenidas penicillina signos,Nota: hemocultivos obtenidos penicilina signos
+rodrigo_texto,DX: Auila corria alli monte y hallo ende vn,DX: Au Va corria all' montey y haNo ende un,DX: Avia corria al lir montey hallo ende un
+rodrigo_texto,"Tto: poblaron desde Amano tarro, montes de","Tto: poblaron desde Amano tarro, montes de","Tto: poblaron desde Amano tarro, montes de"
+rodrigo_texto,cilicia y siria que,cilia y siria que,cicatriz y sitio que
+rodrigo_texto,Nota: ua Ca sabian que era hombre noble muy,Nota: no Ca sabían que era hombre noble muy,Nota: se sabía que era hombre noble muy

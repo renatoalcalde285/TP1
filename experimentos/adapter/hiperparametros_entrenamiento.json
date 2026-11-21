@@ -1,0 +1,27 @@
+{
+ "modelo_base": "Qwen/Qwen2.5-VL-3B-Instruct",
+ "comando": "python train_qwen_lora.py --train data_synth/train.jsonl --val data_synth/val.jsonl --out runs/synth-lora --qlora --fp16 --bs 1 --grad_accum 16 --max_pixels 401408 --epochs 2 --model Qwen/Qwen2.5-VL-3B-Instruct",
+ "lora": {
+  "r": 16,
+  "alpha": 32,
+  "dropout": 0.05,
+  "modulos": "decodificador de lenguaje (q,k,v,o,gate,up,down); codificador visual excluido"
+ },
+ "entrenamiento": {
+  "epocas": 2,
+  "lote": 1,
+  "acumulacion": 16,
+  "lote_efectivo": 16,
+  "lr": 0.0001,
+  "scheduler": "cosine",
+  "warmup_pasos": 34,
+  "weight_decay": 0.0,
+  "precision": "fp16",
+  "cuantizacion_base": "4 bits NF4 (--qlora)",
+  "eval_cada_pasos": 200,
+  "semilla": 42
+ },
+ "parametros_adaptador": 29933568,
+ "lineas_train": 9255,
+ "nota": "Pesos (adapter_model.safetensors) publicados aparte; no se conservó trainer_state.json."
+}

@@ -1,0 +1,7 @@
+modelo,tokens_críticos,tasa_error_tokens_críticos (%),líneas_con_dato_crítico,% líneas con ≥1 error crítico,tasa_error_cifras/fechas (%),tasa_error_unidades (%)
+florence2,1890,88.41,1141,89.92,88.88,85.31
+qwen25vl,1890,19.21,1141,27.96,20.79,8.57
+qwen25vl3b,1890,24.23,1141,34.71,26.26,10.61
+qwen25vl3b_lora,1890,7.04,1141,10.96,7.9,1.22
+qwen25vl7b_4bit,1890,21.9,1141,31.29,23.71,9.8
+trocr,1890,55.29,1141,69.15,59.51,26.94

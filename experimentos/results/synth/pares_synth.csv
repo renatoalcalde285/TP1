@@ -1,0 +1,9 @@
+par (a→b),métrica,a,b,Δ=b−a [IC95 cluster],p(Δ≥0),Wilcoxon p (por cluster),r rango-biserial,dz de Cohen,% clusters peores
+qwen25vl3b→qwen25vl3b_lora,CER,6.45,1.45,"-5.00 [-5.38, -4.64]",0.0,5.062462867323452e-34,-0.992,-1.853,0.5
+qwen25vl3b→qwen25vl3b_lora,WER,22.56,4.76,"-17.81 [-18.88, -16.80]",0.0,,,,
+qwen25vl3b→qwen25vl3b_lora,CER norm,5.37,1.32,"-4.05 [-4.40, -3.70]",0.0,,,,
+qwen25vl3b→qwen25vl3b_lora,WER norm,17.51,3.96,"-13.56 [-14.47, -12.67]",0.0,,,,
+qwen25vl→qwen25vl7b_4bit,CER,3.97,4.37,"+0.40 [+0.23, +0.59]",1.0,2.7135216332601515e-05,0.353,0.308,59.0
+qwen25vl→qwen25vl7b_4bit,WER,15.21,15.93,"+0.72 [+0.34, +1.12]",1.0,,,,
+qwen25vl→qwen25vl7b_4bit,CER norm,3.06,3.43,"+0.37 [+0.23, +0.51]",1.0,,,,
+qwen25vl→qwen25vl7b_4bit,WER norm,10.84,11.61,"+0.77 [+0.42, +1.12]",1.0,,,,

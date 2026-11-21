@@ -1,0 +1,24 @@
+{
+  "name": "Qwen2.5-VL-3B-Instruct",
+  "hf_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "license": "Qwen Research (no comercial)",
+  "load_s": 5.144639492034912,
+  "vram_peak_gb": 7.533826048000001,
+  "n": 599,
+  "gpus": [
+    "Tesla T4",
+    "Tesla T4"
+  ],
+  "gpu_mem_after_load_gb": [
+    7.52,
+    0.0
+  ],
+  "gpu_peak_gb_per_device": [
+    7.54,
+    0.0
+  ],
+  "n_gpus_used": 1,
+  "device_map": "cuda:0",
+  "transformers": "5.20.2",
+  "lora_dir": null
+}
