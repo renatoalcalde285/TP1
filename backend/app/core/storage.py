@@ -1,16 +1,15 @@
 import boto3
 
 from app.core.config import (
-    RUSTFS_ENDPOINT,
     RUSTFS_ACCESS_KEY,
     RUSTFS_SECRET_KEY,
 )
 
-BUCKET_NAME = "documentos"
+BUCKET_NAME = "tp1-inen-demo"
 
 s3_client = boto3.client(
     "s3",
-    endpoint_url=f"http://{RUSTFS_ENDPOINT}",
+    region_name="sa-east-1",
     aws_access_key_id=RUSTFS_ACCESS_KEY,
     aws_secret_access_key=RUSTFS_SECRET_KEY,
 )
@@ -28,5 +27,8 @@ def ensure_bucket():
     if BUCKET_NAME not in nombres:
 
         s3_client.create_bucket(
-            Bucket=BUCKET_NAME
+            Bucket=BUCKET_NAME,
+            CreateBucketConfiguration={
+                "LocationConstraint": "sa-east-1"
+            }
         )
